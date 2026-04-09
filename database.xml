@@ -1,0 +1,3009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Священное Писание Безумного IT: 1000 Заповедей в Стиле Иисуса -->
+<holy_it_scripture>
+  <title>Евангелие от Программиста: 1000 Заповедей Безумного IT</title>
+  <subtitle>Истинно говорю вам, дети мои...</subtitle>
+  <tips>
+    <tip number="1" category="git">
+      <text>Говорю вам истинно: не пуши в main напрямую, ибо грех сей не простится тебе ни в этом спринте, ни в следующем.</text>
+    </tip>
+    <tip number="2" category="git">
+      <text>Блаженны те, кто пишут осмысленные commit-сообщения, ибо они наследуют читаемую историю репозитория.</text>
+    </tip>
+    <tip number="3" category="git">
+      <text>Возлюби ветку свою feature как самого себя, но не забудь вовремя её сделать merge.</text>
+    </tip>
+    <tip number="4" category="git">
+      <text>Да не войдёт в сердце твоё страх перед git rebase — лишь невежды боятся переписать историю.</text>
+    </tip>
+    <tip number="5" category="git">
+      <text>Кто делает git push --force на shared ветке, тот уподобляется безумцу, строящему дом на песке.</text>
+    </tip>
+    <tip number="6" category="git">
+      <text>Ищите и найдёте нужный коммит; стучите — и git log откроет вам правду.</text>
+    </tip>
+    <tip number="7" category="git">
+      <text>Не судите pull request по размеру его, ибо тысяча строк изменений — уже не PR, а крест.</text>
+    </tip>
+    <tip number="8" category="git">
+      <text>Горе вам, делающим git commit -m 'fix'! Ибо через год никто не поймёт, что именно было сломано.</text>
+    </tip>
+    <tip number="9" category="git">
+      <text>Истинно говорю: .gitignore должен быть написан до первого коммита, а не после.</text>
+    </tip>
+    <tip number="10" category="git">
+      <text>Тот, кто закоммитил credentials в репозиторий, уже получил возмездие своё — в виде письма от GitHub Security.</text>
+    </tip>
+    <tip number="11" category="code">
+      <text>Возлюбите чистый код как самого себя — особенно когда завтра его читать вам самим.</text>
+    </tip>
+    <tip number="12" category="code">
+      <text>Блаженны пишущие комментарии к коду своему, ибо коллеги не проклянут их втайне.</text>
+    </tip>
+    <tip number="13" category="code">
+      <text>Говорю вам: функция длиннее 30 строк — уже не функция, а исповедь.</text>
+    </tip>
+    <tip number="14" category="code">
+      <text>Не сотвори себе магического числа, ибо 42 без объяснений есть ложный бог в коде твоём.</text>
+    </tip>
+    <tip number="15" category="code">
+      <text>Кто не пишет тесты — тот не программист, а оптимист, и оптимизм его будет наказан в пятницу вечером.</text>
+    </tip>
+    <tip number="16" category="code">
+      <text>Истинно: любой код, который 'работает на моей машине', не работает нигде.</text>
+    </tip>
+    <tip number="17" category="code">
+      <text>Нарекайте переменные именами их истинными, а не 'temp2', 'x', 'aaa' или 'final_FINAL_v3'.</text>
+    </tip>
+    <tip number="18" category="code">
+      <text>Горе вам, копирующим код из Stack Overflow без понимания! Ибо баг его перейдёт на детей ваших до третьего рефакторинга.</text>
+    </tip>
+    <tip number="19" category="code">
+      <text>Блаженны практикующие code review, ибо они узнают правду о ближнем своём.</text>
+    </tip>
+    <tip number="20" category="code">
+      <text>Говорю вам: DRY — не просто принцип, это заповедь. Не повторяйся. Не повторяйся. Не повторяйся.</text>
+    </tip>
+    <tip number="21" category="code">
+      <text>Не делай преждевременной оптимизации, ибо это корень всех зол — так сказал Кнут, и он был прав.</text>
+    </tip>
+    <tip number="22" category="code">
+      <text>Блажен тот разработчик, что оставляет код чуть лучше, чем нашёл его. Это правило бойскаута, а не просьба.</text>
+    </tip>
+    <tip number="23" category="code">
+      <text>Воистину: null pointer exception — это способ кода сказать тебе, что ты забыл про краевой случай.</text>
+    </tip>
+    <tip number="24" category="code">
+      <text>Да не смущает вас число строк кода — мудрость в краткости, а не в многословии.</text>
+    </tip>
+    <tip number="25" category="code">
+      <text>Говорю вам: TODO в коде — это молитва, которую никто никогда не исполнит.</text>
+    </tip>
+    <tip number="26" category="code">
+      <text>Блаженны те, кто понимают разницу между == и ===, ибо им не придётся искать баг три часа.</text>
+    </tip>
+    <tip number="27" category="code">
+      <text>Не создавай God Object, ибо всемогущество в коде — путь к хаосу.</text>
+    </tip>
+    <tip number="28" category="code">
+      <text>Истинно говорю: регулярные выражения — это тёмные заклинания. Пиши их с комментариями.</text>
+    </tip>
+    <tip number="29" category="code">
+      <text>Кто пишет код без линтера — тот уподобляется пастуху без посоха: потеряет овец своих в отступах.</text>
+    </tip>
+    <tip number="30" category="code">
+      <text>Воздержитесь от наследования глубже трёх уровней, ибо дальше начинается тьма египетская.</text>
+    </tip>
+    <tip number="31" category="debug">
+      <text>Ищите баг в первую очередь в своём коде, а не в коде библиотеки — ибо смиренномудрие есть начало отладки.</text>
+    </tip>
+    <tip number="32" category="debug">
+      <text>Говорю вам: console.log('здесь') в production — это исповедь лентяя.</text>
+    </tip>
+    <tip number="33" category="debug">
+      <text>Блаженны те, кто умеют пользоваться debugger, ибо они не тратят три часа на print-отладку.</text>
+    </tip>
+    <tip number="34" category="debug">
+      <text>Воистину: если баг исчезает при добавлении логов — это Шрёдингер-баг, и ты в нём виноват.</text>
+    </tip>
+    <tip number="35" category="debug">
+      <text>Не говори 'у меня работает' — говори 'у меня не воспроизводится'. Это честнее.</text>
+    </tip>
+    <tip number="36" category="debug">
+      <text>Истинно: объяснение бага резиновой уточке исцеляет скорее, чем три часа в Stack Overflow.</text>
+    </tip>
+    <tip number="37" category="debug">
+      <text>Первый шаг отладки — перечитать сообщение об ошибке. Кто его игнорирует, тот слеп добровольно.</text>
+    </tip>
+    <tip number="38" category="debug">
+      <text>Горе тому, кто меняет случайные части кода в надежде починить баг! Сие называется 'programming by coincidence'.</text>
+    </tip>
+    <tip number="39" category="debug">
+      <text>Блажен пишущий минимальный воспроизводящий пример — ибо он уже на полпути к решению.</text>
+    </tip>
+    <tip number="40" category="debug">
+      <text>Говорю вам: большинство багов живут не там, где ты ищешь. Ищи там, где не смотрел.</text>
+    </tip>
+    <tip number="41" category="database">
+      <text>Да не войдёт в soul твою SELECT * в production — ибо это расточительство и небрежение индексами.</text>
+    </tip>
+    <tip number="42" category="database">
+      <text>Блаженны нормализующие схему свою до третьей нормальной формы, ибо они избегнут аномалий обновления.</text>
+    </tip>
+    <tip number="43" category="database">
+      <text>Воистину говорю: транзакции существуют не для красоты, а для спасения данных твоих.</text>
+    </tip>
+    <tip number="44" category="database">
+      <text>Не делай миграций без rollback-плана, ибо путь в production без пути назад — это путь в никуда.</text>
+    </tip>
+    <tip number="45" category="database">
+      <text>Истинно: без индекса на колонку в WHERE — ты заставляешь базу перебирать все строки, как грешник перебирает четки.</text>
+    </tip>
+    <tip number="46" category="database">
+      <text>Горе удаляющим данные без soft delete в первый раз — восстановления не будет.</text>
+    </tip>
+    <tip number="47" category="database">
+      <text>Блаженны делающие бэкапы и проверяющие их, ибо они не заплачут в 3 ночи.</text>
+    </tip>
+    <tip number="48" category="database">
+      <text>Говорю вам: N+1 query — это тихий убийца производительности вашего приложения.</text>
+    </tip>
+    <tip number="49" category="database">
+      <text>Не храни пароли в открытом виде в базе данных, ибо это грех, который аудит не простит.</text>
+    </tip>
+    <tip number="50" category="database">
+      <text>Воистину: EXPLAIN ANALYZE — это рентген для медленных запросов. Использующий его — мудрец.</text>
+    </tip>
+    <tip number="51" category="devops">
+      <text>Говорю вам: всё должно быть в коде — инфраструктура, конфиги, документация. Если не в репо — его не существует.</text>
+    </tip>
+    <tip number="52" category="devops">
+      <text>Блаженны практикующие Infrastructure as Code, ибо они смогут поднять всё заново за час.</text>
+    </tip>
+    <tip number="53" category="devops">
+      <text>Не кликай вручную в production — автоматизируй или страдай от несогласованности.</text>
+    </tip>
+    <tip number="54" category="devops">
+      <text>Истинно: контейнер без health check — это слепой на дороге. Используй HEALTHCHECK в Dockerfile.</text>
+    </tip>
+    <tip number="55" category="devops">
+      <text>Горе тому, кто держит секреты в переменных окружения в Dockerfile! Ибо образ ваш — открытая книга.</text>
+    </tip>
+    <tip number="56" category="devops">
+      <text>Блажен строящий pipeline CI/CD, ибо он освобождает руки свои от монотонного труда.</text>
+    </tip>
+    <tip number="57" category="devops">
+      <text>Воистину: мониторинг без алертинга — это камера наблюдения без записи.</text>
+    </tip>
+    <tip number="58" category="devops">
+      <text>Говорю вам: логи должны быть structured — ибо grep по plain text в 2026 году есть архаизм.</text>
+    </tip>
+    <tip number="59" category="devops">
+      <text>Не деплой в пятницу после обеда, ибо выходные твои станут поминками по production.</text>
+    </tip>
+    <tip number="60" category="devops">
+      <text>Истинно: blue-green deployment — это то, как деплоить без молитвы богам доступности.</text>
+    </tip>
+    <tip number="61" category="devops">
+      <text>Блаженны практикующие chaos engineering, ибо они узнают слабые места системы до пользователей.</text>
+    </tip>
+    <tip number="62" category="devops">
+      <text>Воистину: один сервер — это точка отказа. Два — иллюзия надёжности. Три — начало архитектуры.</text>
+    </tip>
+    <tip number="63" category="devops">
+      <text>Говорю вам: rate limiting — это не жадность, это забота о системе своей.</text>
+    </tip>
+    <tip number="64" category="devops">
+      <text>Не храни state в подах Kubernetes, ибо под смертен, а данные должны быть вечны.</text>
+    </tip>
+    <tip number="65" category="devops">
+      <text>Истинно: resource limits в K8s — это десять заповедей кластера. Без них — хаос.</text>
+    </tip>
+    <tip number="66" category="security">
+      <text>Говорю вам: HTTPS везде, без исключений. HTTP в наши дни — это открытка с паролем на почте.</text>
+    </tip>
+    <tip number="67" category="security">
+      <text>Блаженны проводящие penetration testing до того, как это сделают злоумышленники.</text>
+    </tip>
+    <tip number="68" category="security">
+      <text>Не доверяй вводу пользователя — ни одному символу, ни одному байту. Каждый из них потенциально враждебен.</text>
+    </tip>
+    <tip number="69" category="security">
+      <text>Воистину: принцип наименьших привилегий — это смирение в мире доступов.</text>
+    </tip>
+    <tip number="70" category="security">
+      <text>Горе хранящим API ключи в коде! Ибо GitHub найдёт их прежде, чем ты опомнишься.</text>
+    </tip>
+    <tip number="71" category="security">
+      <text>Истинно говорю: dependency vulnerabilities — это грехи чужих, но страдаете вы.</text>
+    </tip>
+    <tip number="72" category="security">
+      <text>Блажен обновляющий зависимости регулярно, ибо он не будет удивлён CVE критической важности.</text>
+    </tip>
+    <tip number="73" category="security">
+      <text>Не пиши свою криптографию — это путь безумца и сорокалетнего плача.</text>
+    </tip>
+    <tip number="74" category="security">
+      <text>Говорю вам: SQL-инъекция существует с 1998 года. Если ты всё ещё конкатенируешь запросы — ты позоришь поколения.</text>
+    </tip>
+    <tip number="75" category="security">
+      <text>Воистину: 2FA — это второй замок на двери. Без него ты оставляешь ключ под ковриком.</text>
+    </tip>
+    <tip number="76" category="api">
+      <text>Говорю вам: версионируй API свои с первого дня, ибо обратная совместимость — это контракт, а не пожелание.</text>
+    </tip>
+    <tip number="77" category="api">
+      <text>Блаженны возвращающие правильные HTTP-коды, ибо 200 на ошибку — ложь во спасение, что никого не спасает.</text>
+    </tip>
+    <tip number="78" category="api">
+      <text>Не возвращай 500 с пустым телом — скажи клиенту, что случилось. Немота в API есть жестокость.</text>
+    </tip>
+    <tip number="79" category="api">
+      <text>Воистину: REST без документации — это карта сокровищ без меток.</text>
+    </tip>
+    <tip number="80" category="api">
+      <text>Истинно: idempotentность PUT и DELETE — это заповедь, а не рекомендация.</text>
+    </tip>
+    <tip number="81" category="api">
+      <text>Горе создающим API без pagination! Ибо таблица на миллион строк убьёт клиента вашего.</text>
+    </tip>
+    <tip number="82" category="api">
+      <text>Блажен пишущий OpenAPI спецификацию — ибо он даёт дар самодокументации потомкам.</text>
+    </tip>
+    <tip number="83" category="api">
+      <text>Говорю вам: timeout должен быть у каждого внешнего вызова. Ждать вечно — не добродетель.</text>
+    </tip>
+    <tip number="84" category="api">
+      <text>Воистину: retry с exponential backoff — это вежливость клиента перед перегруженным сервером.</text>
+    </tip>
+    <tip number="85" category="api">
+      <text>Не кладите бизнес-логику в контроллер — ибо жирный контроллер есть оскорбление архитектуры.</text>
+    </tip>
+    <tip number="86" category="javascript">
+      <text>Говорю вам: callback hell — это ад настоящий. Async/await — спасение.</text>
+    </tip>
+    <tip number="87" category="javascript">
+      <text>Блаженны избегающие var в 2026 году, ибо они не страдают от hoisting.</text>
+    </tip>
+    <tip number="88" category="javascript">
+      <text>Воистину: === есть истина, а == есть компромисс с тьмой приведения типов.</text>
+    </tip>
+    <tip number="89" category="javascript">
+      <text>Не мутируй state напрямую в React — ибо компонент не перерендерится и ты не поймёшь почему.</text>
+    </tip>
+    <tip number="90" category="javascript">
+      <text>Истинно: console.log оставленный в production — это крик разработчика сквозь время.</text>
+    </tip>
+    <tip number="91" category="javascript">
+      <text>Горе использующим any в TypeScript! Ибо вы убиваете смысл TypeScript'а.</text>
+    </tip>
+    <tip number="92" category="javascript">
+      <text>Блажен тот, кто понимает event loop — ибо асинхронность JavaScript не удивит его.</text>
+    </tip>
+    <tip number="93" category="javascript">
+      <text>Говорю вам: bundle size имеет значение. Не тащи lodash ради одной функции.</text>
+    </tip>
+    <tip number="94" category="javascript">
+      <text>Воистину: debounce на поиск — это уважение к серверу и пользователю одновременно.</text>
+    </tip>
+    <tip number="95" category="javascript">
+      <text>Не используй document.write — ибо это реликт из эпохи до понимания DOM.</text>
+    </tip>
+    <tip number="96" category="python">
+      <text>Говорю вам: virtual environment должен быть у каждого проекта Python. Глобальные пакеты — источник греха.</text>
+    </tip>
+    <tip number="97" category="python">
+      <text>Блаженны пишущие type hints, ибо коллеги их возблагодарят при code review.</text>
+    </tip>
+    <tip number="98" category="python">
+      <text>Воистину: list comprehension красив, но не пиши его на четыре строки — это уже не красота, а издевательство.</text>
+    </tip>
+    <tip number="99" category="python">
+      <text>Не лови Exception — лови конкретный тип исключения. Широкий catch — широкое невежество.</text>
+    </tip>
+    <tip number="100" category="python">
+      <text>Истинно: __init__.py существует не для украшения, а для организации модулей твоих.</text>
+    </tip>
+    <tip number="101" category="python">
+      <text>Горе использующим mutable default arguments в функциях! def f(lst=[]) — это ловушка для неосторожных.</text>
+    </tip>
+    <tip number="102" category="python">
+      <text>Блажен знающий разницу между is и == в Python — ибо он не сравнивает строки неправильно.</text>
+    </tip>
+    <tip number="103" category="python">
+      <text>Говорю вам: f-strings — дар небес. Конкатенация строк через + — пережиток прошлого.</text>
+    </tip>
+    <tip number="104" category="python">
+      <text>Воистину: requirements.txt без версий — это рецепт без граммов.</text>
+    </tip>
+    <tip number="105" category="python">
+      <text>Не пиши __all__ только для того, чтобы написать. Пиши его с умыслом и смыслом.</text>
+    </tip>
+    <tip number="106" category="arch">
+      <text>Говорю вам: монолит — не зло. Микросервис из пяти строк — зло.</text>
+    </tip>
+    <tip number="107" category="arch">
+      <text>Блаженны начинающие с простого и усложняющие по необходимости, ибо YAGNI — мудрость зрелых.</text>
+    </tip>
+    <tip number="108" category="arch">
+      <text>Воистину: преждевременная микросервисная архитектура убила больше стартапов, чем конкуренты.</text>
+    </tip>
+    <tip number="109" category="arch">
+      <text>Не строй архитектуру на модных словах. Строй на требованиях — реальных, а не воображаемых.</text>
+    </tip>
+    <tip number="110" category="arch">
+      <text>Истинно: coupling и cohesion — две силы архитектуры. Высокая связность, низкое сцепление — путь праведный.</text>
+    </tip>
+    <tip number="111" category="arch">
+      <text>Горе строящим distributed monolith! Худшее из двух миров — это тоже выбор.</text>
+    </tip>
+    <tip number="112" category="arch">
+      <text>Блажен документирующий архитектурные решения в ADR, ибо через год сам себе скажет спасибо.</text>
+    </tip>
+    <tip number="113" category="arch">
+      <text>Говорю вам: event-driven архитектура — это не серебряная пуля, это очень острый нож.</text>
+    </tip>
+    <tip number="114" category="arch">
+      <text>Воистину: CQRS без необходимости — это усложнение ради усложнения, что есть грех инженерный.</text>
+    </tip>
+    <tip number="115" category="arch">
+      <text>Не проектируй для десяти миллионов пользователей, когда у тебя десять. Масштабируйся по мере роста.</text>
+    </tip>
+    <tip number="116" category="arch">
+      <text>Истинно: закон Конвея гласит, что архитектура системы отражает структуру команды. Посмотри на свои микросервисы.</text>
+    </tip>
+    <tip number="117" category="arch">
+      <text>Блаженны знающие CAP теорему, ибо они не удивятся eventual consistency.</text>
+    </tip>
+    <tip number="118" category="arch">
+      <text>Говорю вам: circuit breaker — это предохранитель в электрической схеме. Без него система сгорит при перегрузке.</text>
+    </tip>
+    <tip number="119" category="arch">
+      <text>Воистину: idempotency key — это спасательный жилет для платёжных операций.</text>
+    </tip>
+    <tip number="120" category="arch">
+      <text>Не бойся strangler fig pattern — медленное вытеснение легаси лучше большого взрыва рефакторинга.</text>
+    </tip>
+    <tip number="121" category="process">
+      <text>Говорю вам: встреча без agenda — это прогулка без карты. Блуждание, но не путешествие.</text>
+    </tip>
+    <tip number="122" category="process">
+      <text>Блаженны те, кто заменяют встречи письмом асинхронным — ибо они уважают время ближнего своего.</text>
+    </tip>
+    <tip number="123" category="process">
+      <text>Воистину: standup дольше 15 минут — уже не standup, а планёрка в маскараде.</text>
+    </tip>
+    <tip number="124" category="process">
+      <text>Не оценивай задачи в часах — оценивай в story points или в диапазонах. Точность часов — иллюзия.</text>
+    </tip>
+    <tip number="125" category="process">
+      <text>Истинно: scrum-мастер без доверия команды — декорация. Доверие строится делами, не ролью.</text>
+    </tip>
+    <tip number="126" category="process">
+      <text>Горе устраивающим retrospective без actionable items! Ибо это терапия без лечения.</text>
+    </tip>
+    <tip number="127" category="process">
+      <text>Блажен пишущий definition of done до начала работы — ибо он знает, когда задача завершена.</text>
+    </tip>
+    <tip number="128" category="process">
+      <text>Говорю вам: code freeze перед праздниками — это не трусость, это мудрость.</text>
+    </tip>
+    <tip number="129" category="process">
+      <text>Воистину: технический долг — это кредит. Берёшь быстро, отдаёшь с процентами.</text>
+    </tip>
+    <tip number="130" category="process">
+      <text>Не добавляй людей в поздний проект — это только замедлит его, сказал Брукс, и он был прав.</text>
+    </tip>
+    <tip number="131" category="naming">
+      <text>Говорю вам: имя переменной 'data' — это отсутствие имени. Будь конкретен.</text>
+    </tip>
+    <tip number="132" category="naming">
+      <text>Блаженны называющие булевы переменные с is, has, can, should — ибо код их читается как речь человеческая.</text>
+    </tip>
+    <tip number="133" category="naming">
+      <text>Воистину: функция называется глаголом, класс — существительным. Нарушающий это создаёт путаницу.</text>
+    </tip>
+    <tip number="134" category="naming">
+      <text>Не сокращай имена ради краткости — 'usr' не лучше 'user', только непонятнее.</text>
+    </tip>
+    <tip number="135" category="naming">
+      <text>Истинно: SCREAMING_SNAKE_CASE для констант — это крик о том, что значение не меняется.</text>
+    </tip>
+    <tip number="136" category="naming">
+      <text>Горе называющим файл 'utils.py'! Ибо туда попадёт всё, и через год это будет свалка.</text>
+    </tip>
+    <tip number="137" category="naming">
+      <text>Блажен последовательный в именовании — camelCase или snake_case, но не оба в одном файле.</text>
+    </tip>
+    <tip number="138" category="naming">
+      <text>Говорю вам: README.md — это лицо проекта. Пустой README — это безлицее существо.</text>
+    </tip>
+    <tip number="139" category="naming">
+      <text>Воистину: документация устаревает немедленно, если не обновляется вместе с кодом.</text>
+    </tip>
+    <tip number="140" category="naming">
+      <text>Не пиши очевидные комментарии — // увеличиваем счётчик i++. Пиши о том, ПОЧЕМУ, а не ЧТО.</text>
+    </tip>
+    <tip number="141" category="perf">
+      <text>Говорю вам: измеряй перед оптимизацией. Ибо оптимизировать вслепую — стрелять в темноте.</text>
+    </tip>
+    <tip number="142" category="perf">
+      <text>Блаженны использующие кэш мудро, ибо они сохраняют циклы процессора как воду в пустыне.</text>
+    </tip>
+    <tip number="143" category="perf">
+      <text>Воистину: cache invalidation — одна из двух сложнейших проблем CS. И ты думал, что это просто.</text>
+    </tip>
+    <tip number="144" category="perf">
+      <text>Не оптимизируй то, что не является узким местом — это потеря времени и введение сложности.</text>
+    </tip>
+    <tip number="145" category="perf">
+      <text>Истинно: lazy loading — это добродетель в мире жадных приложений.</text>
+    </tip>
+    <tip number="146" category="perf">
+      <text>Горе загружающим всё при старте приложения! Ибо пользователь не ждёт.</text>
+    </tip>
+    <tip number="147" category="perf">
+      <text>Блажен знающий разницу между O(n) и O(n²) — ибо на миллионе элементов разница велика.</text>
+    </tip>
+    <tip number="148" category="perf">
+      <text>Говорю вам: профайлер — это исповедальня кода. Зайди и узнай правду о производительности.</text>
+    </tip>
+    <tip number="149" category="perf">
+      <text>Воистину: оптимизация базы данных даёт больше, чем оптимизация кода приложения в девяноста процентах случаев.</text>
+    </tip>
+    <tip number="150" category="perf">
+      <text>Не сжимай изображения вручную — автоматизируй это в pipeline сборки.</text>
+    </tip>
+    <tip number="151" category="testing">
+      <text>Говорю вам: тест, который никогда не падал — это не тест, это украшение.</text>
+    </tip>
+    <tip number="152" category="testing">
+      <text>Блаженны пишущие тесты до кода — ибо они думают об интерфейсе прежде реализации.</text>
+    </tip>
+    <tip number="153" category="testing">
+      <text>Воистину: unit тест не должен ходить в базу данных. Если ходит — это интеграционный тест.</text>
+    </tip>
+    <tip number="154" category="testing">
+      <text>Не мокируй всё подряд — иногда реальный объект лучше мока, который притворяется им.</text>
+    </tip>
+    <tip number="155" category="testing">
+      <text>Истинно: test coverage 100% — это не цель, это ложное утешение. Важно качество тестов.</text>
+    </tip>
+    <tip number="156" category="testing">
+      <text>Горе пишущим тесты после дедлайна! Ибо они никогда не будут написаны.</text>
+    </tip>
+    <tip number="157" category="testing">
+      <text>Блажен именующий тесты описательно — should_return_error_when_user_not_found — ибо коллеги поймут без чтения кода.</text>
+    </tip>
+    <tip number="158" category="testing">
+      <text>Говорю вам: flaky тест хуже отсутствия теста — он создаёт ложное чувство безопасности.</text>
+    </tip>
+    <tip number="159" category="testing">
+      <text>Воистину: E2E тесты медленны, но они единственные, кто проверяют систему как пользователь.</text>
+    </tip>
+    <tip number="160" category="testing">
+      <text>Не удаляй failing тест — это звонок будильника, который ты решил выбросить вместо того, чтобы встать.</text>
+    </tip>
+    <tip number="161" category="career">
+      <text>Говорю вам: code review — это не критика личности, это забота о коде. Разделяй своё эго и своих переменных.</text>
+    </tip>
+    <tip number="162" category="career">
+      <text>Блаженны читающие книги по программированию, ибо курсы дают навыки, книги дают понимание.</text>
+    </tip>
+    <tip number="163" category="career">
+      <text>Воистину: синдром самозванца есть у всех. У тех, кто говорит, что нет — тем более.</text>
+    </tip>
+    <tip number="164" category="career">
+      <text>Не учи новый язык каждый месяц — углубись в один, прежде чем рассеивать силы свои.</text>
+    </tip>
+    <tip number="165" category="career">
+      <text>Истинно: умение задавать правильные вопросы важнее умения знать ответы.</text>
+    </tip>
+    <tip number="166" category="career">
+      <text>Горе тем, кто не документирует свои решения! Ибо через полгода они сами не вспомнят почему.</text>
+    </tip>
+    <tip number="167" category="career">
+      <text>Блажен тот, кто учится на чужих авариях, читая postmortem'ы — ибо это самое дешёвое обучение.</text>
+    </tip>
+    <tip number="168" category="career">
+      <text>Говорю вам: soft skills — это не мягкие навыки, это твёрдые деньги в карьере разработчика.</text>
+    </tip>
+    <tip number="169" category="career">
+      <text>Воистину: contribute в open source — это резюме, которое само за себя говорит.</text>
+    </tip>
+    <tip number="170" category="career">
+      <text>Не бойся говорить 'я не знаю' — это начало знания, а не признание слабости.</text>
+    </tip>
+    <tip number="171" category="career">
+      <text>Истинно: ментор ускоряет путь в десять раз. Ищи наставника как жаждущий ищет воду.</text>
+    </tip>
+    <tip number="172" category="career">
+      <text>Блаженны те, кто умеют объяснить техническое нетехническому — ибо это и есть настоящая экспертиза.</text>
+    </tip>
+    <tip number="173" category="career">
+      <text>Говорю вам: burnout — это не значок чести. Это предупреждение организма. Слушай его.</text>
+    </tip>
+    <tip number="174" category="career">
+      <text>Воистину: работа в 2 часа ночи не делает тебя продуктивным — она делает тебя уставшим и немедленно неэффективным.</text>
+    </tip>
+    <tip number="175" category="career">
+      <text>Не сравнивай себя с другими — сравнивай с собой вчерашним. Прогресс, а не победа.</text>
+    </tip>
+    <tip number="176" category="tools">
+      <text>Говорю вам: знай своё IDE как ладонь свою — шорткаты сэкономят тебе часы в неделю.</text>
+    </tip>
+    <tip number="177" category="tools">
+      <text>Блаженны настроившие автоформатирование кода, ибо они не тратят time на споры о скобках.</text>
+    </tip>
+    <tip number="178" category="tools">
+      <text>Воистину: терминал с автодополнением — это дар, который нужно принять и использовать.</text>
+    </tip>
+    <tip number="179" category="tools">
+      <text>Не используй root для повседневной работы — ибо команда rm -rf с sudo не прощает ошибок.</text>
+    </tip>
+    <tip number="180" category="tools">
+      <text>Истинно: dotfiles в git — это возможность восстановить своё окружение за минуты.</text>
+    </tip>
+    <tip number="181" category="tools">
+      <text>Горе не использующим менеджер паролей! Ибо либо пароль простой, либо забытый.</text>
+    </tip>
+    <tip number="182" category="tools">
+      <text>Блажен тот, кто автоматизировал скучные задачи скриптом — ибо он освободил разум для творчества.</text>
+    </tip>
+    <tip number="183" category="tools">
+      <text>Говорю вам: tmux или screen позволяют не терять сессию при разрыве SSH. Это спасение.</text>
+    </tip>
+    <tip number="184" category="tools">
+      <text>Воистину: ripgrep быстрее grep как орёл быстрее черепахи.</text>
+    </tip>
+    <tip number="185" category="tools">
+      <text>Не пренебрегай Makefile — это оркестр простых команд для сложных задач.</text>
+    </tip>
+    <tip number="186" category="cloud">
+      <text>Говорю вам: облако — это не магия, это чужие серверы. И платить за них нужно с умом.</text>
+    </tip>
+    <tip number="187" category="cloud">
+      <text>Блаженны настраивающие billing alerts, ибо они не получат счёт в 50000 долларов за одну ночь.</text>
+    </tip>
+    <tip number="188" category="cloud">
+      <text>Воистину: auto-scaling — это благодать, но без лимитов она может разорить.</text>
+    </tip>
+    <tip number="189" category="cloud">
+      <text>Не кладь всё в один availability zone — ибо дата-центры тоже горят.</text>
+    </tip>
+    <tip number="190" category="cloud">
+      <text>Истинно: serverless — это не бессерверный, это сервер которого ты не видишь. Видит тебя только счёт.</text>
+    </tip>
+    <tip number="191" category="cloud">
+      <text>Горе не тегирующим облачные ресурсы! Ибо через год ты не поймёшь, что за инстанс стоит 300 долларов в месяц.</text>
+    </tip>
+    <tip number="192" category="cloud">
+      <text>Блажен тот, кто понимает eventually consistent хранилища — ибо он не удивится, когда данные разойдутся.</text>
+    </tip>
+    <tip number="193" category="cloud">
+      <text>Говорю вам: multi-region — это не каприз, это необходимость если у вас global пользователи.</text>
+    </tip>
+    <tip number="194" category="cloud">
+      <text>Воистину: managed services дороже но дешевле, если считать время инженеров на поддержку.</text>
+    </tip>
+    <tip number="195" category="cloud">
+      <text>Не удаляй production ресурсы без подтверждения второго человека — ибо сие есть двойной контроль во спасение.</text>
+    </tip>
+    <tip number="196" category="wisdom">
+      <text>Говорю вам: лучший код — это тот, который не написан. Удали ненужное.</text>
+    </tip>
+    <tip number="197" category="wisdom">
+      <text>Блаженны признающие свои ошибки быстро — ибо медленное признание умножает ущерб.</text>
+    </tip>
+    <tip number="198" category="wisdom">
+      <text>Воистину: сложность — враг надёжности. Простая система ломается реже сложной.</text>
+    </tip>
+    <tip number="199" category="wisdom">
+      <text>Не изобретай велосипед — но знай, как велосипед устроен, чтобы не удивляться когда спицы вылетают.</text>
+    </tip>
+    <tip number="200" category="wisdom">
+      <text>Истинно: программирование — это не написание кода, это решение проблем. Код — лишь инструмент.</text>
+    </tip>
+    <tip number="201" category="wisdom">
+      <text>Горе думающим, что больше кода — это лучший код. Краткость — сестра таланта.</text>
+    </tip>
+    <tip number="202" category="wisdom">
+      <text>Блажен умеющий говорить 'нет' новым фичам ради качества существующих.</text>
+    </tip>
+    <tip number="203" category="wisdom">
+      <text>Говорю вам: технология не решает организационных проблем. Это иллюзия очень дорогая.</text>
+    </tip>
+    <tip number="204" category="wisdom">
+      <text>Воистину: лучшее время написать тест — сразу после нахождения бага. Второе лучшее время — сейчас.</text>
+    </tip>
+    <tip number="205" category="wisdom">
+      <text>Не путай движение с прогрессом. Много коммитов — не значит хорошая работа.</text>
+    </tip>
+    <tip number="206" category="git">
+      <text>Говорю вам: cherry-pick — это хирургия, а не привычка. Используй редко и с осторожностью.</text>
+    </tip>
+    <tip number="207" category="git">
+      <text>Блаженны удаляющие merged ветки — ибо чистый репозиторий есть чистый разум.</text>
+    </tip>
+    <tip number="208" category="git">
+      <text>Воистину: git stash — это временное убежище мыслей, но не архив. Не забывай о stash'ах своих.</text>
+    </tip>
+    <tip number="209" category="git">
+      <text>Не пуши сгенерированные файлы в репозиторий — ибо это шум среди сигнала.</text>
+    </tip>
+    <tip number="210" category="git">
+      <text>Истинно: хороший коммит решает одну проблему. Коммит, решающий десять — это ужас для bisect.</text>
+    </tip>
+    <tip number="211" category="code">
+      <text>Говорю вам: if-else глубиной пять уровней — это лестница в ад. Рефакторь.</text>
+    </tip>
+    <tip number="212" category="code">
+      <text>Блаженны применяющие early return — ибо они избегают вложенности и сохраняют читаемость.</text>
+    </tip>
+    <tip number="213" category="code">
+      <text>Воистину: флаговые аргументы в функциях — это признак того, что функция делает две вещи.</text>
+    </tip>
+    <tip number="214" category="code">
+      <text>Не смешивай уровни абстракции в одной функции — читай Боба Мартина и сохрани душу свою.</text>
+    </tip>
+    <tip number="215" category="code">
+      <text>Истинно: sealed классы и exhaustive when — это благодать для разработчиков на Kotlin.</text>
+    </tip>
+    <tip number="216" category="debug">
+      <text>Говорю вам: binary search по коду — разделяй пополам и находи баг быстрее.</text>
+    </tip>
+    <tip number="217" category="debug">
+      <text>Блаженны умеющие читать stack trace — ибо он говорит правду об ошибке.</text>
+    </tip>
+    <tip number="218" category="debug">
+      <text>Воистину: время появления бага и время его обнаружения — разные вещи. Ищи в коде, написанном недавно.</text>
+    </tip>
+    <tip number="219" category="debug">
+      <text>Не меняй несколько вещей одновременно при отладке — ибо не узнаешь, что именно помогло.</text>
+    </tip>
+    <tip number="220" category="debug">
+      <text>Истинно: воспроизведение бага — половина его решения. Без воспроизведения ты слеп.</text>
+    </tip>
+    <tip number="221" category="database">
+      <text>Говорю вам: connection pool — это мудрое управление ресурсами. Без него соединения кончатся.</text>
+    </tip>
+    <tip number="222" category="database">
+      <text>Блаженны использующие prepared statements, ибо они защищены от SQL-инъекций от природы.</text>
+    </tip>
+    <tip number="223" category="database">
+      <text>Воистину: VACUUM в PostgreSQL — это уборка дома. Делай регулярно или живи в беспорядке.</text>
+    </tip>
+    <tip number="224" category="database">
+      <text>Не создавай индекс на каждое поле — индекс ускоряет чтение, замедляет запись.</text>
+    </tip>
+    <tip number="225" category="database">
+      <text>Истинно: foreign key constraints — это честность в данных. Без них данные лгут.</text>
+    </tip>
+    <tip number="226" category="devops">
+      <text>Говорю вам: runbook — это инструкция по спасению в 3 часа ночи. Пиши его заранее.</text>
+    </tip>
+    <tip number="227" category="devops">
+      <text>Блаженны использующие feature flags, ибо они деплоят без страха и откатывают без слёз.</text>
+    </tip>
+    <tip number="228" category="devops">
+      <text>Воистину: SLO — это обещание пользователям. SLA — контракт с юристами. Знай разницу.</text>
+    </tip>
+    <tip number="229" category="devops">
+      <text>Не игнорируй flapping alerts — если алерт постоянно то срабатывает, то нет, он бесполезен.</text>
+    </tip>
+    <tip number="230" category="devops">
+      <text>Истинно: изменяемые серверы — это снежинки. Неизменяемая инфраструктура — это кристаллы.</text>
+    </tip>
+    <tip number="231" category="security">
+      <text>Говорю вам: CORS настроен правильно — это мир и спокойствие. CORS с * — это открытые ворота.</text>
+    </tip>
+    <tip number="232" category="security">
+      <text>Блаженны проводящие security audit зависимостей в CI, ибо они узнают об уязвимости до злоумышленника.</text>
+    </tip>
+    <tip number="233" category="воистину">
+      <text>Воистину: helmet.js в Express — это шлем. Без шлема ездить можно, но опасно.</text>
+    </tip>
+    <tip number="234" category="security">
+      <text>Не логируй персональные данные пользователей — ибо GDPR и совесть инженерная запрещают.</text>
+    </tip>
+    <tip number="235" category="security">
+      <text>Истинно: JWT без проверки подписи — это любой может стать кем угодно. Проверяй всегда.</text>
+    </tip>
+    <tip number="236" category="api">
+      <text>Говорю вам: webhook без проверки подписи — это открытый конец провода под напряжением.</text>
+    </tip>
+    <tip number="237" category="api">
+      <text>Блаженны реализующие graceful degradation, ибо когда один сервис падает, другие продолжают работать.</text>
+    </tip>
+    <tip number="238" category="api">
+      <text>Воистину: API gateway — это привратник, а не просто роутер. Используй его мудро.</text>
+    </tip>
+    <tip number="239" category="api">
+      <text>Не изменяй смысл endpoint'а без версионирования — ибо это предательство клиентов твоих.</text>
+    </tip>
+    <tip number="240" category="api">
+      <text>Истинно: документируй error codes своего API — ибо 'что-то пошло не так' — не документация.</text>
+    </tip>
+    <tip number="241" category="javascript">
+      <text>Говорю вам: Promise.all — это параллельность. Promise в цикле с await — это последовательность. Знай разницу.</text>
+    </tip>
+    <tip number="242" category="javascript">
+      <text>Блаженны избегающие deep mutation в Redux — ибо компоненты их не ломаются от изменений.</text>
+    </tip>
+    <tip number="243" category="javascript">
+      <text>Воистину: WeakMap и WeakRef — это инструменты для тех, кто думает о памяти. Большинство не думает.</text>
+    </tip>
+    <tip number="244" category="javascript">
+      <text>Не строй на DOM-манипуляциях то, что лучше строится на реактивности.</text>
+    </tip>
+    <tip number="245" category="javascript">
+      <text>Истинно: мемоизация React.memo полезна только когда ты измерил, что компонент медленный.</text>
+    </tip>
+    <tip number="246" category="python">
+      <text>Говорю вам: dataclasses в Python — это благодать над __init__ с двадцатью полями.</text>
+    </tip>
+    <tip number="247" category="python">
+      <text>Блаженны использующие контекстный менеджер with — ибо ресурсы их закроются даже при исключении.</text>
+    </tip>
+    <tip number="248" category="python">
+      <text>Воистину: itertools — это арсенал ленивых вычислений. Изучи его.</text>
+    </tip>
+    <tip number="249" category="python">
+      <text>Не используй глобальные переменные в Python — ибо это путь к непредсказуемости.</text>
+    </tip>
+    <tip number="250" category="python">
+      <text>Истинно: asyncio прекрасен для IO-bound задач и бесполезен для CPU-bound.</text>
+    </tip>
+    <tip number="251" category="arch">
+      <text>Говорю вам: шина данных без мониторинга — это труба без манометра. Страшно.</text>
+    </tip>
+    <tip number="252" category="arch">
+      <text>Блаженны знающие паттерны Gang of Four — но не применяющие их без необходимости.</text>
+    </tip>
+    <tip number="253" category="arch">
+      <text>Воистину: сага паттерн — это способ управлять distributed transactions без двухфазного коммита.</text>
+    </tip>
+    <tip number="254" category="arch">
+      <text>Не строй архитектуру для 100x нагрузки с первого дня — оптимизируй для текущей в 3x запас.</text>
+    </tip>
+    <tip number="255" category="arch">
+      <text>Истинно: DDD полезен для сложных доменов и является overkill для CRUD приложений.</text>
+    </tip>
+    <tip number="256" category="process">
+      <text>Говорю вам: постмортем без blame — это путь к реальному улучшению. Blame — это путь к молчанию.</text>
+    </tip>
+    <tip number="257" category="process">
+      <text>Блаженны проводящие 1:1 встречи регулярно, ибо маленькие проблемы не вырастают в большие.</text>
+    </tip>
+    <tip number="258" category="process">
+      <text>Воистину: capacity planning — это не гадание, это математика плюс здравый смысл.</text>
+    </tip>
+    <tip number="259" category="process">
+      <text>Не начинай спринт без готового backlog — это как строить дом не зная плана.</text>
+    </tip>
+    <tip number="260" category="process">
+      <text>Истинно: definition of ready так же важен как definition of done.</text>
+    </tip>
+    <tip number="261" category="naming">
+      <text>Говорю вам: не называй функцию 'process' — что она обрабатывает? Будь точен.</text>
+    </tip>
+    <tip number="262" category="naming">
+      <text>Блаженны избегающие аббревиатур в именах — ибо cmgr хуже configManager во всех отношениях.</text>
+    </tip>
+    <tip number="263" category="naming">
+      <text>Воистину: префикс get в функции означает отсутствие side effects. Нарушающий это лжёт именем.</text>
+    </tip>
+    <tip number="264" category="naming">
+      <text>Не называй параметр 'input' — это имя говорит лишь о том, что он является входом.</text>
+    </tip>
+    <tip number="265" category="naming">
+      <text>Истинно: CHANGELOG.md — это летопись проекта. Веди её.</text>
+    </tip>
+    <tip number="266" category="perf">
+      <text>Говорю вам: CDN — это не роскошь, это базовое требование для статики в 2026 году.</text>
+    </tip>
+    <tip number="267" category="perf">
+      <text>Блаженны настраивающие HTTP/2 или HTTP/3 — ибо параллельные запросы ускоряют загрузку.</text>
+    </tip>
+    <tip number="268" category="perf">
+      <text>Воистину: gzip/brotli сжатие ответов — это бесплатная оптимизация, которую многие забывают.</text>
+    </tip>
+    <tip number="269" category="perf">
+      <text>Не считай производительность в dev режиме — всегда измеряй в production-подобной среде.</text>
+    </tip>
+    <tip number="270" category="perf">
+      <text>Истинно: web workers позволяют не блокировать main thread. Используй их для тяжёлых вычислений.</text>
+    </tip>
+    <tip number="271" category="testing">
+      <text>Говорю вам: snapshot тесты — это ленивые тесты. Хороши для начала, плохи как основа.</text>
+    </tip>
+    <tip number="272" category="testing">
+      <text>Блаженны практикующие property-based testing — ибо случайные входы находят баги, о которых не думали.</text>
+    </tip>
+    <tip number="273" category="testing">
+      <text>Воистину: mutation testing показывает качество тестов, а не только их наличие.</text>
+    </tip>
+    <tip number="274" category="testing">
+      <text>Не тестируй приватные методы напрямую — тестируй публичный интерфейс.</text>
+    </tip>
+    <tip number="275" category="testing">
+      <text>Истинно: contract testing между сервисами — это способ не узнать о несовместимости в production.</text>
+    </tip>
+    <tip number="276" category="career">
+      <text>Говорю вам: ten-year developer не тот, кто работал десять лет, а тот, кто каждый год учился новому.</text>
+    </tip>
+    <tip number="277" category="career">
+      <text>Блаженны пишущие технические статьи — ибо они углубляют своё понимание, обучая других.</text>
+    </tip>
+    <tip number="278" category="career">
+      <text>Воистину: networking не о том, чтобы брать — это о том, чтобы давать и получать в ответ.</text>
+    </tip>
+    <tip number="279" category="career">
+      <text>Не бойся legacy кода — в нём деньги компании и история решений. Уважай его.</text>
+    </tip>
+    <tip number="280" category="career">
+      <text>Истинно: T-shaped developer — широкий кругозор и глубокая экспертиза в одном. К этому стремись.</text>
+    </tip>
+    <tip number="281" category="tools">
+      <text>Говорю вам: vim или emacs — не важно. Важно, что ты знаешь инструмент свой в совершенстве.</text>
+    </tip>
+    <tip number="282" category="tools">
+      <text>Блаженны использующие version manager для языков — nvm, pyenv, rbenv. Ибо они не конфликтуют.</text>
+    </tip>
+    <tip number="283" category="tools">
+      <text>Воистину: pre-commit hooks — это автоматический ревьюер, работающий до того как код пришёл на review.</text>
+    </tip>
+    <tip number="284" category="tools">
+      <text>Не работай без UPS если production данные важны и power нестабилен.</text>
+    </tip>
+    <tip number="285" category="tools">
+      <text>Истинно: Docker Desktop или Podman — выбери что-то одно и настрой хорошо.</text>
+    </tip>
+    <tip number="286" category="cloud">
+      <text>Говорю вам: Reserved Instances или Savings Plans сэкономят до 70% против On-Demand. Считай.</text>
+    </tip>
+    <tip number="287" category="cloud">
+      <text>Блаженны настраивающие lifecycle policies для S3 — ибо они не платят за старые логи вечно.</text>
+    </tip>
+    <tip number="288" category="cloud">
+      <text>Воистину: VPC peering дешевле NAT gateway для внутреннего трафика. Проверь архитектуру.</text>
+    </tip>
+    <tip number="289" category="cloud">
+      <text>Не разворачивай production на free tier — ибо limits там жестоки и придут в самый неудобный момент.</text>
+    </tip>
+    <tip number="290" category="cloud">
+      <text>Истинно: Infrastructure drift — это когда реальность расходится с кодом. Terraform plan покажет правду.</text>
+    </tip>
+    <tip number="291" category="wisdom">
+      <text>Говорю вам: технический долг — как холестерин. Немного — нормально. Много — инфаркт архитектуры.</text>
+    </tip>
+    <tip number="292" category="wisdom">
+      <text>Блаженны признающие, что не всё должно быть микросервисом, не всё — монолитом.</text>
+    </tip>
+    <tip number="293" category="wisdom">
+      <text>Воистину: хороший инженер знает когда НЕ применять технологию.</text>
+    </tip>
+    <tip number="294" category="wisdom">
+      <text>Не следуй хайпу слепо — GraphQL не для всех, Kubernetes не для всех, AI не для всех.</text>
+    </tip>
+    <tip number="295" category="wisdom">
+      <text>Истинно: пользователь важнее архитектуры. Красивый код, не решающий проблему — мусор.</text>
+    </tip>
+    <tip number="296" category="git">
+      <text>Говорю вам: git hooks на стороне сервера — это закон, который нельзя обойти.</text>
+    </tip>
+    <tip number="297" category="git">
+      <text>Блаженны знающие git reflog — ибо они могут воскресить потерянные коммиты.</text>
+    </tip>
+    <tip number="298" category="git">
+      <text>Воистину: squash before merge — это чистая история. Merge as-is — это правдивая история. Выбери своё.</text>
+    </tip>
+    <tip number="299" category="git">
+      <text>Не используй git --force без --force-with-lease — ибо ты можешь затереть чужие коммиты.</text>
+    </tip>
+    <tip number="300" category="git">
+      <text>Истинно: submodule — это сложность. Monorepo или отдельные пакеты — проще в большинстве случаев.</text>
+    </tip>
+    <tip number="301" category="code">
+      <text>Говорю вам: chain of responsibility лучше длинного switch для обработки команд.</text>
+    </tip>
+    <tip number="302" category="code">
+      <text>Блаженны знающие разницу между composition и inheritance — ибо composition чаще правильный выбор.</text>
+    </tip>
+    <tip number="303" category="code">
+      <text>Воистину: feature envy — запах кода, когда метод интересуется чужими данными больше своих.</text>
+    </tip>
+    <tip number="304" category="code">
+      <text>Не пиши код, который ты сам не можешь объяснить — ибо что непонятно тебе, то ужасно другим.</text>
+    </tip>
+    <tip number="305" category="code">
+      <text>Истинно: абстракция должна скрывать детали, а не прятать логику. Разница огромна.</text>
+    </tip>
+    <tip number="306" category="debug">
+      <text>Говорю вам: add logging before you need it, not after the incident.</text>
+    </tip>
+    <tip number="307" category="debug">
+      <text>Блаженны умеющие читать assembly при необходимости — ибо иногда истина только там.</text>
+    </tip>
+    <tip number="308" category="debug">
+      <text>Воистину: Heisenbug исчезает при наблюдении. Это не магия — это side effect от логирования.</text>
+    </tip>
+    <tip number="309" category="debug">
+      <text>Не паникуй при виде ошибки — читай. Большинство ошибок говорят ровно то, что произошло.</text>
+    </tip>
+    <tip number="310" category="debug">
+      <text>Истинно: git bisect — это бинарный поиск в истории для нахождения регрессии.</text>
+    </tip>
+    <tip number="311" category="database">
+      <text>Говорю вам: optimistic locking подходит для редких конфликтов, pessimistic — для частых.</text>
+    </tip>
+    <tip number="312" category="database">
+      <text>Блаженны понимающие ACID — ибо они знают, что именно гарантирует их база данных.</text>
+    </tip>
+    <tip number="313" category="database">
+      <text>Воистину: шардирование — это крайняя мера, а не первый шаг к масштабированию.</text>
+    </tip>
+    <tip number="314" category="database">
+      <text>Не храни JSON в реляционной базе без причины — ибо это отрицание реляционности.</text>
+    </tip>
+    <tip number="315" category="database">
+      <text>Истинно: read replica — это честный способ снизить нагрузку на primary.</text>
+    </tip>
+    <tip number="316" category="devops">
+      <text>Говорю вам: observability — это логи, метрики и трейсы вместе. Одного недостаточно.</text>
+    </tip>
+    <tip number="317" category="devops">
+      <text>Блаженны строящие immutable artifacts — один образ от dev до production.</text>
+    </tip>
+    <tip number="318" category="devops">
+      <text>Воистину: GitOps — это когда git является единственным источником истины для инфраструктуры.</text>
+    </tip>
+    <tip number="319" category="devops">
+      <text>Не деплой то, что не прошло все проверки CI — ни разу, ни по 'быстрому хотфиксу'.</text>
+    </tip>
+    <tip number="320" category="devops">
+      <text>Истинно: canary deployment позволяет проверить изменение на малом проценте пользователей.</text>
+    </tip>
+    <tip number="321" category="security">
+      <text>Говорю вам: principle of fail-safe defaults — запрещено всё, что не разрешено явно.</text>
+    </tip>
+    <tip number="322" category="security">
+      <text>Блаженны шифрующие данные в покое и в transit — ибо дважды защищённые данные дважды безопасны.</text>
+    </tip>
+    <tip number="323" category="воистину">
+      <text>Воистину: OWASP Top 10 — это список грехов, которые повторяются из года в год. Изучи и не повторяй.</text>
+    </tip>
+    <tip number="324" category="security">
+      <text>Не доверяй Content-Type от клиента — проверяй реальное содержимое файла.</text>
+    </tip>
+    <tip number="325" category="security">
+      <text>Истинно: audit log — это летопись того, кто что сделал. Необходим для compliance и расследований.</text>
+    </tip>
+    <tip number="326" category="api">
+      <text>Говорю вам: GraphQL resolver N+1 — это та же проблема что и в ORM, просто с другим именем.</text>
+    </tip>
+    <tip number="327" category="api">
+      <text>Блаженны реализующие proper error handling в middleware — ибо каждый endpoint не должен делать это сам.</text>
+    </tip>
+    <tip number="328" category="api">
+      <text>Воистину: API без rate limiting — это открытый буфет для злоупотреблений.</text>
+    </tip>
+    <tip number="329" category="api">
+      <text>Не возвращай внутренние детали реализации в ошибках API — ибо это помощь атакующему.</text>
+    </tip>
+    <tip number="330" category="api">
+      <text>Истинно: HATEOAS красива в теории, редко полезна на практике. Знай когда применять.</text>
+    </tip>
+    <tip number="331" category="javascript">
+      <text>Говорю вам: Symbol.iterator — это врата к созданию кастомных итерируемых объектов.</text>
+    </tip>
+    <tip number="332" category="javascript">
+      <text>Блаженны понимающие prototype chain — ибо JS не скроет от них своих тайн.</text>
+    </tip>
+    <tip number="333" category="javascript">
+      <text>Воистину: structuredClone лучше JSON.parse(JSON.stringify()) для глубокого клонирования.</text>
+    </tip>
+    <tip number="334" category="javascript">
+      <text>Не используй eval — ибо это дверь в ад security проблем и непредсказуемости.</text>
+    </tip>
+    <tip number="335" category="javascript">
+      <text>Истинно: tree shaking работает только с ES modules. CommonJS не поддаётся оптимизации бандлером.</text>
+    </tip>
+    <tip number="336" category="python">
+      <text>Говорю вам: slots в Python классах экономят память при миллионах объектов.</text>
+    </tip>
+    <tip number="337" category="python">
+      <text>Блаженны использующие pathlib вместо os.path — ибо код их читается как поэзия.</text>
+    </tip>
+    <tip number="338" category="python">
+      <text>Воистину: namedtuple или dataclass — выбери структуру данных правильно.</text>
+    </tip>
+    <tip number="339" category="python">
+      <text>Не используй pickle для untrusted данных — это remote code execution в маскарадном костюме.</text>
+    </tip>
+    <tip number="340" category="python">
+      <text>Истинно: multiprocessing для CPU-bound, asyncio для IO-bound, threading для legacy.</text>
+    </tip>
+    <tip number="341" category="arch">
+      <text>Говорю вам: strangler fig не только для легаси — это паттерн замены любой системы без остановки.</text>
+    </tip>
+    <tip number="342" category="arch">
+      <text>Блаженны думающие о failure modes при проектировании — ибо системы падают, и нужен план.</text>
+    </tip>
+    <tip number="343" category="arch">
+      <text>Воистину: back pressure — это способ системы сказать 'мне плохо, притормози'.</text>
+    </tip>
+    <tip number="344" category="arch">
+      <text>Не проектируй API для internal use так же как для external — требования разные.</text>
+    </tip>
+    <tip number="345" category="arch">
+      <text>Истинно: bounded context в DDD — это граница, где слово 'заказ' означает одно и то же.</text>
+    </tip>
+    <tip number="346" category="process">
+      <text>Говорю вам: feature team лучше component team для скорости поставки ценности.</text>
+    </tip>
+    <tip number="347" category="process">
+      <text>Блаженны практикующие continuous deployment — ибо маленькие деплои менее рискованны чем большие.</text>
+    </tip>
+    <tip number="348" category="process">
+      <text>Воистину: work in progress limit в kanban — это мудрость против параллельной перегрузки.</text>
+    </tip>
+    <tip number="349" category="process">
+      <text>Не оценивай работу по времени — оценивай по сложности. Время зависит от контекста.</text>
+    </tip>
+    <tip number="350" category="process">
+      <text>Истинно: ship it и iterate лучше perfect it и never ship.</text>
+    </tip>
+    <tip number="351" category="naming">
+      <text>Говорю вам: domain-specific язык в именованиях делает код самодокументированным.</text>
+    </tip>
+    <tip number="352" category="naming">
+      <text>Блаженны говорящие одним языком с бизнесом — ubiquitous language Эванса есть мост между мирами.</text>
+    </tip>
+    <tip number="353" category="naming">
+      <text>Воистину: нельзя называть разные вещи одним именем в одном контексте.</text>
+    </tip>
+    <tip number="354" category="naming">
+      <text>Не называй test файл TestHelper — скажи что именно тестируется.</text>
+    </tip>
+    <tip number="355" category="naming">
+      <text>Истинно: константа с именем THREE — это число три, а не смысл. Называй смыслом.</text>
+    </tip>
+    <tip number="356" category="perf">
+      <text>Говорю вам: virtual scrolling для длинных списков — это милосердие к DOM и пользователю.</text>
+    </tip>
+    <tip number="357" category="perf">
+      <text>Блаженны кэширующие на правильном уровне — application, CDN, browser. Каждый уровень даёт другое.</text>
+    </tip>
+    <tip number="358" category="perf">
+      <text>Воистину: preload для критических ресурсов — это сказать браузеру 'это нужно срочно'.</text>
+    </tip>
+    <tip number="359" category="perf">
+      <text>Не используй синхронный код там, где async даст стократно лучшую производительность.</text>
+    </tip>
+    <tip number="360" category="perf">
+      <text>Истинно: connection pooling — это экономия на создании соединений. Создание дорого.</text>
+    </tip>
+    <tip number="361" category="testing">
+      <text>Говорю вам: test pyramid — много unit, меньше integration, мало E2E. Нарушивший платит скоростью.</text>
+    </tip>
+    <tip number="362" category="testing">
+      <text>Блаженны использующие test doubles правильно — stub, spy, mock, fake. Каждый для своего.</text>
+    </tip>
+    <tip number="363" category="testing">
+      <text>Воистину: arrange-act-assert — это структура теста, понятная любому. Следуй ей.</text>
+    </tip>
+    <tip number="364" category="testing">
+      <text>Не пиши тест, который всегда проходит — это ложное успокоение.</text>
+    </tip>
+    <tip number="365" category="testing">
+      <text>Истинно: тестируй граничные условия — ноль, один, максимум, null. Именно там живут баги.</text>
+    </tip>
+    <tip number="366" category="career">
+      <text>Говорю вам: принимай обратную связь как дар, а не как атаку — ибо без неё нет роста.</text>
+    </tip>
+    <tip number="367" category="career">
+      <text>Блаженны имеющие side projects — ибо в них учатся без страха сломать production.</text>
+    </tip>
+    <tip number="368" category="career">
+      <text>Воистину: public speaking о техническом — это ускоритель карьеры и проверка знаний.</text>
+    </tip>
+    <tip number="369" category="career">
+      <text>Не избегай difficult conversations — умение говорить трудное есть навык лидера.</text>
+    </tip>
+    <tip number="370" category="career">
+      <text>Истинно: задавать вопросы в команде — добродетель. Молчать непонимая — грех против команды.</text>
+    </tip>
+    <tip number="371" category="tools">
+      <text>Говорю вам: фиксируй версии инструментов в .tool-versions или .nvmrc — воспроизводимость важна.</text>
+    </tip>
+    <tip number="372" category="tools">
+      <text>Блаженны использующие локальный reverse proxy для разработки — ибо он имитирует production точнее.</text>
+    </tip>
+    <tip number="373" category="tools">
+      <text>Воистину: планировщик задач в IDE полезнее стикеров на мониторе.</text>
+    </tip>
+    <tip number="374" category="tools">
+      <text>Не работай 8 часов без перерыва — Pomodoro или просто встать и пройтись. Мозг требует паузы.</text>
+    </tip>
+    <tip number="375" category="tools">
+      <text>Истинно: grep -r незаменим, но ripgrep в 10 раз быстрее. Установи уже.</text>
+    </tip>
+    <tip number="376" category="cloud">
+      <text>Говорю вам: spot/preemptible инстансы для stateless нагрузки — экономия 60-90%.</text>
+    </tip>
+    <tip number="377" category="cloud">
+      <text>Блаженны строящие stateless приложения — ибо они масштабируются горизонтально без боли.</text>
+    </tip>
+    <tip number="378" category="cloud">
+      <text>Воистину: object storage дешевле блочного в сотни раз для большинства случаев.</text>
+    </tip>
+    <tip number="379" category="cloud">
+      <text>Не создавай IAM user с programmatic access без MFA для человеческих аккаунтов.</text>
+    </tip>
+    <tip number="380" category="cloud">
+      <text>Истинно: CloudWatch/Stackdriver/Azure Monitor — выбери мониторинг поставщика прежде кастомного.</text>
+    </tip>
+    <tip number="381" category="wisdom">
+      <text>Говорю вам: всякий раз, когда пишешь workaround, пиши TODO с номером тикета.</text>
+    </tip>
+    <tip number="382" category="wisdom">
+      <text>Блаженны умеющие читать исходный код зависимостей — ибо документация лжёт, код — нет.</text>
+    </tip>
+    <tip number="383" category="wisdom">
+      <text>Воистину: большинство performance проблем — это N+1 запросы. Начни с базы данных.</text>
+    </tip>
+    <tip number="384" category="wisdom">
+      <text>Не строй то, что можно купить, если покупка дешевле разработки и поддержки.</text>
+    </tip>
+    <tip number="385" category="wisdom">
+      <text>Истинно: простота — это достижение, а не упрощение. Достичь её тяжело.</text>
+    </tip>
+    <tip number="386" category="code">
+      <text>Говорю вам: null object pattern избавляет от бесчисленных null checks.</text>
+    </tip>
+    <tip number="387" category="code">
+      <text>Блаженны использующие Optional/Maybe/Result вместо null — ибо они явны в своих намерениях.</text>
+    </tip>
+    <tip number="388" category="code">
+      <text>Воистину: defensive programming и aggressive programming — два стиля. Знай когда применять каждый.</text>
+    </tip>
+    <tip number="389" category="code">
+      <text>Не пиши комментарий 'hack' без объяснения почему и issue номера — ибо hack без контекста вечен.</text>
+    </tip>
+    <tip number="390" category="code">
+      <text>Истинно: команда создаёт код, а не одиночка. Стиль должен быть единым.</text>
+    </tip>
+    <tip number="391" category="debug">
+      <text>Говорю вам: reproduce in isolation — первый шаг к любому серьёзному дебагу.</text>
+    </tip>
+    <tip number="392" category="debug">
+      <text>Блаженны понимающие memory leaks — ибо они видят то, что другие называют 'странным поведением'.</text>
+    </tip>
+    <tip number="393" category="debug">
+      <text>Воистину: race condition — самый коварный баг. Появляется редко, воспроизводится ещё реже.</text>
+    </tip>
+    <tip number="394" category="debug">
+      <text>Не доверяй логам на 100% — они могут быть неполными или буферизованными.</text>
+    </tip>
+    <tip number="395" category="debug">
+      <text>Истинно: watch expressions в debugger экономят время при итерации.</text>
+    </tip>
+    <tip number="396" category="database">
+      <text>Говорю вам: EXPLAIN показывает план — EXPLAIN ANALYZE показывает реальность. Разница важна.</text>
+    </tip>
+    <tip number="397" category="database">
+      <text>Блаженны понимающие difference between clustered и non-clustered index.</text>
+    </tip>
+    <tip number="398" category="database">
+      <text>Воистину: partial index — это индекс только на нужные строки. Меньше, быстрее, умнее.</text>
+    </tip>
+    <tip number="399" category="database">
+      <text>Не используй ORM для сложных аналитических запросов — пиши SQL напрямую.</text>
+    </tip>
+    <tip number="400" category="database">
+      <text>Истинно: event sourcing — это хранение событий вместо состояния. Мощно и сложно.</text>
+    </tip>
+    <tip number="401" category="devops">
+      <text>Говорю вам: SRE — это reliability как software engineering проблема, а не ops проблема.</text>
+    </tip>
+    <tip number="402" category="devops">
+      <text>Блаженны имеющие error budget — ибо они балансируют между скоростью и надёжностью.</text>
+    </tip>
+    <tip number="403" category="devops">
+      <text>Воистину: MTTR важнее MTBF. Быстро восстанавливаться лучше чем редко падать.</text>
+    </tip>
+    <tip number="404" category="devops">
+      <text>Не держи конфиг в docker image — передавай через env vars или config maps.</text>
+    </tip>
+    <tip number="405" category="devops">
+      <text>Истинно: rolling restart без disruption — это искусство kubernetes operations.</text>
+    </tip>
+    <tip number="406" category="security">
+      <text>Говорю вам: безопасность по умолчанию, а не по конфигурации — это secure-by-default.</text>
+    </tip>
+    <tip number="407" category="security">
+      <text>Блаженны использующие hardware security keys для критических аккаунтов.</text>
+    </tip>
+    <tip number="408" category="security">
+      <text>Воистину: defense in depth — несколько слоёв защиты лучше одного идеального.</text>
+    </tip>
+    <tip number="409" category="security">
+      <text>Не пиши кастомный auth если есть battle-tested решение. Auth сложнее чем кажется.</text>
+    </tip>
+    <tip number="410" category="security">
+      <text>Истинно: threat modeling до начала разработки — дешевле чем патчи после.</text>
+    </tip>
+    <tip number="411" category="api">
+      <text>Говорю вам: consistent error format во всех API ответах — это милосердие к разработчикам.</text>
+    </tip>
+    <tip number="412" category="api">
+      <text>Блаженны реализующие proper caching headers — ETag, Last-Modified, Cache-Control.</text>
+    </tip>
+    <tip number="413" category="api">
+      <text>Воистину: bulk operations endpoint для создания/обновления множества объектов — это производительность.</text>
+    </tip>
+    <tip number="414" category="api">
+      <text>Не меняй тип поля в JSON ответе — это breaking change даже без версии.</text>
+    </tip>
+    <tip number="415" category="api">
+      <text>Истинно: async operations с job ID и polling или webhooks для долгих операций.</text>
+    </tip>
+    <tip number="416" category="javascript">
+      <text>Говорю вам: optional chaining ?. и nullish coalescing ?? изменили жизнь JS разработчиков.</text>
+    </tip>
+    <tip number="417" category="javascript">
+      <text>Блаженны понимающие разницу между shallow и deep equality в JS.</text>
+    </tip>
+    <tip number="418" category="javascript">
+      <text>Воистину: Map лучше объекта когда ключи динамические и порядок важен.</text>
+    </tip>
+    <tip number="419" category="javascript">
+      <text>Не используй delete для удаления из объекта в hot path — это деоптимизация V8.</text>
+    </tip>
+    <tip number="420" category="javascript">
+      <text>Истинно: service worker — это мощный инструмент для offline-first приложений.</text>
+    </tip>
+    <tip number="421" category="python">
+      <text>Говорю вам: functools.lru_cache — это мемоизация одной строкой.</text>
+    </tip>
+    <tip number="422" category="python">
+      <text>Блаженны понимающие GIL в CPython — ибо они не ждут от threading параллелизма.</text>
+    </tip>
+    <tip number="423" category="python">
+      <text>Воистину: pydantic v2 быстрее pydantic v1 в разы. Обновляйся.</text>
+    </tip>
+    <tip number="424" category="python">
+      <text>Не используй bare except: — это поймает даже SystemExit и KeyboardInterrupt.</text>
+    </tip>
+    <tip number="425" category="python">
+      <text>Истинно: logging module лучше print для production кода.</text>
+    </tip>
+    <tip number="426" category="arch">
+      <text>Говорю вам: anti-corruption layer защищает твой домен от чужих моделей.</text>
+    </tip>
+    <tip number="427" category="arch">
+      <text>Блаженны проектирующие для extensibility без over-engineering — это golden mean.</text>
+    </tip>
+    <tip number="428" category="arch">
+      <text>Воистину: message queue даёт decoupling и resilience ценой сложности.</text>
+    </tip>
+    <tip number="429" category="arch">
+      <text>Не строй sync там, где async даёт лучший UX и throughput.</text>
+    </tip>
+    <tip number="430" category="arch">
+      <text>Истинно: read model и write model могут быть разными — CQRS об этом.</text>
+    </tip>
+    <tip number="431" category="process">
+      <text>Говорю вам: bug bash — это когда вся команда ищет баги перед релизом. Полезно.</text>
+    </tip>
+    <tip number="432" category="process">
+      <text>Блаженны ведущие инженерный journal — ибо они помнят что пробовали и почему не сработало.</text>
+    </tip>
+    <tip number="433" category="воистину">
+      <text>Воистину: hypothesis-driven development — формулируй предположение до эксперимента.</text>
+    </tip>
+    <tip number="434" category="process">
+      <text>Не засоряй backlog нерелевантными задачами — груминг есть уборка, а не накопление.</text>
+    </tip>
+    <tip number="435" category="process">
+      <text>Истинно: shared team metrics важнее индивидуальных KPI для командного продукта.</text>
+    </tip>
+    <tip number="436" category="naming">
+      <text>Говорю вам: plural для коллекций, singular для элементов — users список, user один.</text>
+    </tip>
+    <tip number="437" category="naming">
+      <text>Блаженны придерживающиеся одного стиля именования событий — UserCreated или user.created, но не оба.</text>
+    </tip>
+    <tip number="438" category="naming">
+      <text>Воистину: не используй слово 'Manager' — это говорит о том, что класс делает слишком много.</text>
+    </tip>
+    <tip number="439" category="naming">
+      <text>Не называй DTO просто 'DTO' — укажи что именно это DTO: UserCreationDTO.</text>
+    </tip>
+    <tip number="440" category="naming">
+      <text>Истинно: enum значения именуй как существительные или прилагательные — Status.ACTIVE, а не Status.SET_ACTIVE.</text>
+    </tip>
+    <tip number="441" category="perf">
+      <text>Говорю вам: read-heavy workload — добавь replica. Write-heavy — думай о partitioning.</text>
+    </tip>
+    <tip number="442" category="perf">
+      <text>Блаженны знающие разницу между latency и throughput — это разные цели оптимизации.</text>
+    </tip>
+    <tip number="443" category="воистину">
+      <text>Воистину: p99 latency важнее average — ибо в average скрываются страдания медленных пользователей.</text>
+    </tip>
+    <tip number="444" category="perf">
+      <text>Не оптимизируй frontend пока backend возвращает ответ за 3 секунды.</text>
+    </tip>
+    <tip number="445" category="perf">
+      <text>Истинно: async rendering и streaming SSR дают perceived performance даже при медленных данных.</text>
+    </tip>
+    <tip number="446" category="testing">
+      <text>Говорю вам: load testing перед launch — это уважение к пользователям.</text>
+    </tip>
+    <tip number="447" category="testing">
+      <text>Блаженны пишущие тесты для каждого найденного бага — ибо регрессия не повторится.</text>
+    </tip>
+    <tip number="448" category="воистину">
+      <text>Воистину: golden master testing полезен для legacy систем где поведение непонятно.</text>
+    </tip>
+    <tip number="449" category="testing">
+      <text>Не тести implementation details — тести behaviour. Рефакторинг не должен ломать тесты.</text>
+    </tip>
+    <tip number="450" category="testing">
+      <text>Истинно: chaos monkey в staging — это лучшая подготовка к production incidents.</text>
+    </tip>
+    <tip number="451" category="career">
+      <text>Говорю вам: найди своё место между generalist и specialist — оба нужны, оба ценны.</text>
+    </tip>
+    <tip number="452" category="career">
+      <text>Блаженны умеющие делегировать — ибо одна голова хороша, а команда лучше.</text>
+    </tip>
+    <tip number="453" category="воистину">
+      <text>Воистину: imposter syndrome есть признак того, что ты работаешь рядом с умными людьми.</text>
+    </tip>
+    <tip number="454" category="career">
+      <text>Не сравнивай зарплату с теми кто меньше. Сравнивай с рынком и своей ценностью.</text>
+    </tip>
+    <tip number="455" category="career">
+      <text>Истинно: умение объяснить компромиссы — это признак зрелости инженера.</text>
+    </tip>
+    <tip number="456" category="tools">
+      <text>Говорю вам: fig/zsh-autocomplete меняют отношение к терминалу навсегда.</text>
+    </tip>
+    <tip number="457" category="tools">
+      <text>Блаженны настроившие мониторинг своего dev окружения — CPU, RAM, disk alerts.</text>
+    </tip>
+    <tip number="458" category="воистину">
+      <text>Воистину: Notion, Obsidian, Roam — выбери систему для заметок и используй её.</text>
+    </tip>
+    <tip number="459" category="tools">
+      <text>Не держи десятки вкладок браузера — это когнитивная нагрузка без пользы.</text>
+    </tip>
+    <tip number="460" category="tools">
+      <text>Истинно: keyboard-driven workflow быстрее mouse-driven в 2-3 раза для опытного пользователя.</text>
+    </tip>
+    <tip number="461" category="cloud">
+      <text>Говорю вам: well-architected framework AWS/GCP/Azure — читай как десять заповедей облака.</text>
+    </tip>
+    <tip number="462" category="cloud">
+      <text>Блаженны строящие для disaster recovery — RPO и RTO определены, протестированы, достигнуты.</text>
+    </tip>
+    <tip number="463" category="воистину">
+      <text>Воистину: managed Kubernetes дешевле self-hosted для большинства компаний.</text>
+    </tip>
+    <tip number="464" category="cloud">
+      <text>Не забывай про egress costs — трафик из облака дорог. Архитектура влияет на счёт.</text>
+    </tip>
+    <tip number="465" category="cloud">
+      <text>Истинно: private endpoints для внутреннего трафика — безопаснее и дешевле чем через internet.</text>
+    </tip>
+    <tip number="466" category="wisdom">
+      <text>Говорю вам: скорость без качества — это технический долг. Качество без скорости — это банкротство.</text>
+    </tip>
+    <tip number="467" category="wisdom">
+      <text>Блаженны балансирующие между идеальным и достаточным — ибо это мастерство инженера.</text>
+    </tip>
+    <tip number="468" category="воистину">
+      <text>Воистину: всякий инструмент создан для задачи. Знай задачу прежде инструмента.</text>
+    </tip>
+    <tip number="469" category="wisdom">
+      <text>Не бойся удалять код — удаление мёртвого кода есть добродетель.</text>
+    </tip>
+    <tip number="470" category="wisdom">
+      <text>Истинно: задай вопрос 'зачем' пять раз — и найдёшь настоящую причину проблемы.</text>
+    </tip>
+    <tip number="471" category="code">
+      <text>Говорю вам: tell don't ask — командуй объекту что делать, не спрашивай его состояние.</text>
+    </tip>
+    <tip number="472" category="code">
+      <text>Блаженны избегающие primitive obsession — оборачивай примитивы в domain types.</text>
+    </tip>
+    <tip number="473" category="воистину">
+      <text>Воистину: shotgun surgery — запах кода, когда одно изменение трогает десятки файлов.</text>
+    </tip>
+    <tip number="474" category="code">
+      <text>Не используй inheritance для переиспользования кода — используй composition.</text>
+    </tip>
+    <tip number="475" category="code">
+      <text>Истинно: immutability уменьшает количество мест где что-то может пойти не так.</text>
+    </tip>
+    <tip number="476" category="debug">
+      <text>Говорю вам: correlation ID через все сервисы — это нить Ариадны в distributed трассировке.</text>
+    </tip>
+    <tip number="477" category="debug">
+      <text>Блаженны умеющие читать flame graph — ибо они видят где время тратится на самом деле.</text>
+    </tip>
+    <tip number="478" category="воистину">
+      <text>Воистину: memory dump при OOM — это снимок момента смерти. Учись его читать.</text>
+    </tip>
+    <tip number="479" category="debug">
+      <text>Не добавляй новый код при дебаге не понимая старого — ибо умножаешь неизвестное.</text>
+    </tip>
+    <tip number="480" category="debug">
+      <text>Истинно: assert ваши предположения — если ты думаешь x > 0, проверь это assertion'ом.</text>
+    </tip>
+    <tip number="481" category="database">
+      <text>Говорю вам: materialized view — это кэш в базе данных. Дорог при обновлении, быстр при чтении.</text>
+    </tip>
+    <tip number="482" category="database">
+      <text>Блаженны понимающие что UUID v4 менее эффективен чем sequential ID для B-tree индексов.</text>
+    </tip>
+    <tip number="483" category="воистину">
+      <text>Воистину: time-series данные требуют специализированного хранилища — не RDBMS.</text>
+    </tip>
+    <tip number="484" category="database">
+      <text>Не используй OFFSET для pagination на больших данных — используй cursor based.</text>
+    </tip>
+    <tip number="485" category="database">
+      <text>Истинно: CHECK constraint дешевле application-level валидации и работает всегда.</text>
+    </tip>
+    <tip number="486" category="devops">
+      <text>Говорю вам: distributed tracing — OpenTelemetry стандарт, а не вопрос выбора.</text>
+    </tip>
+    <tip number="487" category="devops">
+      <text>Блаженны практикующие GameDay — имитацию инцидентов для тренировки команды.</text>
+    </tip>
+    <tip number="488" category="воистину">
+      <text>Воистину: DORA metrics — deployment frequency, lead time, MTTR, change failure rate — твои KPI.</text>
+    </tip>
+    <tip number="489" category="devops">
+      <text>Не вручную редактируй kubernetes манифесты в production — только через GitOps.</text>
+    </tip>
+    <tip number="490" category="devops">
+      <text>Истинно: horizontal pod autoscaler должен быть настроен до того как нагрузка придёт.</text>
+    </tip>
+    <tip number="491" category="security">
+      <text>Говорю вам: Content Security Policy — это белый список для browser. Настрой.</text>
+    </tip>
+    <tip number="492" category="security">
+      <text>Блаженны проводящие tabletop exercises по security incidents — ибо они знают план до паники.</text>
+    </tip>
+    <tip number="493" category="воистину">
+      <text>Воистину: Vault или AWS Secrets Manager — используй secret management tool, не env vars в CI.</text>
+    </tip>
+    <tip number="494" category="security">
+      <text>Не логируй sensitive data — PII, карточные данные, пароли не должны быть в logs.</text>
+    </tip>
+    <tip number="495" category="security">
+      <text>Истинно: zero trust network — никому не доверяй по умолчанию, проверяй всегда.</text>
+    </tip>
+    <tip number="496" category="api">
+      <text>Говорю вам: Long Polling против WebSocket versus SSE — выбери правильный для своей задачи.</text>
+    </tip>
+    <tip number="497" category="api">
+      <text>Блаженны реализующие proper backoff при retry — exponential with jitter.</text>
+    </tip>
+    <tip number="498" category="воистину">
+      <text>Воистину: schema validation на входе API — первая линия защиты от мусорных данных.</text>
+    </tip>
+    <tip number="499" category="api">
+      <text>Не используй GET для операций с side effects — это нарушение HTTP семантики.</text>
+    </tip>
+    <tip number="500" category="api">
+      <text>Истинно: correlation between API latency и user satisfaction — прямая. Не игнорируй.</text>
+    </tip>
+    <tip number="501" category="javascript">
+      <text>Говорю вам: Intl API встроен в браузер — не подключай библиотеку для форматирования дат.</text>
+    </tip>
+    <tip number="502" category="javascript">
+      <text>Блаженны знающие разницу между microtask и macrotask queue в event loop.</text>
+    </tip>
+    <tip number="503" category="воистину">
+      <text>Воистину: Web Components — стандарт, который наконец-то стал удобным в 2026.</text>
+    </tip>
+    <tip number="504" category="javascript">
+      <text>Не игнорируй memory leaks в SPA — event listeners не удалённые при unmount накапливаются.</text>
+    </tip>
+    <tip number="505" category="javascript">
+      <text>Истинно: AbortController для отмены fetch запросов — используй при unmount компонента.</text>
+    </tip>
+    <tip number="506" category="python">
+      <text>Говорю вам: generators — ленивые вычисления для бесконечных последовательностей.</text>
+    </tip>
+    <tip number="507" category="python">
+      <text>Блаженны знающие разница между deepcopy и copy — ибо вложенные объекты обманывают.</text>
+    </tip>
+    <tip number="508" category="воистину">
+      <text>Воистину: Protocol в Python — это structural subtyping без наследования.</text>
+    </tip>
+    <tip number="509" category="python">
+      <text>Не используй мутабельные объекты как ключи словаря — они не hashable.</text>
+    </tip>
+    <tip number="510" category="python">
+      <text>Истинно: uvicorn + FastAPI — современный стек для production API в Python.</text>
+    </tip>
+    <tip number="511" category="arch">
+      <text>Говорю вам: write-ahead log — основа многих баз данных и distributed систем.</text>
+    </tip>
+    <tip number="512" category="arch">
+      <text>Блаженны понимающие vector clock и logical clock для distributed ordering.</text>
+    </tip>
+    <tip number="513" category="воистину">
+      <text>Воистину: two-phase commit — проблема сама по себе. Saga лучше для большинства случаев.</text>
+    </tip>
+    <tip number="514" category="arch">
+      <text>Не строй distributed system без понимания fallacies of distributed computing.</text>
+    </tip>
+    <tip number="515" category="arch">
+      <text>Истинно: read-your-own-write consistency — минимальное требование для хорошего UX.</text>
+    </tip>
+    <tip number="516" category="process">
+      <text>Говорю вам: incident commander role во время outage — один принимает решения.</text>
+    </tip>
+    <tip number="517" category="process">
+      <text>Блаженны ведущие incident timeline в реальном времени — ибо postmortem потом пишется легко.</text>
+    </tip>
+    <tip number="518" category="воистину">
+      <text>Воистину: blameless postmortem — это о системах, а не о людях. Люди делают лучшее что могут.</text>
+    </tip>
+    <tip number="519" category="process">
+      <text>Не называй incident 'user error' — это значит система не защищена от ошибок пользователя.</text>
+    </tip>
+    <tip number="520" category="process">
+      <text>Истинно: on-call rotation должен быть справедливым иначе выгорание неизбежно.</text>
+    </tip>
+    <tip number="521" category="naming">
+      <text>Говорю вам: action в Redux называется глаголом в прошлом — USER_CREATED, не CREATE_USER.</text>
+    </tip>
+    <tip number="522" category="naming">
+      <text>Блаженны избегающие слова 'Common' — ибо common package это свалка без концепции.</text>
+    </tip>
+    <tip number="523" category="воистину">
+      <text>Воистину: event names как past participle — OrderShipped, PaymentProcessed — говорят что случилось.</text>
+    </tip>
+    <tip number="524" category="naming">
+      <text>Не называй метод 'doStuff' — это не имя, это отказ думать.</text>
+    </tip>
+    <tip number="525" category="naming">
+      <text>Истинно: namespace для enum избегает конфликтов — Color.RED лучше чем RED.</text>
+    </tip>
+    <tip number="526" category="perf">
+      <text>Говорю вам: bloom filter — это probabilistic structure для быстрой проверки принадлежности.</text>
+    </tip>
+    <tip number="527" category="perf">
+      <text>Блаженны знающие когда использовать binary search вместо linear — O(log n) против O(n).</text>
+    </tip>
+    <tip number="528" category="воистину">
+      <text>Воистину: consistent hashing — это как равномерно распределить данные при добавлении узлов.</text>
+    </tip>
+    <tip number="529" category="perf">
+      <text>Не создавай объекты в hot loops — allocation pressure влияет на GC паузы.</text>
+    </tip>
+    <tip number="530" category="perf">
+      <text>Истинно: prefetching данных до того как они нужны — магия производительности.</text>
+    </tip>
+    <tip number="531" category="testing">
+      <text>Говорю вам: approval testing — тестируй человекочитаемый output, а не raw JSON.</text>
+    </tip>
+    <tip number="532" category="testing">
+      <text>Блаженны практикующие TDD на сложной бизнес логике — не везде, но там где нужно.</text>
+    </tip>
+    <tip number="533" category="воистину">
+      <text>Воистину: test data builder паттерн — создаёт тестовые объекты гибко и читаемо.</text>
+    </tip>
+    <tip number="534" category="testing">
+      <text>Не зависи от порядка выполнения тестов — каждый тест должен быть независим.</text>
+    </tip>
+    <tip number="535" category="testing">
+      <text>Истинно: performance regression тесты автоматически — ибо вручную никто не проверяет.</text>
+    </tip>
+    <tip number="536" category="career">
+      <text>Говорю вам: system design интервью — это проверка как ты думаешь, а не как ты знаешь.</text>
+    </tip>
+    <tip number="537" category="career">
+      <text>Блаженны изучающие алгоритмы не для интервью, а для понимания компромиссов.</text>
+    </tip>
+    <tip number="538" category="воистину">
+      <text>Воистину: engineering levels — это не звания, а ответственность и влияние.</text>
+    </tip>
+    <tip number="539" category="career">
+      <text>Не жди повышения само собой — проси его, аргументируй, показывай impact.</text>
+    </tip>
+    <tip number="540" category="career">
+      <text>Истинно: technical writing — недооценённый навык, делающий инженера лидером.</text>
+    </tip>
+    <tip number="541" category="tools">
+      <text>Говорю вам: jq для работы с JSON в терминале — незаменим для API отладки.</text>
+    </tip>
+    <tip number="542" category="tools">
+      <text>Блаженны умеющие писать bash скрипты — ибо автоматизация рутины освобождает время.</text>
+    </tip>
+    <tip number="543" category="воистину">
+      <text>Воистину: watch команда в Linux для мониторинга изменений — простой но мощный инструмент.</text>
+    </tip>
+    <tip number="544" category="tools">
+      <text>Не открывай файл в редакторе если sed и awk сделают быстрее.</text>
+    </tip>
+    <tip number="545" category="tools">
+      <text>Истинно: curl с -v флагом показывает все headers — бесценно при отладке HTTP.</text>
+    </tip>
+    <tip number="546" category="cloud">
+      <text>Говорю вам: FinOps — это культура и практика управления cloud costs. Внедряй.</text>
+    </tip>
+    <tip number="547" category="cloud">
+      <text>Блаженны использующие Infrastructure as Code тесты — terratest, инфраструктура должна тестироваться.</text>
+    </tip>
+    <tip number="548" category="воистину">
+      <text>Воистину: cloud-native не значит лучше — значит спроектировано для cloud. Это важное различие.</text>
+    </tip>
+    <tip number="549" category="cloud">
+      <text>Не игнорируй soft limits в облаке — они станут hard limits в самый неподходящий момент.</text>
+    </tip>
+    <tip number="550" category="cloud">
+      <text>Истинно: shared responsibility model — облачный провайдер за инфраструктуру, ты за данные и приложение.</text>
+    </tip>
+    <tip number="551" category="wisdom">
+      <text>Говорю вам: никогда не недооценивай сложность UI — backend просто, frontend сложно.</text>
+    </tip>
+    <tip number="552" category="wisdom">
+      <text>Блаженны имеющие эмпатию к пользователю — ибо они создают продукты, которыми пользуются.</text>
+    </tip>
+    <tip number="553" category="воистину">
+      <text>Воистину: измеряй дважды — режь один раз. В IT это означает прототип перед реализацией.</text>
+    </tip>
+    <tip number="554" category="wisdom">
+      <text>Не строй для себя — строй для пользователей твоих. Они другие.</text>
+    </tip>
+    <tip number="555" category="wisdom">
+      <text>Истинно: инженерия — это искусство компромиссов. Нет идеального решения, есть лучшее для контекста.</text>
+    </tip>
+    <tip number="556" category="code">
+      <text>Говорю вам: expression problem — добавлять типы или операции? Выбор архитектуры.</text>
+    </tip>
+    <tip number="557" category="code">
+      <text>Блаженны понимающие visitor паттерн — ибо он решает expression problem элегантно.</text>
+    </tip>
+    <tip number="558" category="воистину">
+      <text>Воистину: continuation passing style — это способ думать о потоке управления в функциональном стиле.</text>
+    </tip>
+    <tip number="559" category="code">
+      <text>Не бойся функционального стиля — map, filter, reduce — они чище циклов в большинстве случаев.</text>
+    </tip>
+    <tip number="560" category="code">
+      <text>Истинно: частичное применение функций — мощный инструмент для создания специализированных функций.</text>
+    </tip>
+    <tip number="561" category="debug">
+      <text>Говорю вам: wireshark и tcpdump — для тех случаев когда нужно видеть реальный трафик.</text>
+    </tip>
+    <tip number="562" category="debug">
+      <text>Блаженны умеющие читать HTTP архивы (HAR) — ибо производительность frontend видна как на ладони.</text>
+    </tip>
+    <tip number="563" category="воистину">
+      <text>Воистину: strace покажет системные вызовы процесса. ltrace — вызовы библиотек. Знай оба.</text>
+    </tip>
+    <tip number="564" category="debug">
+      <text>Не выключай asserts в production — они стоят дёшево и предотвращают катастрофы.</text>
+    </tip>
+    <tip number="565" category="debug">
+      <text>Истинно: conditional breakpoint — это хирургия отладки. Останавливает только когда нужно.</text>
+    </tip>
+    <tip number="566" category="database">
+      <text>Говорю вам: columnar storage для analytics — строчное для OLTP. Это разные архитектуры.</text>
+    </tip>
+    <tip number="567" category="database">
+      <text>Блаженны понимающие WAL и как он помогает восстановлению после сбоя.</text>
+    </tip>
+    <tip number="568" category="воистину">
+      <text>Воистину: hot standby против warm standby против cold standby — знай разницу в RTO.</text>
+    </tip>
+    <tip number="569" category="database">
+      <text>Не используй LIKE '%term%' — это full table scan. Используй full-text search.</text>
+    </tip>
+    <tip number="570" category="database">
+      <text>Истинно: database triggers — мощный инструмент, который превращается в невидимую логику.</text>
+    </tip>
+    <tip number="571" category="devops">
+      <text>Говорю вам: dependency graph сервисов — визуализируй и держи актуальным.</text>
+    </tip>
+    <tip number="572" category="devops">
+      <text>Блаженны стандартизирующие observability — единый формат логов, единые метрики.</text>
+    </tip>
+    <tip number="573" category="воистину">
+      <text>Воистину: SLI — что измеряем. SLO — какое значение хотим. SLA — что пообещали клиенту.</text>
+    </tip>
+    <tip number="574" category="devops">
+      <text>Не деплой без smoke tests после — убедись что приложение отвечает базово.</text>
+    </tip>
+    <tip number="575" category="devops">
+      <text>Истинно: progressive delivery — canary, feature flags, A/B — это зрелая deployment практика.</text>
+    </tip>
+    <tip number="576" category="security">
+      <text>Говорю вам: security scanning в CI — это автоматическая проверка что не забыл.</text>
+    </tip>
+    <tip number="577" category="security">
+      <text>Блаженны понимающие OAuth 2.0 правильно — ибо неправильная реализация — уязвимость.</text>
+    </tip>
+    <tip number="578" category="воистину">
+      <text>Воистину: PKCE расширение OAuth — обязательно для публичных clients в 2026.</text>
+    </tip>
+    <tip number="579" category="security">
+      <text>Не храни sensitive config в source code — используй secret management.</text>
+    </tip>
+    <tip number="580" category="security">
+      <text>Истинно: регулярная ротация секретов — это гигиена, а не паранойя.</text>
+    </tip>
+    <tip number="581" category="api">
+      <text>Говорю вам: server-sent events дешевле WebSocket для однонаправленных обновлений.</text>
+    </tip>
+    <tip number="582" category="api">
+      <text>Блаженны реализующие proper pagination с totalCount и hasNextPage.</text>
+    </tip>
+    <tip number="583" category="воистину">
+      <text>Воистину: HTTP/2 multiplexing делает ненужной domain sharding практику.</text>
+    </tip>
+    <tip number="584" category="api">
+      <text>Не игнорируй Content-Encoding и Accept-Encoding — правильная компрессия бесплатна.</text>
+    </tip>
+    <tip number="585" category="api">
+      <text>Истинно: proper use of HTTP caching избавит от ненужных запросов к серверу.</text>
+    </tip>
+    <tip number="586" category="javascript">
+      <text>Говорю вам: Temporal API — наконец то правильная работа с датами в JavaScript.</text>
+    </tip>
+    <tip number="587" category="javascript">
+      <text>Блаженны использующие Error.cause для цепочки ошибок — ибо контекст сохраняется.</text>
+    </tip>
+    <tip number="588" category="воистину">
+      <text>Воистину: web assembly открывает двери для production-ready compute в браузере.</text>
+    </tip>
+    <tip number="589" category="javascript">
+      <text>Не используй innerHTML с пользовательскими данными — это XSS уязвимость.</text>
+    </tip>
+    <tip number="590" category="javascript">
+      <text>Истинно: requestAnimationFrame для анимаций — не setInterval.</text>
+    </tip>
+    <tip number="591" category="python">
+      <text>Говорю вам: match statement в Python 3.10+ — это pattern matching как в Haskell.</text>
+    </tip>
+    <tip number="592" category="python">
+      <text>Блаженны использующие walrus operator := аккуратно — ибо злоупотребление нечитаемо.</text>
+    </tip>
+    <tip number="593" category="воистину">
+      <text>Воистину: Polars быстрее Pandas для большинства операций. Время меняться.</text>
+    </tip>
+    <tip number="594" category="python">
+      <text>Не используй datetime.now() в production — используй datetime.utcnow() или aware datetime.</text>
+    </tip>
+    <tip number="595" category="python">
+      <text>Истинно: ABC — abstract base class — для явного контракта в Python коде.</text>
+    </tip>
+    <tip number="596" category="arch">
+      <text>Говорю вам: outbox pattern — надёжная публикация событий без распределённых транзакций.</text>
+    </tip>
+    <tip number="597" category="arch">
+      <text>Блаженны знающие разницу между orchestration и choreography в микросервисах.</text>
+    </tip>
+    <tip number="598" category="воистину">
+      <text>Воистину: data mesh — это DDD применённый к data engineering. Новый взгляд, старые принципы.</text>
+    </tip>
+    <tip number="599" category="arch">
+      <text>Не строй monorepo без tooling для него — Nx, Turborepo, Bazel — выбери подходящий.</text>
+    </tip>
+    <tip number="600" category="arch">
+      <text>Истинно: архитектура — это то, что сложно изменить. Всё остальное — дизайн.</text>
+    </tip>
+    <tip number="601" category="process">
+      <text>Говорю вам: pair programming ускоряет передачу знаний и снижает bus factor.</text>
+    </tip>
+    <tip number="602" category="process">
+      <text>Блаженны практикующие ensemble programming — вся команда над одной задачей иногда.</text>
+    </tip>
+    <tip number="603" category="воистину">
+      <text>Воистину: психологическая безопасность в команде — необходимое условие инноваций.</text>
+    </tip>
+    <tip number="604" category="process">
+      <text>Не игнорируй bus factor — если ключевой человек уйдёт, система должна выжить.</text>
+    </tip>
+    <tip number="605" category="process">
+      <text>Истинно: architecture decision record — фиксируй почему принял решение, не только что.</text>
+    </tip>
+    <tip number="606" category="naming">
+      <text>Говорю вам: file naming конвенции должны быть в README — ибо новичок должен знать.</text>
+    </tip>
+    <tip number="607" category="naming">
+      <text>Блаженны использующие семантическое версионирование — MAJOR.MINOR.PATCH — это язык совместимости.</text>
+    </tip>
+    <tip number="608" category="воистину">
+      <text>Воистину: пространство имён — великая вещь. Делай больше из них, сказал Тим Питерс.</text>
+    </tip>
+    <tip number="609" category="naming">
+      <text>Не используй числа в именах функций — doSomething2 — это запах что нужен рефакторинг.</text>
+    </tip>
+    <tip number="610" category="naming">
+      <text>Истинно: mock, stub, fake, spy — разные вещи. Называй правильно в тестах.</text>
+    </tip>
+    <tip number="611" category="perf">
+      <text>Говорю вам: memoization vs caching — мемоизация в процессе, кэш за пределами.</text>
+    </tip>
+    <tip number="612" category="perf">
+      <text>Блаженны умеющие читать CPU профиль — ибо они знают где реально тратится время.</text>
+    </tip>
+    <tip number="613" category="воистину">
+      <text>Воистину: JIT компиляция — магия превращения интерпретируемого в быстрый.</text>
+    </tip>
+    <tip number="614" category="perf">
+      <text>Не добавляй кэш как первый шаг — найди и исправь медленную операцию сначала.</text>
+    </tip>
+    <tip number="615" category="perf">
+      <text>Истинно: simd instructions — параллельные операции над векторами данных. Мощно для числодробилок.</text>
+    </tip>
+    <tip number="616" category="testing">
+      <text>Говорю вам: fuzz testing находит баги которые никто не предусмотрел.</text>
+    </tip>
+    <tip number="617" category="testing">
+      <text>Блаженны автоматизирующие visual regression testing — ибо пиксельные изменения незаметны глазу.</text>
+    </tip>
+    <tip number="618" category="воистину">
+      <text>Воистину: обезьяна тестирует случайными нажатиями. Это реальный метод поиска багов.</text>
+    </tip>
+    <tip number="619" category="testing">
+      <text>Не игнорируй accessibility testing — screen reader должен работать с твоим UI.</text>
+    </tip>
+    <tip number="620" category="testing">
+      <text>Истинно: shift-left testing — чем раньше найдёшь баг, тем дешевле исправить.</text>
+    </tip>
+    <tip number="621" category="career">
+      <text>Говорю вам: domain expertise ценится больше чем знание очередного фреймворка.</text>
+    </tip>
+    <tip number="622" category="career">
+      <text>Блаженны строящие репутацию через quality работы — это лучший маркетинг себя.</text>
+    </tip>
+    <tip number="623" category="воистину">
+      <text>Воистину: скорость найма не говорит о скорости роста. Растут те кто учатся.</text>
+    </tip>
+    <tip number="624" category="career">
+      <text>Не принимай решение о смене работы на эмоциях. Собери данные, подожди три дня.</text>
+    </tip>
+    <tip number="625" category="career">
+      <text>Истинно: senior не возраст — это scope impact и independence принятия решений.</text>
+    </tip>
+    <tip number="626" category="tools">
+      <text>Говорю вам: fzf — fuzzy finder меняет скорость навигации в терминале.</text>
+    </tip>
+    <tip number="627" category="tools">
+      <text>Блаженны использующие git alias для частых команд — git st вместо git status.</text>
+    </tip>
+    <tip number="628" category="воистину">
+      <text>Воистину: direnv для автоматического применения env vars при смене директории.</text>
+    </tip>
+    <tip number="629" category="tools">
+      <text>Не игнорируй language server в твоём IDE — autocomplete на основе типов бесценен.</text>
+    </tip>
+    <tip number="630" category="tools">
+      <text>Истинно: nushell или fish — современные оболочки с лучшим UX чем bash.</text>
+    </tip>
+    <tip number="631" category="cloud">
+      <text>Говорю вам: cloud cost anomaly detection — автоматически находит неожиданные расходы.</text>
+    </tip>
+    <tip number="632" category="cloud">
+      <text>Блаженны тегирующие все ресурсы — по команде, продукту, окружению, владельцу.</text>
+    </tip>
+    <tip number="633" category="воистину">
+      <text>Воистину: cloud database vs self-managed — посчитай TCO перед выбором.</text>
+    </tip>
+    <tip number="634" category="cloud">
+      <text>Не деплой в production без staging окружения — они должны быть максимально похожи.</text>
+    </tip>
+    <tip number="635" category="cloud">
+      <text>Истинно: caching at the edge с CDN — лучший способ ускорить глобальный сервис.</text>
+    </tip>
+    <tip number="636" category="wisdom">
+      <text>Говорю вам: совершенство — враг хорошего. Выпусти хорошее, улучши до совершенного.</text>
+    </tip>
+    <tip number="637" category="wisdom">
+      <text>Блаженны имеющие технический vision — ибо без него тактика ведёт в никуда.</text>
+    </tip>
+    <tip number="638" category="воистину">
+      <text>Воистину: engineering excellence и product velocity — не противоречие, а синергия.</text>
+    </tip>
+    <tip number="639" category="wisdom">
+      <text>Не думай что автоматизация решит всё. Иногда процесс нужно улучшить, а не автоматизировать.</text>
+    </tip>
+    <tip number="640" category="wisdom">
+      <text>Истинно: обратная совместимость — это уважение к тем, кто уже использует твоё решение.</text>
+    </tip>
+    <tip number="641" category="code">
+      <text>Говорю вам: algebraic data types — суммы и произведения — выражают модель предметной области точно.</text>
+    </tip>
+    <tip number="642" category="code">
+      <text>Блаженны понимающие разницу между pure и impure functions — это основа тестируемости.</text>
+    </tip>
+    <tip number="643" category="воистину">
+      <text>Воистину: railway oriented programming — элегантный способ обработки ошибок в pipeline.</text>
+    </tip>
+    <tip number="644" category="code">
+      <text>Не игнорируй invariants — если объект всегда должен быть в валидном состоянии, обеспечь это.</text>
+    </tip>
+    <tip number="645" category="code">
+      <text>Истинно: constructor должен создавать только валидные объекты. Невалидный объект — ошибка дизайна.</text>
+    </tip>
+    <tip number="646" category="debug">
+      <text>Говорю вам: distributed tracing — Jaeger, Zipkin, Tempo — без них microservices — чёрный ящик.</text>
+    </tip>
+    <tip number="647" category="debug">
+      <text>Блаженны знающие как читать core dump — ибо они воскрешают прошлое приложения.</text>
+    </tip>
+    <tip number="648" category="воистину">
+      <text>Воистину: статический анализ кода находит баги без запуска программы. Запускай в CI.</text>
+    </tip>
+    <tip number="649" category="debug">
+      <text>Не полагайся на интуицию при отладке — записывай гипотезы и проверяй их.</text>
+    </tip>
+    <tip number="650" category="debug">
+      <text>Истинно: в 80% случаев баг в твоём коде. В 15% — в конфигурации. В 5% — в библиотеке.</text>
+    </tip>
+    <tip number="651" category="database">
+      <text>Говорю вам: выбор первичного ключа влияет на производительность всей таблицы.</text>
+    </tip>
+    <tip number="652" category="database">
+      <text>Блаженны понимающие MVCC — multi-version concurrency control — основу изоляции транзакций.</text>
+    </tip>
+    <tip number="653" category="воистину">
+      <text>Воистину: jsonb в PostgreSQL — это мощно. Но если всё в jsonb — ты отрицаешь реляционность.</text>
+    </tip>
+    <tip number="654" category="database">
+      <text>Не бойся денормализации — иногда она правильное архитектурное решение для производительности.</text>
+    </tip>
+    <tip number="655" category="database">
+      <text>Истинно: archive старые данные — production база должна содержать только рабочие данные.</text>
+    </tip>
+    <tip number="656" category="devops">
+      <text>Говорю вам: platform engineering — это внутренний продукт для разработчиков. Строй его.</text>
+    </tip>
+    <tip number="657" category="devops">
+      <text>Блаженны измеряющие developer experience — SPACE framework даёт структуру.</text>
+    </tip>
+    <tip number="658" category="воистину">
+      <text>Воистину: golden path — это опinionated путь, который работает. Следуй ему сначала.</text>
+    </tip>
+    <tip number="659" category="devops">
+      <text>Не игнорируй toil — если ручная работа повторяется, автоматизируй её.</text>
+    </tip>
+    <tip number="660" category="devops">
+      <text>Истинно: cost attribution per service — без этого не знаешь где деньги уходят.</text>
+    </tip>
+    <tip number="661" category="security">
+      <text>Говорю вам: SBOM — software bill of materials — это список ингредиентов для аудита.</text>
+    </tip>
+    <tip number="662" category="security">
+      <text>Блаженны практикующие supply chain security — проверяй что ставишь из npm/pip.</text>
+    </tip>
+    <tip number="663" category="воистину">
+      <text>Воистину: signed commits — это доказательство авторства. Настрой GPG signing.</text>
+    </tip>
+    <tip number="664" category="security">
+      <text>Не открывай debug endpoints в production — /actuator, /debug, /console — отключи.</text>
+    </tip>
+    <tip number="665" category="security">
+      <text>Истинно: время до обнаружения breach важнее чем время самого breach. Мониторинг спасает.</text>
+    </tip>
+    <tip number="666" category="api">
+      <text>Говорю вам: число зверя — это API без документации в шестьсот шестьдесят шесть версий.</text>
+    </tip>
+    <tip number="667" category="api">
+      <text>Блаженны реализующие health check endpoint — /health — для load balancer и orchestrator.</text>
+    </tip>
+    <tip number="668" category="воистину">
+      <text>Воистину: readiness vs liveness probe в K8s — разные проверки для разных целей.</text>
+    </tip>
+    <tip number="669" category="api">
+      <text>Не смешивай business logic и transport logic — handler только координирует.</text>
+    </tip>
+    <tip number="670" category="api">
+      <text>Истинно: API design — это UX для разработчиков. Думай об удобстве потребителя.</text>
+    </tip>
+    <tip number="671" category="javascript">
+      <text>Говорю вам: import maps — это нативный способ управлять зависимостями в браузере.</text>
+    </tip>
+    <tip number="672" category="javascript">
+      <text>Блаженны использующие Workbox для service worker — ибо он инкапсулирует сложность.</text>
+    </tip>
+    <tip number="673" category="воистину">
+      <text>Воистину: CSS container queries — наконец настоящий responsive component.</text>
+    </tip>
+    <tip number="674" category="javascript">
+      <text>Не используй alert/confirm/prompt в production — это архаика UX.</text>
+    </tip>
+    <tip number="675" category="javascript">
+      <text>Истинно: web worker shared memory через SharedArrayBuffer — осторожно с race conditions.</text>
+    </tip>
+    <tip number="676" category="python">
+      <text>Говорю вам: hypothesis library для property-based testing в Python — мощно.</text>
+    </tip>
+    <tip number="677" category="python">
+      <text>Блаженны использующие ruff вместо flake8+black+isort — одним инструментом быстрее.</text>
+    </tip>
+    <tip number="678" category="воистину">
+      <text>Воистину: uv — новый пакетный менеджер Python в 100x быстрее pip.</text>
+    </tip>
+    <tip number="679" category="python">
+      <text>Не используй мутабельные аргументы по умолчанию — это один из самых частых питонских грехов.</text>
+    </tip>
+    <tip number="680" category="python">
+      <text>Истинно: pyproject.toml — стандарт конфигурации Python проектов. Перейди с setup.py.</text>
+    </tip>
+    <tip number="681" category="arch">
+      <text>Говорю вам: hexagonal architecture — ports and adapters — изолирует бизнес логику от инфраструктуры.</text>
+    </tip>
+    <tip number="682" category="arch">
+      <text>Блаженны понимающие разницу между use case и domain service.</text>
+    </tip>
+    <tip number="683" category="воистину">
+      <text>Воистину: feature toggles — это не только для A/B, но и для trunk-based development.</text>
+    </tip>
+    <tip number="684" category="arch">
+      <text>Не прячь IO за абстракциями так глубоко что не понятно что происходит.</text>
+    </tip>
+    <tip number="685" category="arch">
+      <text>Истинно: clean architecture — это dependency rule. Зависимости указывают внутрь.</text>
+    </tip>
+    <tip number="686" category="process">
+      <text>Говорю вам: inner source — это open source практики внутри компании. Строй так.</text>
+    </tip>
+    <tip number="687" category="process">
+      <text>Блаженны документирующие tribal knowledge в wiki — ибо она не уходит с людьми.</text>
+    </tip>
+    <tip number="688" category="воистину">
+      <text>Воистину: engineering blog — это рекрутинговый инструмент и источник гордости команды.</text>
+    </tip>
+    <tip number="689" category="process">
+      <text>Не делай hero culture — систему нельзя строить на зависимости от одного человека.</text>
+    </tip>
+    <tip number="690" category="process">
+      <text>Истинно: OKR для инженерных команд работает если метрики понятны и достижимы.</text>
+    </tip>
+    <tip number="691" category="naming">
+      <text>Говорю вам: error codes должны быть в enum, не в magic strings.</text>
+    </tip>
+    <tip number="692" category="naming">
+      <text>Блаженны документирующие публичные API в коде — JSDoc, docstring, KDoc.</text>
+    </tip>
+    <tip number="693" category="воистину">
+      <text>Воистину: naming в тестах по паттерну given-when-then или should-when делает их понятными.</text>
+    </tip>
+    <tip number="694" category="naming">
+      <text>Не называй переменную data если это userProfileData.</text>
+    </tip>
+    <tip number="695" category="naming">
+      <text>Истинно: конвенция для feature flag имён — feature.module.name — делает их управляемыми.</text>
+    </tip>
+    <tip number="696" category="perf">
+      <text>Говорю вам: speculative execution — CPU делает работу заранее. Алгоритмы должны это учитывать.</text>
+    </tip>
+    <tip number="697" category="perf">
+      <text>Блаженны понимающие cache locality — данные рядом в памяти обрабатываются быстрее.</text>
+    </tip>
+    <tip number="698" category="воистину">
+      <text>Воистину: false sharing в многопоточном коде убивает производительность незаметно.</text>
+    </tip>
+    <tip number="699" category="perf">
+      <text>Не добавляй abstraction layer без необходимости — каждый слой добавляет latency.</text>
+    </tip>
+    <tip number="700" category="perf">
+      <text>Истинно: zero-copy networking — sendfile() передаёт данные без копирования в user space.</text>
+    </tip>
+    <tip number="701" category="testing">
+      <text>Говорю вам: parameterized tests — один тест, много входных данных.</text>
+    </tip>
+    <tip number="702" category="testing">
+      <text>Блаженны использующие test fixtures с setup/teardown — изоляция состояния между тестами.</text>
+    </tip>
+    <tip number="703" category="воистину">
+      <text>Воистину: test containers — запускает реальные базы в Docker для integration тестов.</text>
+    </tip>
+    <tip number="704" category="testing">
+      <text>Не игнорируй тесты на конкурентность — они сложны но необходимы.</text>
+    </tip>
+    <tip number="705" category="testing">
+      <text>Истинно: behaviour-driven development — given/when/then — язык бизнеса в тестах.</text>
+    </tip>
+    <tip number="706" category="career">
+      <text>Говорю вам: feedback loop — чем короче он в обучении, тем быстрее рост.</text>
+    </tip>
+    <tip number="707" category="career">
+      <text>Блаженны умеющие задавать уточняющие вопросы перед реализацией — они не делают лишнего.</text>
+    </tip>
+    <tip number="708" category="воистину">
+      <text>Воистину: количество pull request не метрика продуктивности. Это метрика активности.</text>
+    </tip>
+    <tip number="709" category="career">
+      <text>Не путай занятость с продуктивностью. Занятой != эффективный.</text>
+    </tip>
+    <tip number="710" category="career">
+      <text>Истинно: engineering ladder — это не цель, это карта. Используй её для навигации.</text>
+    </tip>
+    <tip number="711" category="tools">
+      <text>Говорю вам: mise — это универсальный version manager, заменяющий nvm, pyenv и другие.</text>
+    </tip>
+    <tip number="712" category="tools">
+      <text>Блаженны автоматизирующие code generation — не пиши boilerplate вручную.</text>
+    </tip>
+    <tip number="713" category="воистину">
+      <text>Воистину: devcontainer — среда разработки как код. У всех одинаковая.</text>
+    </tip>
+    <tip number="714" category="tools">
+      <text>Не используй разные форматтеры в одном проекте — это война стилей.</text>
+    </tip>
+    <tip number="715" category="tools">
+      <text>Истинно: commit lint — автоматическая проверка формата commit сообщений.</text>
+    </tip>
+    <tip number="716" category="cloud">
+      <text>Говорю вам: cloud custodian — это compliance as code для облачных ресурсов.</text>
+    </tip>
+    <tip number="717" category="cloud">
+      <text>Блаженны настраивающие resource quotas в K8s namespace — ибо ни один pod не съест весь кластер.</text>
+    </tip>
+    <tip number="718" category="воистину">
+      <text>Воистину: node affinity и anti-affinity в K8s — это placement constraints для надёжности.</text>
+    </tip>
+    <tip number="719" category="cloud">
+      <text>Не держи dev и prod в одном облачном аккаунте — это опасно и неэкономно.</text>
+    </tip>
+    <tip number="720" category="cloud">
+      <text>Истинно: policy as code — Open Policy Agent — для governance infrastructure.</text>
+    </tip>
+    <tip number="721" category="wisdom">
+      <text>Говорю вам: velocity команды не линейна — закон убывающей отдачи применяется к людям тоже.</text>
+    </tip>
+    <tip number="722" category="wisdom">
+      <text>Блаженны понимающие что технология — средство, а не цель.</text>
+    </tip>
+    <tip number="723" category="воистину">
+      <text>Воистину: хорошая архитектура позволяет откладывать решения, а не принимать их рано.</text>
+    </tip>
+    <tip number="724" category="wisdom">
+      <text>Не строй то что не измеряешь — ибо не знаешь работает ли оно.</text>
+    </tip>
+    <tip number="725" category="wisdom">
+      <text>Истинно: feedback от пользователей важнее мнения архитектора.</text>
+    </tip>
+    <tip number="726" category="code">
+      <text>Говорю вам: trampolining — это итеративная реализация хвостовой рекурсии.</text>
+    </tip>
+    <tip number="727" category="code">
+      <text>Блаженны знающие когда использовать recursion vs iteration — оба инструмента для своего места.</text>
+    </tip>
+    <tip number="728" category="воистину">
+      <text>Воистину: lazy evaluation — вычисляй только когда нужно. Haskell жил этим всегда.</text>
+    </tip>
+    <tip number="729" category="code">
+      <text>Не пиши все в ООП если задача решается функционально — выбирай инструмент по задаче.</text>
+    </tip>
+    <tip number="730" category="code">
+      <text>Истинно: monad — это design pattern для последовательных вычислений с контекстом.</text>
+    </tip>
+    <tip number="731" category="debug">
+      <text>Говорю вам: sampling profiler лучше инструментального для production — overhead меньше.</text>
+    </tip>
+    <tip number="732" category="debug">
+      <text>Блаженны умеющие читать производительность в browser DevTools Performance tab.</text>
+    </tip>
+    <tip number="733" category="воистину">
+      <text>Воистину: memory profiler в Python — tracemalloc — находит утечки памяти.</text>
+    </tip>
+    <tip number="734" category="debug">
+      <text>Не говори 'это не воспроизводится' не попробовав разные условия.</text>
+    </tip>
+    <tip number="735" category="debug">
+      <text>Истинно: defensive assertion — проверяй предположения в коде, а не только в тестах.</text>
+    </tip>
+    <tip number="736" category="database">
+      <text>Говорю вам: connection string в URL формате — стандарт для database URIs.</text>
+    </tip>
+    <tip number="737" category="database">
+      <text>Блаженны знающие разницу между lock escalation и lock contention.</text>
+    </tip>
+    <tip number="738" category="воистину">
+      <text>Воистину: ghost records в SQL Server — это deleted строки, не сразу убранные. VACUUM аналог.</text>
+    </tip>
+    <tip number="739" category="database">
+      <text>Не создавай enum type в базе данных — добавить значение позже сложно.</text>
+    </tip>
+    <tip number="740" category="database">
+      <text>Истинно: pgBouncer или PgPool — connection pooler перед PostgreSQL — необходимость при масштабе.</text>
+    </tip>
+    <tip number="741" category="devops">
+      <text>Говорю вам: pod disruption budget — гарантирует что при rolling update не всё упадёт.</text>
+    </tip>
+    <tip number="742" category="devops">
+      <text>Блаженны автоматизирующие certificate renewal — certbot/cert-manager заменяют ручную работу.</text>
+    </tip>
+    <tip number="743" category="воистину">
+      <text>Воистину: log aggregation — ELK или Loki — без централизованных логов production — тайна.</text>
+    </tip>
+    <tip number="744" category="devops">
+      <text>Не держи сеансы SSH открытыми без bastion host — используй jump server или VPN.</text>
+    </tip>
+    <tip number="745" category="devops">
+      <text>Истинно: network policy в K8s — белый список трафика между подами.</text>
+    </tip>
+    <tip number="746" category="security">
+      <text>Говорю вам: SAST и DAST — два типа security testing. Оба нужны.</text>
+    </tip>
+    <tip number="747" category="security">
+      <text>Блаженны понимающие STRIDE threat modeling — Spoofing, Tampering, Repudiation, Info disclosure, DoS, Elevation.</text>
+    </tip>
+    <tip number="748" category="воистину">
+      <text>Воистину: security champion в команде — это разработчик с security mindset, не security специалист.</text>
+    </tip>
+    <tip number="749" category="security">
+      <text>Не игнорируй security headers — HSTS, X-Frame-Options, X-Content-Type-Options.</text>
+    </tip>
+    <tip number="750" category="security">
+      <text>Истинно: responsible disclosure — сообщай об уязвимостях правильно. Это этика хакера.</text>
+    </tip>
+    <tip number="751" category="api">
+      <text>Говорю вам: API changelog — это история изменений которую клиент читает перед обновлением.</text>
+    </tip>
+    <tip number="752" category="api">
+      <text>Блаженны реализующие proper 404 vs 403 — один говорит 'нет', другой 'тебе нельзя'.</text>
+    </tip>
+    <tip number="753" category="воистину">
+      <text>Воистину: API first design — сначала контракт, потом реализация. Consumer driven contracts.</text>
+    </tip>
+    <tip number="754" category="api">
+      <text>Не возвращай 200 OK при partial failure — используй 207 Multi-Status или правильные коды.</text>
+    </tip>
+    <tip number="755" category="api">
+      <text>Истинно: dead letter queue для failed messages — ни одно сообщение не теряется.</text>
+    </tip>
+    <tip number="756" category="javascript">
+      <text>Говорю вам: CSS-in-JS решает проблемы global scope, но добавляет runtime overhead.</text>
+    </tip>
+    <tip number="757" category="javascript">
+      <text>Блаженны понимающие critical rendering path — ибо они оптимизируют first contentful paint.</text>
+    </tip>
+    <tip number="758" category="воистину">
+      <text>Воистину: Lighthouse CI — автоматическая проверка performance, accessibility, SEO в pipeline.</text>
+    </tip>
+    <tip number="759" category="javascript">
+      <text>Не используй synchronous XHR — это блокирует main thread и устарело.</text>
+    </tip>
+    <tip number="760" category="javascript">
+      <text>Истинно: Core Web Vitals — LCP, CLS, INP — это метрики Google, влияющие на ранжирование.</text>
+    </tip>
+    <tip number="761" category="python">
+      <text>Говорю вам: __slots__ в Python 3.10+ с type hints — элегантная замена простым dataclass.</text>
+    </tip>
+    <tip number="762" category="python">
+      <text>Блаженны использующие httpx вместо requests для async HTTP в Python.</text>
+    </tip>
+    <tip number="763" category="воистину">
+      <text>Воистину: mypy с strict режимом — это TypeScript для Python. Включи и страдай или радуйся.</text>
+    </tip>
+    <tip number="764" category="python">
+      <text>Не игнорируй Python Packaging User Guide — setup правильно пакет раз и навсегда.</text>
+    </tip>
+    <tip number="765" category="python">
+      <text>Истинно: pyproject.toml с hatch или poetry — современный способ управления проектом.</text>
+    </tip>
+    <tip number="766" category="arch">
+      <text>Говорю вам: append-only log — основа event sourcing, Kafka, и многих distributed систем.</text>
+    </tip>
+    <tip number="767" category="arch">
+      <text>Блаженны понимающие разницу между pull и push model в pub/sub системах.</text>
+    </tip>
+    <tip number="768" category="воистину">
+      <text>Воистину: backpressure без bounded queue — это OOM в ожидании.</text>
+    </tip>
+    <tip number="769" category="arch">
+      <text>Не строй sync между сервисами там где async достаточен.</text>
+    </tip>
+    <tip number="770" category="arch">
+      <text>Истинно: consumer group в Kafka — это горизонтальное масштабирование обработки сообщений.</text>
+    </tip>
+    <tip number="771" category="process">
+      <text>Говорю вам: прозрачность о технических проблемах с бизнесом строит доверие.</text>
+    </tip>
+    <tip number="772" category="process">
+      <text>Блаженны проводящие design review до coding — ибо дешевле менять дизайн чем код.</text>
+    </tip>
+    <tip number="773" category="воистину">
+      <text>Воистину: mob review для сложных PR — когда один ревьюер недостаточно.</text>
+    </tip>
+    <tip number="774" category="process">
+      <text>Не начинай разработку без acceptance criteria — иначе никто не знает когда сделано.</text>
+    </tip>
+    <tip number="775" category="process">
+      <text>Истинно: feature lead ownership — один инженер ответственен за feature от начала до конца.</text>
+    </tip>
+    <tip number="776" category="naming">
+      <text>Говорю вам: namespace в C++ и package в Java — используй их как хлеб насущный.</text>
+    </tip>
+    <tip number="777" category="naming">
+      <text>Блаженны избегающие godawful сокращений типа 'mgr', 'ctrl', 'svc' — пиши полностью.</text>
+    </tip>
+    <tip number="778" category="воистину">
+      <text>Воистину: naming конвенция для database tables — snake_case, plural, без сокращений.</text>
+    </tip>
+    <tip number="779" category="naming">
+      <text>Не используй имена из другого языка без необходимости — codebase должна говорить на одном языке.</text>
+    </tip>
+    <tip number="780" category="naming">
+      <text>Истинно: версия в имени пакета — mylib.v2 — говорит о несовместимости явно.</text>
+    </tip>
+    <tip number="781" category="perf">
+      <text>Говорю вам: write amplification в SSD учитывай при проектировании write-heavy систем.</text>
+    </tip>
+    <tip number="782" category="perf">
+      <text>Блаженны понимающие difference between throughput optimization и latency optimization.</text>
+    </tip>
+    <tip number="783" category="воистину">
+      <text>Воистину: аппаратные counter через perf — это точные данные о CPU events без overhead.</text>
+    </tip>
+    <tip number="784" category="perf">
+      <text>Не применяй оптимизацию без benchmark до и после — иначе не знаешь помогло ли.</text>
+    </tip>
+    <tip number="785" category="perf">
+      <text>Истинно: query план меняется при изменении статистики. Обновляй статистику регулярно.</text>
+    </tip>
+    <tip number="786" category="testing">
+      <text>Говорю вам: test в production с feature flags — это не страшно, это canary.</text>
+    </tip>
+    <tip number="787" category="testing">
+      <text>Блаженны использующие synthetic monitoring — регулярные тесты production из разных регионов.</text>
+    </tip>
+    <tip number="788" category="воистину">
+      <text>Воистину: observability-driven development — пиши код с учётом того как будешь отлаживать.</text>
+    </tip>
+    <tip number="789" category="testing">
+      <text>Не тестируй только happy path — sad path, error path, edge cases важны не меньше.</text>
+    </tip>
+    <tip number="790" category="testing">
+      <text>Истинно: security test в CI — zap scan, trivy — не только функциональный.</text>
+    </tip>
+    <tip number="791" category="career">
+      <text>Говорю вам: read the fucking manual — RTFM — перед тем как задавать вопрос.</text>
+    </tip>
+    <tip number="792" category="career">
+      <text>Блаженны имеющие personal board of advisors — несколько менторов лучше одного.</text>
+    </tip>
+    <tip number="793" category="воистину">
+      <text>Воистину: open source contribution — это обучение у лучших через их review твоего кода.</text>
+    </tip>
+    <tip number="794" category="career">
+      <text>Не переоценивай важность технологий которые знаешь — рынок меняется.</text>
+    </tip>
+    <tip number="795" category="career">
+      <text>Истинно: понимание бизнеса делает инженера ценнее специалиста узкого профиля.</text>
+    </tip>
+    <tip number="796" category="tools">
+      <text>Говорю вам: delta — красивый diff для git. Попробуй и не вернёшься к старому.</text>
+    </tip>
+    <tip number="797" category="tools">
+      <text>Блаженны настроившие git email и username правильно — ибо коммиты атрибутированы верно.</text>
+    </tip>
+    <tip number="798" category="воистину">
+      <text>Воистину: lazygit — TUI для git который ускоряет повседневную работу с репозиторием.</text>
+    </tip>
+    <tip number="799" category="tools">
+      <text>Не работай с большими JSON файлами в редакторе — используй jq или специализированные инструменты.</text>
+    </tip>
+    <tip number="800" category="tools">
+      <text>Истинно: broot — умный file tree navigator для терминала.</text>
+    </tip>
+    <tip number="801" category="cloud">
+      <text>Говорю вам: ephemeral environments для каждого PR — автоматически создаются и удаляются.</text>
+    </tip>
+    <tip number="802" category="cloud">
+      <text>Блаженны внедрившие cloud native backup — ибо backup as a service надёжнее ручного.</text>
+    </tip>
+    <tip number="803" category="воистину">
+      <text>Воистину: service mesh — Istio, Linkerd — это observability и security между сервисами.</text>
+    </tip>
+    <tip number="804" category="cloud">
+      <text>Не используй AWS Lambda для long-running processes — это не назначение.</text>
+    </tip>
+    <tip number="805" category="cloud">
+      <text>Истинно: KEDA — event-driven autoscaling в Kubernetes — масштабируй по очереди сообщений.</text>
+    </tip>
+    <tip number="806" category="wisdom">
+      <text>Говорю вам: сложные проблемы требуют простых решений. Если решение сложное — думай ещё.</text>
+    </tip>
+    <tip number="807" category="wisdom">
+      <text>Блаженны принимающие решения на основе данных, а не gut feeling.</text>
+    </tip>
+    <tip number="808" category="воистину">
+      <text>Воистину: second system effect — второй проект всегда переусложнён. Знай об этом.</text>
+    </tip>
+    <tip number="809" category="wisdom">
+      <text>Не бойся говорить 'нам нужно это упростить' — смелость признать сложность.</text>
+    </tip>
+    <tip number="810" category="wisdom">
+      <text>Истинно: принцип наименьшего удивления — код должен делать то, что ожидается по его виду.</text>
+    </tip>
+    <tip number="811" category="code">
+      <text>Говорю вам: type system — это первый набор тестов. Если компилируется — уже кое-что.</text>
+    </tip>
+    <tip number="812" category="code">
+      <text>Блаженны знающие разницу между structural и nominal typing.</text>
+    </tip>
+    <tip number="813" category="воистину">
+      <text>Воистину: refinement types — это типы с предикатами. Liquid Haskell, Dafny живут этим.</text>
+    </tip>
+    <tip number="814" category="code">
+      <text>Не используй float для денег — используй Decimal или целые с масштабом.</text>
+    </tip>
+    <tip number="815" category="code">
+      <text>Истинно: newtype pattern — оборачивай примитивы для type safety.</text>
+    </tip>
+    <tip number="816" category="debug">
+      <text>Говорю вам: eBPF — это superpower для системных инженеров. Production трассировка без изменений кода.</text>
+    </tip>
+    <tip number="817" category="debug">
+      <text>Блаженны умеющие profiling в production с minimal overhead — continuous profiling как Pyroscope.</text>
+    </tip>
+    <tip number="818" category="воистину">
+      <text>Воистину: chaos engineering — Netflix Chaos Monkey приучил мир к resilience testing.</text>
+    </tip>
+    <tip number="819" category="debug">
+      <text>Не полагайся на println в многопоточном коде — порядок вывода недетерминирован.</text>
+    </tip>
+    <tip number="820" category="debug">
+      <text>Истинно: sanitizers — AddressSanitizer, ThreadSanitizer — ловят то, что тесты пропустили.</text>
+    </tip>
+    <tip number="821" category="database">
+      <text>Говорю вам: logical replication в PostgreSQL позволяет гибко реплицировать subset данных.</text>
+    </tip>
+    <tip number="822" category="database">
+      <text>Блаженны знающие как работает B-tree индекс внутри — это помогает проектировать запросы.</text>
+    </tip>
+    <tip number="823" category="воистину">
+      <text>Воистину: ClickHouse для analytics — это производительность на порядки выше RDBMS.</text>
+    </tip>
+    <tip number="824" category="database">
+      <text>Не храни blob данные в реляционной базе если size > 1MB — используй object storage.</text>
+    </tip>
+    <tip number="825" category="database">
+      <text>Истинно: pg_stat_statements — самый полезный extension PostgreSQL для мониторинга запросов.</text>
+    </tip>
+    <tip number="826" category="devops">
+      <text>Говорю вам: ephemeral storage в K8s pod — оно исчезнет при рестарте. Не храни там ничего важного.</text>
+    </tip>
+    <tip number="827" category="devops">
+      <text>Блаженны ведущие change management — каждое изменение задокументировано и одобрено.</text>
+    </tip>
+    <tip number="828" category="воистину">
+      <text>Воистину: deployment frequency — ключевая DORA метрика. Деплой чаще — рискуй меньше каждым разом.</text>
+    </tip>
+    <tip number="829" category="devops">
+      <text>Не деплой в production без rollback plan — всегда знай как откатиться.</text>
+    </tip>
+    <tip number="830" category="devops">
+      <text>Истинно: namespace isolation в K8s даёт logical separation без физического.</text>
+    </tip>
+    <tip number="831" category="security">
+      <text>Говорю вам: secrets rotation — автоматическая ротация секретов уменьшает окно компрометации.</text>
+    </tip>
+    <tip number="832" category="security">
+      <text>Блаженны понимающие разницу между authentication и authorization — кто ты vs что можешь.</text>
+    </tip>
+    <tip number="833" category="воистину">
+      <text>Воистину: mTLS между сервисами — это взаимная аутентификация, а не только TLS.</text>
+    </tip>
+    <tip number="834" category="security">
+      <text>Не используй MD5 или SHA1 для хэширования паролей — они сломаны.</text>
+    </tip>
+    <tip number="835" category="security">
+      <text>Истинно: bcrypt с правильным cost factor или argon2id для паролей — современный стандарт.</text>
+    </tip>
+    <tip number="836" category="api">
+      <text>Говорю вам: API key rotation — клиенты должны иметь возможность ротировать ключи без downtime.</text>
+    </tip>
+    <tip number="837" category="api">
+      <text>Блаженны реализующие proper tenant isolation в multi-tenant системах.</text>
+    </tip>
+    <tip number="838" category="воистину">
+      <text>Воистину: API deprecation — уведомляй заранее, давай migration guide, держи обещания.</text>
+    </tip>
+    <tip number="839" category="api">
+      <text>Не ломай клиентов изменением optional поля в required без версии.</text>
+    </tip>
+    <tip number="840" category="api">
+      <text>Истинно: hypermedia — это REST как Fielding задумывал. Редко нужно, но красиво.</text>
+    </tip>
+    <tip number="841" category="javascript">
+      <text>Говорю вам: Signals — новая парадигма реактивности. Angular, Solid, Preact уже перешли.</text>
+    </tip>
+    <tip number="842" category="javascript">
+      <text>Блаженны понимающие разницу между hydration и server components в React.</text>
+    </tip>
+    <tip number="843" category="воистину">
+      <text>Воистину: edge computing — Cloudflare Workers, Vercel Edge — код близко к пользователю.</text>
+    </tip>
+    <tip number="844" category="javascript">
+      <text>Не игнорируй TypeScript strict mode — каждое правило там защищает от реального класса ошибок.</text>
+    </tip>
+    <tip number="845" category="javascript">
+      <text>Истинно: bun — быстрый runtime и bundler. JavaScript экосистема продолжает эволюционировать.</text>
+    </tip>
+    <tip number="846" category="python">
+      <text>Говорю вам: Python 3.12 улучшил производительность и сообщения об ошибках. Обновляйся.</text>
+    </tip>
+    <tip number="847" category="python">
+      <text>Блаженны использующие dependency injection в Python — ибо тестируемость их высока.</text>
+    </tip>
+    <tip number="848" category="воистину">
+      <text>Воистину: Celery для distributed tasks в Python — проверено временем.</text>
+    </tip>
+    <tip number="849" category="python">
+      <text>Не используй global interpreter lock как оправдание не думать о concurrency.</text>
+    </tip>
+    <tip number="850" category="python">
+      <text>Истинно: rich library — красивый terminal output в Python. Logging становится удовольствием.</text>
+    </tip>
+    <tip number="851" category="arch">
+      <text>Говорю вам: data lineage — знай откуда данные пришли и куда ушли.</text>
+    </tip>
+    <tip number="852" category="arch">
+      <text>Блаженны строящие observability in the system design phase, not as afterthought.</text>
+    </tip>
+    <tip number="853" category="воистину">
+      <text>Воистину: API mesh — это следующий уровень API management для сложных организаций.</text>
+    </tip>
+    <tip number="854" category="arch">
+      <text>Не строй тесные связи между сервисами через shared database — это антипаттерн.</text>
+    </tip>
+    <tip number="855" category="arch">
+      <text>Истинно: event storming — коллаборативный workshop для моделирования сложных доменов.</text>
+    </tip>
+    <tip number="856" category="process">
+      <text>Говорю вам: writing culture в engineering — решения через документы, не только встречи.</text>
+    </tip>
+    <tip number="857" category="process">
+      <text>Блаженны практикующие chaos days — периодически намеренно ломай систему.</text>
+    </tip>
+    <tip number="858" category="воистину">
+      <text>Воистину: внутренняя документация устаревает быстрее кода. Автоматизируй её генерацию.</text>
+    </tip>
+    <tip number="859" category="process">
+      <text>Не игнорируй качество onboarding — новый инженер продуктивен за время onboarding.</text>
+    </tip>
+    <tip number="860" category="process">
+      <text>Истинно: innovation time — 20% времени на эксперименты. Google так создал Gmail.</text>
+    </tip>
+    <tip number="861" category="naming">
+      <text>Говорю вам: consistency beats cleverness. Скучное предсказуемое имя лучше умного непонятного.</text>
+    </tip>
+    <tip number="862" category="naming">
+      <text>Блаженны имеющие naming guide в team standards — ибо все говорят на одном языке.</text>
+    </tip>
+    <tip number="863" category="воистину">
+      <text>Воистину: refactoring это улучшение имён тоже. Переименуй — половина рефакторинга.</text>
+    </tip>
+    <tip number="864" category="naming">
+      <text>Не используй имена из контекста — если ты в UserService, не называй метод getUserUserData.</text>
+    </tip>
+    <tip number="865" category="naming">
+      <text>Истинно: сокращения в именах — только если они общеприняты в домене.</text>
+    </tip>
+    <tip number="866" category="perf">
+      <text>Говорю вам: prefetch instruction — намекай процессору загрузить данные заранее.</text>
+    </tip>
+    <tip number="867" category="perf">
+      <text>Блаженны знающие что GC pause это tax за memory management — выбирай runtime осознанно.</text>
+    </tip>
+    <tip number="868" category="воистину">
+      <text>Воистину: AOT компиляция даёт предсказуемую производительность — JIT даёт потенциально высшую.</text>
+    </tip>
+    <tip number="869" category="perf">
+      <text>Не пренебрегай connection keep-alive — повторное использование соединений экономит latency.</text>
+    </tip>
+    <tip number="870" category="perf">
+      <text>Истинно: CPU-bound vs IO-bound — разные подходы к оптимизации и concurrency.</text>
+    </tip>
+    <tip number="871" category="testing">
+      <text>Говорю вам: observability tests — проверяй что нужные метрики и логи генерируются.</text>
+    </tip>
+    <tip number="872" category="testing">
+      <text>Блаженны практикующие test-driven infrastructure — terratest и инфраструктура тоже тестируется.</text>
+    </tip>
+    <tip number="873" category="воистину">
+      <text>Воистину: testing microservices — contract tests важнее integration если сервисы независимы.</text>
+    </tip>
+    <tip number="874" category="testing">
+      <text>Не пиши тест который зависит от времени суток или внешнего сервиса.</text>
+    </tip>
+    <tip number="875" category="testing">
+      <text>Истинно: лучший тест тот который падает именно когда поведение сломано.</text>
+    </tip>
+    <tip number="876" category="career">
+      <text>Говорю вам: cultivate curiosity — задавай вопрос 'почему так устроено' постоянно.</text>
+    </tip>
+    <tip number="877" category="career">
+      <text>Блаженны умеющие учиться у неудач — ибо поражение без вывода есть потеря.</text>
+    </tip>
+    <tip number="878" category="воистину">
+      <text>Воистину: knowledge sharing культура в команде умножает экспертизу каждого.</text>
+    </tip>
+    <tip number="879" category="career">
+      <text>Не застревай в comfort zone — рост происходит на границе знания.</text>
+    </tip>
+    <tip number="880" category="career">
+      <text>Истинно: build в public — sharing работы строит репутацию и привлекает возможности.</text>
+    </tip>
+    <tip number="881" category="tools">
+      <text>Говорю вам: Warp — умный terminal с AI. Редактирование команд как в редакторе.</text>
+    </tip>
+    <tip number="882" category="tools">
+      <text>Блаженны настроившие proper SSH config — алиасы, ProxyJump, identity files.</text>
+    </tip>
+    <tip number="883" category="воистину">
+      <text>Воистину: local development с docker compose — воспроизводимая среда для всей команды.</text>
+    </tip>
+    <tip number="884" category="tools">
+      <text>Не используй password в SSH если можно certificate или key.</text>
+    </tip>
+    <tip number="885" category="tools">
+      <text>Истинно: ctop или k9s — TUI инструменты для мониторинга контейнеров.</text>
+    </tip>
+    <tip number="886" category="cloud">
+      <text>Говорю вам: Crossplane — управляй облачными ресурсами через Kubernetes API.</text>
+    </tip>
+    <tip number="887" category="cloud">
+      <text>Блаженны использующие service catalog — стандартные шаблоны для частых infrastructure задач.</text>
+    </tip>
+    <tip number="888" category="воистину">
+      <text>Воистину: FinOps maturity model — crawl walk run для управления cloud costs.</text>
+    </tip>
+    <tip number="889" category="cloud">
+      <text>Не игнорируй data residency requirements — некоторые данные нельзя покидать регион.</text>
+    </tip>
+    <tip number="890" category="cloud">
+      <text>Истинно: chaos engineering в production — AWS Fault Injection Simulator, Azure Chaos Studio.</text>
+    </tip>
+    <tip number="891" category="wisdom">
+      <text>Говорю вам: architectural fitness functions — автоматические проверки что архитектура соответствует замыслу.</text>
+    </tip>
+    <tip number="892" category="wisdom">
+      <text>Блаженны изучающие историю вычислительной техники — паттерны повторяются.</text>
+    </tip>
+    <tip number="893" category="воистину">
+      <text>Воистину: No Silver Bullet — Фред Брукс написал это в 1987. Актуально сегодня.</text>
+    </tip>
+    <tip number="894" category="wisdom">
+      <text>Не ищи серебряную пулю — её нет. Есть подходящие инструменты для конкретных задач.</text>
+    </tip>
+    <tip number="895" category="wisdom">
+      <text>Истинно: essence vs accidental complexity — борись с последней, смиряйся с первой.</text>
+    </tip>
+    <tip number="896" category="code">
+      <text>Говорю вам: total functions vs partial functions — тотальная функция определена для всех входов.</text>
+    </tip>
+    <tip number="897" category="code">
+      <text>Блаженны понимающиe dependent types — типы зависящие от значений. Agda, Idris живут этим.</text>
+    </tip>
+    <tip number="898" category="воистину">
+      <text>Воистину: formal verification — математическое доказательство корректности кода. Для критических систем.</text>
+    </tip>
+    <tip number="899" category="code">
+      <text>Не игнорируй overflow в целочисленных вычислениях — это источник security уязвимостей.</text>
+    </tip>
+    <tip number="900" category="code">
+      <text>Истинно: property based testing в Haskell — QuickCheck, в Scala — Scalacheck. Генеративные тесты.</text>
+    </tip>
+    <tip number="901" category="debug">
+      <text>Говорю вам: postmortem документ должен быть написан в течение 48 часов после инцидента.</text>
+    </tip>
+    <tip number="902" category="debug">
+      <text>Блаженны имеющие runbooks — ибо в 3 утра не нужно думать, нужно следовать инструкции.</text>
+    </tip>
+    <tip number="903" category="воистину">
+      <text>Воистину: on-call playbook — это конституция дежурного инженера.</text>
+    </tip>
+    <tip number="904" category="debug">
+      <text>Не закрывай инцидент без root cause analysis — иначе он вернётся.</text>
+    </tip>
+    <tip number="905" category="debug">
+      <text>Истинно: five whys — простой метод докопаться до корневой причины.</text>
+    </tip>
+    <tip number="906" category="database">
+      <text>Говорю вам: PITR — point in time recovery — возможность восстановить данные на любой момент.</text>
+    </tip>
+    <tip number="907" category="database">
+      <text>Блаженны тестирующие восстановление из backup — ибо непроверенный backup — это надежда, не гарантия.</text>
+    </tip>
+    <tip number="908" category="воистину">
+      <text>Воистину: CDC — change data capture — поток изменений из базы данных для downstream систем.</text>
+    </tip>
+    <tip number="909" category="database">
+      <text>Не изменяй prod схему без миграционного скрипта — даже 'маленькое' изменение.</text>
+    </tip>
+    <tip number="910" category="database">
+      <text>Истинно: wal2json — это CDC для PostgreSQL через logical replication.</text>
+    </tip>
+    <tip number="911" category="devops">
+      <text>Говорю вам: cost per deployment — метрика зрелости delivery практик.</text>
+    </tip>
+    <tip number="912" category="devops">
+      <text>Блаженны автоматизирующие compliance checks — SOC2, ISO27001 требования в CI.</text>
+    </tip>
+    <tip number="913" category="воистину">
+      <text>Воистину: shift-left security — security testing как можно раньше в SDLC.</text>
+    </tip>
+    <tip number="914" category="devops">
+      <text>Не игнорируй dependency vulnerabilities scan — trivy, grype — встрой в pipeline.</text>
+    </tip>
+    <tip number="915" category="devops">
+      <text>Истинно: immutable container images — не обновляй контейнер в runtime, пересобери образ.</text>
+    </tip>
+    <tip number="916" category="security">
+      <text>Говорю вам: security is everyone's responsibility, not just security team's.</text>
+    </tip>
+    <tip number="917" category="security">
+      <text>Блаженны проводящие red team exercises — ибо атака лучший способ проверить защиту.</text>
+    </tip>
+    <tip number="918" category="воистину">
+      <text>Воистину: purple team — red + blue вместе учатся и улучшают posture.</text>
+    </tip>
+    <tip number="919" category="security">
+      <text>Не используй deprecated TLS 1.0 или 1.1 — только TLS 1.3 или минимум 1.2.</text>
+    </tip>
+    <tip number="920" category="security">
+      <text>Истинно: certificate transparency logs — публичная летопись выданных сертификатов.</text>
+    </tip>
+    <tip number="921" category="api">
+      <text>Говорю вам: API design by contract — preconditions, postconditions, invariants.</text>
+    </tip>
+    <tip number="922" category="api">
+      <text>Блаженны версионирующие через Accept header — content negotiation как замена URL версии.</text>
+    </tip>
+    <tip number="923" category="воистину">
+      <text>Воистину: GraphQL subscriptions для real-time — WebSocket под капотом.</text>
+    </tip>
+    <tip number="924" category="api">
+      <text>Не возвращай стек вызовов в production API response — это раскрытие внутренностей.</text>
+    </tip>
+    <tip number="925" category="api">
+      <text>Истинно: gRPC для internal microservice communication — быстрее REST, строже типизирован.</text>
+    </tip>
+    <tip number="926" category="javascript">
+      <text>Говорю вам: module federation — микрофронтенды объединяются в одно приложение.</text>
+    </tip>
+    <tip number="927" category="javascript">
+      <text>Блаженны понимающие разницу между SSR, SSG, ISR, CSR — каждый имеет место.</text>
+    </tip>
+    <tip number="928" category="воистину">
+      <text>Воистину: Astro для content sites — zero JS by default — отличная философия производительности.</text>
+    </tip>
+    <tip number="929" category="javascript">
+      <text>Не пиши свой state manager — Zustand, Jotai, Nanostores уже написали лучше.</text>
+    </tip>
+    <tip number="930" category="javascript">
+      <text>Истинно: React Server Components — это новая парадигма где компоненты рендерятся на сервере.</text>
+    </tip>
+    <tip number="931" category="python">
+      <text>Говорю вам: SQLAlchemy 2.0 API значительно лучше 1.4. Переходи.</text>
+    </tip>
+    <tip number="932" category="python">
+      <text>Блаженны использующие Pydantic для validation — не пиши свои validators.</text>
+    </tip>
+    <tip number="933" category="воистину">
+      <text>Воистину: FastAPI + Pydantic + SQLAlchemy — современный trinity Python web stack.</text>
+    </tip>
+    <tip number="934" category="python">
+      <text>Не используй pickle между версиями Python — формат нестабилен.</text>
+    </tip>
+    <tip number="935" category="python">
+      <text>Истинно: structlog для structured logging в Python — JSON логи из коробки.</text>
+    </tip>
+    <tip number="936" category="arch">
+      <text>Говорю вам: modular monolith — это монолит с чёткими границами модулей. Лучший старт.</text>
+    </tip>
+    <tip number="937" category="arch">
+      <text>Блаженны мигрирующие от монолита к сервисам по extraction pattern, а не big bang.</text>
+    </tip>
+    <tip number="938" category="воистину">
+      <text>Воистину: cell-based architecture — Amazon строит так чтобы blast radius инцидентов был ограничен.</text>
+    </tip>
+    <tip number="939" category="arch">
+      <text>Не строй event-driven без мониторинга потока событий — system behaviour становится невидимым.</text>
+    </tip>
+    <tip number="940" category="arch">
+      <text>Истинно: domain events published after successful transaction — outbox pattern обеспечивает это.</text>
+    </tip>
+    <tip number="941" category="process">
+      <text>Говорю вам: hypothesis in product development — меряй до и после. Это не наука, это дисциплина.</text>
+    </tip>
+    <tip number="942" category="process">
+      <text>Блаженны имеющие engineering principles — явные, понятые командой, используемые в решениях.</text>
+    </tip>
+    <tip number="943" category="воистину">
+      <text>Воистину: technical debt register — видимый список с приоритетами, а не тайное знание.</text>
+    </tip>
+    <tip number="944" category="process">
+      <text>Не делай estimation theater — если точность невозможна, дай диапазон.</text>
+    </tip>
+    <tip number="945" category="process">
+      <text>Истинно: shipping small and often beats shipping big and rarely — всегда и везде.</text>
+    </tip>
+    <tip number="946" category="wisdom">
+      <text>Говорю вам: technology changes — first principles остаются. Учи принципы.</text>
+    </tip>
+    <tip number="947" category="wisdom">
+      <text>Блаженны знающие Computer Science fundamentals — алгоритмы, OS, сети, базы данных.</text>
+    </tip>
+    <tip number="948" category="воистину">
+      <text>Воистину: чем лучше ты понимаешь низкий уровень, тем лучше решения на высоком.</text>
+    </tip>
+    <tip number="949" category="wisdom">
+      <text>Не игнорируй экономику — cost of compute, engineers, incidents имеет значение.</text>
+    </tip>
+    <tip number="950" category="wisdom">
+      <text>Истинно: решение должно соответствовать размеру проблемы. Не стреляй из пушки по воробьям.</text>
+    </tip>
+    <tip number="951" category="code">
+      <text>Говорю вам: write code that is easy to delete, not code that is easy to extend.</text>
+    </tip>
+    <tip number="952" category="code">
+      <text>Блаженны следующие boy scout rule — оставляй код лучше чем нашёл его.</text>
+    </tip>
+    <tip number="953" category="воистину">
+      <text>Воистину: code rot — без активного ухода код деградирует как брошенный сад.</text>
+    </tip>
+    <tip number="954" category="code">
+      <text>Не оправдывай плохой код дедлайном — технический долг нужно планировать к погашению.</text>
+    </tip>
+    <tip number="955" category="code">
+      <text>Истинно: принцип единственной причины изменения — класс изменяется по одной и только одной причине.</text>
+    </tip>
+    <tip number="956" category="debug">
+      <text>Говорю вам: hypothesis — это не интуиция. Формулируй явно и проверяй.</text>
+    </tip>
+    <tip number="957" category="debug">
+      <text>Блаженны умеющие обрабатывать timeouts правильно — fallback, retry, circuit break.</text>
+    </tip>
+    <tip number="958" category="воистину">
+      <text>Воистину: degraded mode — система продолжает работать при отказе части. Проектируй это.</text>
+    </tip>
+    <tip number="959" category="debug">
+      <text>Не оставляй debug code в production — feature flags для этого.</text>
+    </tip>
+    <tip number="960" category="debug">
+      <text>Истинно: метрики лучше логов для агрегированного состояния. Оба нужны, для разного.</text>
+    </tip>
+    <tip number="961" category="database">
+      <text>Говорю вам: schema migration testing — прогони миграцию на копии prod данных перед применением.</text>
+    </tip>
+    <tip number="962" category="database">
+      <text>Блаженны понимающие разницу между dirty read, non-repeatable read, phantom read.</text>
+    </tip>
+    <tip number="963" category="воистину">
+      <text>Воистину: serializable isolation — самый сильный уровень. Самый медленный тоже.</text>
+    </tip>
+    <tip number="964" category="database">
+      <text>Не используй ORM там где raw SQL понятнее и эффективнее.</text>
+    </tip>
+    <tip number="965" category="database">
+      <text>Истинно: database documentation — схема, индексы, constraints — должна быть актуальной.</text>
+    </tip>
+    <tip number="966" category="devops">
+      <text>Говорю вам: supply chain attacks — безопасность pipeline не менее важна чем безопасность кода.</text>
+    </tip>
+    <tip number="967" category="devops">
+      <text>Блаженны подписывающие артефакты — образы, пакеты — sigstore, cosign.</text>
+    </tip>
+    <tip number="968" category="воистину">
+      <text>Воистину: SLSA framework — уровни безопасности supply chain. Стремись к уровню 3.</text>
+    </tip>
+    <tip number="969" category="devops">
+      <text>Не давай pipeline полный доступ к production — минимальные привилегии.</text>
+    </tip>
+    <tip number="970" category="devops">
+      <text>Истинно: environment parity — dev, staging, production должны быть максимально похожи.</text>
+    </tip>
+    <tip number="971" category="security">
+      <text>Говорю вам: web application firewall не заменяет secure coding — это дополнительный слой.</text>
+    </tip>
+    <tip number="972" category="security">
+      <text>Блаженны знающие MITRE ATT&amp;CK — фреймворк техник атак для понимания угроз.</text>
+    </tip>
+    <tip number="973" category="воистину">
+      <text>Воистину: runtime application self-protection — защита изнутри приложения.</text>
+    </tip>
+    <tip number="974" category="security">
+      <text>Не игнорируй security.txt файл — это стандарт для responsible disclosure.</text>
+    </tip>
+    <tip number="975" category="security">
+      <text>Истинно: privacy by design — встрой защиту данных в архитектуру с самого начала.</text>
+    </tip>
+    <tip number="976" category="api">
+      <text>Говорю вам: AsyncAPI — спецификация для event-driven APIs как OpenAPI для REST.</text>
+    </tip>
+    <tip number="977" category="api">
+      <text>Блаженны реализующие proper multipart upload — большие файлы требуют resumable upload.</text>
+    </tip>
+    <tip number="978" category="воистину">
+      <text>Воистину: API gateway pattern — единая точка входа с authentication, rate limiting, routing.</text>
+    </tip>
+    <tip number="979" category="api">
+      <text>Не игнорируй CORS preflight — OPTIONS запрос должен быть обработан правильно.</text>
+    </tip>
+    <tip number="980" category="api">
+      <text>Истинно: API мониторинг — latency, error rate, throughput per endpoint — базовые метрики.</text>
+    </tip>
+    <tip number="981" category="javascript">
+      <text>Говорю вам: Web Performance API — measurePerformance, PerformanceObserver — встроенные инструменты.</text>
+    </tip>
+    <tip number="982" category="javascript">
+      <text>Блаженны знающие Event Loop полностью — включая microtask checkpoint.</text>
+    </tip>
+    <tip number="983" category="воистину">
+      <text>Воистину: Island architecture — только интерактивные компоненты гидрируются.</text>
+    </tip>
+    <tip number="984" category="javascript">
+      <text>Не игнорируй ES2024 и ES2025 фичи — язык развивается, используй новшества.</text>
+    </tip>
+    <tip number="985" category="javascript">
+      <text>Истинно: WebGPU открывает GPU вычисления в браузере для ML inference.</text>
+    </tip>
+    <tip number="986" category="python">
+      <text>Говорю вам: Python 3.13 free-threaded mode — эксперимент с отменой GIL начался.</text>
+    </tip>
+    <tip number="987" category="python">
+      <text>Блаженны знающие PEP 8 и когда от него отступать — правило слуги, а не господина.</text>
+    </tip>
+    <tip number="988" category="воистину">
+      <text>Воистину: pyrefly — новый type checker от Meta, быстрее mypy.</text>
+    </tip>
+    <tip number="989" category="python">
+      <text>Не злоупотребляй декораторами — три декоратора на функции — это уже много.</text>
+    </tip>
+    <tip number="990" category="python">
+      <text>Истинно: дзен Python — import this — перечитывай раз в год как молитву.</text>
+    </tip>
+    <tip number="991" category="wisdom">
+      <text>Говорю вам: за каждой сложной системой стоит набор простых принципов. Найди их.</text>
+    </tip>
+    <tip number="992" category="wisdom">
+      <text>Блаженны не боящиеся говорить 'это плохое решение' — честность дороже согласия.</text>
+    </tip>
+    <tip number="993" category="воистину">
+      <text>Воистину: технический лидер — это тот кто принимает ответственность, а не тот у кого звание.</text>
+    </tip>
+    <tip number="994" category="wisdom">
+      <text>Не автоматизируй то, что нужно исключить — сначала упрости, потом автоматизируй.</text>
+    </tip>
+    <tip number="995" category="wisdom">
+      <text>Истинно: инженер без понимания бизнеса — это молоток без гвоздя. Есть сила, нет цели.</text>
+    </tip>
+    <tip number="996" category="wisdom">
+      <text>Говорю вам: лучший код написан, когда понята проблема. Тороплеь с кодом, медли с пониманием.</text>
+    </tip>
+    <tip number="997" category="wisdom">
+      <text>Блаженны отдыхающие — ибо отдохнувший инженер пишет в три раза лучше уставшего.</text>
+    </tip>
+    <tip number="998" category="wisdom">
+      <text>Воистину: наша профессия — это перевод человеческих желаний в инструкции для машин. Помни об этом.</text>
+    </tip>
+    <tip number="999" category="wisdom">
+      <text>Истинно говорю вам: код — это поэзия, которую читают машины и люди. Пиши для обоих.</text>
+    </tip>
+    <tip number="1000" category="wisdom">
+      <text>И наконец, слушайте ближнего своего разработчика — ибо code review есть акт любви к коду и команде. Аминь.</text>
+    </tip>
+  </tips>
+  <epilogue>Сказав сие, Иисус закрыл ноутбук свой и вознёсся на встречу без agenda.</epilogue>
+</holy_it_scripture>
