@@ -1,0 +1,19 @@
+name: Shuffle Holy Tips
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run randomizer
+        run: python randomizer.py
+      - name: Commit changes
+        run: |
+          git config --global user.name "HolyProgrammer"
+          git config --global user.email "bot@github.com"
+          git add current_tip.xml
+          git commit -m "New holy tip" || exit 0
+          git push
