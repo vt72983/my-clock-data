@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: read-heavy workload — добавь replica. Write-heavy — думай о partitioning.</title>
+<title>Говорю вам: modular monolith — это монолит с чёткими границами модулей. Лучший старт.</title>
 </item>
 </channel>
 </rss>
