@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Воистину: preload для критических ресурсов — это сказать браузеру 'это нужно срочно'.</title>
+<title>Блаженны понимающие GIL в CPython — ибо они не ждут от threading параллелизма.</title>
 </item>
 </channel>
 </rss>
