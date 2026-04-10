@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не игнорируй invariants — если объект всегда должен быть в валидном состоянии, обеспечь это.</title>
+<title>Говорю вам: algebraic data types — суммы и произведения — выражают модель предметной области точно.</title>
 </item>
 </channel>
 </rss>
