@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не тести implementation details — тести behaviour. Рефакторинг не должен ломать тесты.</title>
+<title>Говорю вам: flaky тест хуже отсутствия теста — он создаёт ложное чувство безопасности.</title>
 </item>
 </channel>
 </rss>
