@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Блаженны ведущие инженерный journal — ибо они помнят что пробовали и почему не сработало.</title>
+<title>Не тести implementation details — тести behaviour. Рефакторинг не должен ломать тесты.</title>
 </item>
 </channel>
 </rss>
