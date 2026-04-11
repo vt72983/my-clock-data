@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Воистину: null pointer exception — это способ кода сказать тебе, что ты забыл про краевой случай.</title>
+<title>Воистину: Map лучше объекта когда ключи динамические и порядок важен.</title>
 </item>
 </channel>
 </rss>
