@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: idempotentность PUT и DELETE — это заповедь, а не рекомендация.</title>
+<title>Блаженны избегающие primitive obsession — оборачивай примитивы в domain types.</title>
 </item>
 </channel>
 </rss>
