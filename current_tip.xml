@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: network policy в K8s — белый список трафика между подами.</title>
+<title>Истинно: idempotentность PUT и DELETE — это заповедь, а не рекомендация.</title>
 </item>
 </channel>
 </rss>
