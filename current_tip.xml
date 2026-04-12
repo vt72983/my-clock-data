@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не создавай объекты в hot loops — allocation pressure влияет на GC паузы.</title>
+<title>Истинно: newtype pattern — оборачивай примитивы для type safety.</title>
 </item>
 </channel>
 </rss>
