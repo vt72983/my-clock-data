@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: connection pooling — это экономия на создании соединений. Создание дорого.</title>
+<title>Истинно: uvicorn + FastAPI — современный стек для production API в Python.</title>
 </item>
 </channel>
 </rss>
