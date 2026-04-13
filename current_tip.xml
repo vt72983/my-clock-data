@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: wal2json — это CDC для PostgreSQL через logical replication.</title>
+<title>Блаженны понимающие vector clock и logical clock для distributed ordering.</title>
 </item>
 </channel>
 </rss>
