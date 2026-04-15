@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: chaos engineering в production — AWS Fault Injection Simulator, Azure Chaos Studio.</title>
+<title>Не лови Exception — лови конкретный тип исключения. Широкий catch — широкое невежество.</title>
 </item>
 </channel>
 </rss>
