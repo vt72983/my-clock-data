@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не лови Exception — лови конкретный тип исключения. Широкий catch — широкое невежество.</title>
+<title>Не используй глобальные переменные в Python — ибо это путь к непредсказуемости.</title>
 </item>
 </channel>
 </rss>
