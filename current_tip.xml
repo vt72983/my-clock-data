@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Воздержитесь от наследования глубже трёх уровней, ибо дальше начинается тьма египетская.</title>
+<title>Говорю вам: read-heavy workload — добавь replica. Write-heavy — думай о partitioning.</title>
 </item>
 </channel>
 </rss>
