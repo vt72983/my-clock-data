@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: well-architected framework AWS/GCP/Azure — читай как десять заповедей облака.</title>
+<title>Не доверяй вводу пользователя — ни одному символу, ни одному байту. Каждый из них потенциально враждебен.</title>
 </item>
 </channel>
 </rss>
