@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: метрики лучше логов для агрегированного состояния. Оба нужны, для разного.</title>
+<title>Истинно: CPU-bound vs IO-bound — разные подходы к оптимизации и concurrency.</title>
 </item>
 </channel>
 </rss>
