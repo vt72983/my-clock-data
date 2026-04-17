@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Воистину: refactoring это улучшение имён тоже. Переименуй — половина рефакторинга.</title>
+<title>Не игнорируй overflow в целочисленных вычислениях — это источник security уязвимостей.</title>
 </item>
 </channel>
 </rss>
