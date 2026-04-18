@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не создавай объекты в hot loops — allocation pressure влияет на GC паузы.</title>
+<title>Говорю вам: SQL-инъекция существует с 1998 года. Если ты всё ещё конкатенируешь запросы — ты позоришь поколения.</title>
 </item>
 </channel>
 </rss>
