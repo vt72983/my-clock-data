@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: README.md — это лицо проекта. Пустой README — это безлицее существо.</title>
+<title>Не создавай объекты в hot loops — allocation pressure влияет на GC паузы.</title>
 </item>
 </channel>
 </rss>
