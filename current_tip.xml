@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не строй event-driven без мониторинга потока событий — system behaviour становится невидимым.</title>
+<title>Блаженны использующие pathlib вместо os.path — ибо код их читается как поэзия.</title>
 </item>
 </channel>
 </rss>
