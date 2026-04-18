@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Блаженны использующие pathlib вместо os.path — ибо код их читается как поэзия.</title>
+<title>Истинно: ABC — abstract base class — для явного контракта в Python коде.</title>
 </item>
 </channel>
 </rss>
