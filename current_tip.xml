@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Блаженны использующие git alias для частых команд — git st вместо git status.</title>
+<title>Не добавляй abstraction layer без необходимости — каждый слой добавляет latency.</title>
 </item>
 </channel>
 </rss>
