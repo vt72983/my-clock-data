@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не добавляй abstraction layer без необходимости — каждый слой добавляет latency.</title>
+<title>Не строй sync между сервисами там где async достаточен.</title>
 </item>
 </channel>
 </rss>
