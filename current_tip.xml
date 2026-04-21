@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не игнорируй TypeScript strict mode — каждое правило там защищает от реального класса ошибок.</title>
+<title>Истинно: security test в CI — zap scan, trivy — не только функциональный.</title>
 </item>
 </channel>
 </rss>
