@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Возлюбите чистый код как самого себя — особенно когда завтра его читать вам самим.</title>
+<title>Не проектируй API для internal use так же как для external — требования разные.</title>
 </item>
 </channel>
 </rss>
