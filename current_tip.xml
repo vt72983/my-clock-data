@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Воистину: partial index — это индекс только на нужные строки. Меньше, быстрее, умнее.</title>
+<title>Не давай pipeline полный доступ к production — минимальные привилегии.</title>
 </item>
 </channel>
 </rss>
