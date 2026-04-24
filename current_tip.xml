@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не используй innerHTML с пользовательскими данными — это XSS уязвимость.</title>
+<title>Блаженны настраивающие resource quotas в K8s namespace — ибо ни один pod не съест весь кластер.</title>
 </item>
 </channel>
 </rss>
