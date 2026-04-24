@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Воистину: feature envy — запах кода, когда метод интересуется чужими данными больше своих.</title>
+<title>Не используй innerHTML с пользовательскими данными — это XSS уязвимость.</title>
 </item>
 </channel>
 </rss>
