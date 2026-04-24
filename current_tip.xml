@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не деплой в пятницу после обеда, ибо выходные твои станут поминками по production.</title>
+<title>Блаженны умеющие обрабатывать timeouts правильно — fallback, retry, circuit break.</title>
 </item>
 </channel>
 </rss>
