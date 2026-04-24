@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: воспроизведение бага — половина его решения. Без воспроизведения ты слеп.</title>
+<title>Блаженны понимающие разницу между dirty read, non-repeatable read, phantom read.</title>
 </item>
 </channel>
 </rss>
