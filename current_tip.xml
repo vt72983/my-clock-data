@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Блаженны понимающие разницу между dirty read, non-repeatable read, phantom read.</title>
+<title>Говорю вам: reproduce in isolation — первый шаг к любому серьёзному дебагу.</title>
 </item>
 </channel>
 </rss>
