@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Блажен пишущий definition of done до начала работы — ибо он знает, когда задача завершена.</title>
+<title>Не строй тесные связи между сервисами через shared database — это антипаттерн.</title>
 </item>
 </channel>
 </rss>
