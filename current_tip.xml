@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: bug bash — это когда вся команда ищет баги перед релизом. Полезно.</title>
+<title>Не пренебрегай connection keep-alive — повторное использование соединений экономит latency.</title>
 </item>
 </channel>
 </rss>
