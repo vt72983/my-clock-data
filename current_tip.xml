@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не пренебрегай connection keep-alive — повторное использование соединений экономит latency.</title>
+<title>Не используй pickle между версиями Python — формат нестабилен.</title>
 </item>
 </channel>
 </rss>
