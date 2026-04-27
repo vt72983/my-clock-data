@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не игнорируй accessibility testing — screen reader должен работать с твоим UI.</title>
+<title>Воистину: unit тест не должен ходить в базу данных. Если ходит — это интеграционный тест.</title>
 </item>
 </channel>
 </rss>
