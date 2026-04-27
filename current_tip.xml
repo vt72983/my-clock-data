@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Блаженны строящие stateless приложения — ибо они масштабируются горизонтально без боли.</title>
+<title>Истинно: defensive assertion — проверяй предположения в коде, а не только в тестах.</title>
 </item>
 </channel>
 </rss>
