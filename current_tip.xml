@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Воистину: serializable isolation — самый сильный уровень. Самый медленный тоже.</title>
+<title>Не добавляй кэш как первый шаг — найди и исправь медленную операцию сначала.</title>
 </item>
 </channel>
 </rss>
