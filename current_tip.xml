@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: materialized view — это кэш в базе данных. Дорог при обновлении, быстр при чтении.</title>
+<title>Истинно: submodule — это сложность. Monorepo или отдельные пакеты — проще в большинстве случаев.</title>
 </item>
 </channel>
 </rss>
