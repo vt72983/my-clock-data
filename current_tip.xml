@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Воистину: аппаратные counter через perf — это точные данные о CPU events без overhead.</title>
+<title>Воистину: preload для критических ресурсов — это сказать браузеру 'это нужно срочно'.</title>
 </item>
 </channel>
 </rss>
