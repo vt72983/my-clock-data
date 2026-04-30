@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Воистину: preload для критических ресурсов — это сказать браузеру 'это нужно срочно'.</title>
+<title>Воистину: memory dump при OOM — это снимок момента смерти. Учись его читать.</title>
 </item>
 </channel>
 </rss>
