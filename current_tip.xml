@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: immutable container images — не обновляй контейнер в runtime, пересобери образ.</title>
+<title>Говорю вам: read-heavy workload — добавь replica. Write-heavy — думай о partitioning.</title>
 </item>
 </channel>
 </rss>
