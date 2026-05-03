@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Блаженны читающие книги по программированию, ибо курсы дают навыки, книги дают понимание.</title>
+<title>Не используй inheritance для переиспользования кода — используй composition.</title>
 </item>
 </channel>
 </rss>
