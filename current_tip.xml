@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не используй inheritance для переиспользования кода — используй composition.</title>
+<title>Говорю вам: dependency graph сервисов — визуализируй и держи актуальным.</title>
 </item>
 </channel>
 </rss>
