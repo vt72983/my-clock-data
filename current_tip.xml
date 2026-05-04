@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не добавляй людей в поздний проект — это только замедлит его, сказал Брукс, и он был прав.</title>
+<title>Не используй alert/confirm/prompt в production — это архаика UX.</title>
 </item>
 </channel>
 </rss>
