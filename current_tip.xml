@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не используй alert/confirm/prompt в production — это архаика UX.</title>
+<title>Блаженны избегающие var в 2026 году, ибо они не страдают от hoisting.</title>
 </item>
 </channel>
 </rss>
