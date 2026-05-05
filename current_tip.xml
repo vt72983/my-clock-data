@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: простота — это достижение, а не упрощение. Достичь её тяжело.</title>
+<title>Не строй sync там, где async даёт лучший UX и throughput.</title>
 </item>
 </channel>
 </rss>
