@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не игнорируй invariants — если объект всегда должен быть в валидном состоянии, обеспечь это.</title>
+<title>Истинно: multiprocessing для CPU-bound, asyncio для IO-bound, threading для legacy.</title>
 </item>
 </channel>
 </rss>
