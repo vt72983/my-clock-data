@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: multiprocessing для CPU-bound, asyncio для IO-bound, threading для legacy.</title>
+<title>Воистину: data mesh — это DDD применённый к data engineering. Новый взгляд, старые принципы.</title>
 </item>
 </channel>
 </rss>
