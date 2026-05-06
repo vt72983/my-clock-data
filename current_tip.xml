@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Блаженны понимающие что UUID v4 менее эффективен чем sequential ID для B-tree индексов.</title>
+<title>Говорю вам: binary search по коду — разделяй пополам и находи баг быстрее.</title>
 </item>
 </channel>
 </rss>
