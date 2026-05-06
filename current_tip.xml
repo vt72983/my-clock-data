@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Блажен знающий разницу между is и == в Python — ибо он не сравнивает строки неправильно.</title>
+<title>Не оптимизируй frontend пока backend возвращает ответ за 3 секунды.</title>
 </item>
 </channel>
 </rss>
