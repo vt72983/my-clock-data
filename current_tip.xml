@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не оптимизируй frontend пока backend возвращает ответ за 3 секунды.</title>
+<title>Не строй на DOM-манипуляциях то, что лучше строится на реактивности.</title>
 </item>
 </channel>
 </rss>
