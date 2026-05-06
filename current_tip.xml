@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не работай с большими JSON файлами в редакторе — используй jq или специализированные инструменты.</title>
+<title>Истинно: sanitizers — AddressSanitizer, ThreadSanitizer — ловят то, что тесты пропустили.</title>
 </item>
 </channel>
 </rss>
