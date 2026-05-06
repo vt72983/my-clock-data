@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: binary search по коду — разделяй пополам и находи баг быстрее.</title>
+<title>Блажен знающий разницу между is и == в Python — ибо он не сравнивает строки неправильно.</title>
 </item>
 </channel>
 </rss>
