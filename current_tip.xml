@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: SQL-инъекция существует с 1998 года. Если ты всё ещё конкатенируешь запросы — ты позоришь поколения.</title>
+<title>Говорю вам: write amplification в SSD учитывай при проектировании write-heavy систем.</title>
 </item>
 </channel>
 </rss>
