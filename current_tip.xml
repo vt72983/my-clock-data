@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Блажен тот, кто понимает event loop — ибо асинхронность JavaScript не удивит его.</title>
+<title>Не пиши все в ООП если задача решается функционально — выбирай инструмент по задаче.</title>
 </item>
 </channel>
 </rss>
