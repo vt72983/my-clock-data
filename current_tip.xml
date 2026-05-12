@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: async rendering и streaming SSR дают perceived performance даже при медленных данных.</title>
+<title>Говорю вам: всё должно быть в коде — инфраструктура, конфиги, документация. Если не в репо — его не существует.</title>
 </item>
 </channel>
 </rss>
