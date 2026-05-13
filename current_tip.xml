@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: async rendering и streaming SSR дают perceived performance даже при медленных данных.</title>
+<title>Истинно: web workers позволяют не блокировать main thread. Используй их для тяжёлых вычислений.</title>
 </item>
 </channel>
 </rss>
