@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Воистину: security champion в команде — это разработчик с security mindset, не security специалист.</title>
+<title>Не доверяй Content-Type от клиента — проверяй реальное содержимое файла.</title>
 </item>
 </channel>
 </rss>
