@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Воистину: lazy evaluation — вычисляй только когда нужно. Haskell жил этим всегда.</title>
+<title>Истинно: sanitizers — AddressSanitizer, ThreadSanitizer — ловят то, что тесты пропустили.</title>
 </item>
 </channel>
 </rss>
