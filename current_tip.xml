@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Блаженны мигрирующие от монолита к сервисам по extraction pattern, а не big bang.</title>
+<title>Говорю вам: distributed tracing — Jaeger, Zipkin, Tempo — без них microservices — чёрный ящик.</title>
 </item>
 </channel>
 </rss>
