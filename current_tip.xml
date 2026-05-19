@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Воистину: networking не о том, чтобы брать — это о том, чтобы давать и получать в ответ.</title>
+<title>Не храни blob данные в реляционной базе если size > 1MB — используй object storage.</title>
 </item>
 </channel>
 </rss>
