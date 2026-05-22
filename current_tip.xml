@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: consistent error format во всех API ответах — это милосердие к разработчикам.</title>
+<title>Говорю вам: circuit breaker — это предохранитель в электрической схеме. Без него система сгорит при перегрузке.</title>
 </item>
 </channel>
 </rss>
