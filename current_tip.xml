@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Блаженны те, кто понимают разницу между == и ===, ибо им не придётся искать баг три часа.</title>
+<title>Говорю вам: optimistic locking подходит для редких конфликтов, pessimistic — для частых.</title>
 </item>
 </channel>
 </rss>
