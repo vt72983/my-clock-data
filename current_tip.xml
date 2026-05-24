@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Горе удаляющим данные без soft delete в первый раз — восстановления не будет.</title>
+<title>Не возвращай стек вызовов в production API response — это раскрытие внутренностей.</title>
 </item>
 </channel>
 </rss>
