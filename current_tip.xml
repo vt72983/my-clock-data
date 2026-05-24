@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: shift-left testing — чем раньше найдёшь баг, тем дешевле исправить.</title>
+<title>Истинно: console.log оставленный в production — это крик разработчика сквозь время.</title>
 </item>
 </channel>
 </rss>
