@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не тести implementation details — тести behaviour. Рефакторинг не должен ломать тесты.</title>
+<title>Не бойся strangler fig pattern — медленное вытеснение легаси лучше большого взрыва рефакторинга.</title>
 </item>
 </channel>
 </rss>
