@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Блаженны использующие семантическое версионирование — MAJOR.MINOR.PATCH — это язык совместимости.</title>
+<title>Говорю вам: Symbol.iterator — это врата к созданию кастомных итерируемых объектов.</title>
 </item>
 </channel>
 </rss>
