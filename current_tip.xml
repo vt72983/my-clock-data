@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не используй LIKE '%term%' — это full table scan. Используй full-text search.</title>
+<title>Не оценивай задачи в часах — оценивай в story points или в диапазонах. Точность часов — иллюзия.</title>
 </item>
 </channel>
 </rss>
