@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не тестируй приватные методы напрямую — тестируй публичный интерфейс.</title>
+<title>Не используй LIKE '%term%' — это full table scan. Используй full-text search.</title>
 </item>
 </channel>
 </rss>
