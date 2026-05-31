@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: flaky тест хуже отсутствия теста — он создаёт ложное чувство безопасности.</title>
+<title>Говорю вам: distributed tracing — Jaeger, Zipkin, Tempo — без них microservices — чёрный ящик.</title>
 </item>
 </channel>
 </rss>
