@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: binary search по коду — разделяй пополам и находи баг быстрее.</title>
+<title>Говорю вам: error codes должны быть в enum, не в magic strings.</title>
 </item>
 </channel>
 </rss>
