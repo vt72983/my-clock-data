@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: sampling profiler лучше инструментального для production — overhead меньше.</title>
+<title>Блаженны знающие как работает B-tree индекс внутри — это помогает проектировать запросы.</title>
 </item>
 </channel>
 </rss>
