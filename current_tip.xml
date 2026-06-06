@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам истинно: не пуши в main напрямую, ибо грех сей не простится тебе ни в этом спринте, ни в следующем.</title>
+<title>Не используй datetime.now() в production — используй datetime.utcnow() или aware datetime.</title>
 </item>
 </channel>
 </rss>
