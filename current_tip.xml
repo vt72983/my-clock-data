@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не держи dev и prod в одном облачном аккаунте — это опасно и неэкономно.</title>
+<title>Не используй innerHTML с пользовательскими данными — это XSS уязвимость.</title>
 </item>
 </channel>
 </rss>
