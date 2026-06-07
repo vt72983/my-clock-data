@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: Infrastructure drift — это когда реальность расходится с кодом. Terraform plan покажет правду.</title>
+<title>Блаженны избегающие deep mutation в Redux — ибо компоненты их не ломаются от изменений.</title>
 </item>
 </channel>
 </rss>
