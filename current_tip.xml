@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Блаженны умеющие читать assembly при необходимости — ибо иногда истина только там.</title>
+<title>Истинно: Infrastructure drift — это когда реальность расходится с кодом. Terraform plan покажет правду.</title>
 </item>
 </channel>
 </rss>
