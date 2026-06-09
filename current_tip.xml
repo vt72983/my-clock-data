@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: incident commander role во время outage — один принимает решения.</title>
+<title>Не давай pipeline полный доступ к production — минимальные привилегии.</title>
 </item>
 </channel>
 </rss>
