@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не игнорируй security headers — HSTS, X-Frame-Options, X-Content-Type-Options.</title>
+<title>Говорю вам: action в Redux называется глаголом в прошлом — USER_CREATED, не CREATE_USER.</title>
 </item>
 </channel>
 </rss>
