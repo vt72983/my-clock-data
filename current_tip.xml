@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Воистину: cache invalidation — одна из двух сложнейших проблем CS. И ты думал, что это просто.</title>
+<title>Блаженны использующие Error.cause для цепочки ошибок — ибо контекст сохраняется.</title>
 </item>
 </channel>
 </rss>
