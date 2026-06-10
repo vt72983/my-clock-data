@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Блаженны знающие MITRE ATT&amp;CK — фреймворк техник атак для понимания угроз.</title>
+<title>Не считай производительность в dev режиме — всегда измеряй в production-подобной среде.</title>
 </item>
 </channel>
 </rss>
