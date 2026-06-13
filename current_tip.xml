@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не строй тесные связи между сервисами через shared database — это антипаттерн.</title>
+<title>Говорю вам: distributed tracing — OpenTelemetry стандарт, а не вопрос выбора.</title>
 </item>
 </channel>
 </rss>
