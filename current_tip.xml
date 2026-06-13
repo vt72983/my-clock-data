@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Воистину: WeakMap и WeakRef — это инструменты для тех, кто думает о памяти. Большинство не думает.</title>
+<title>Не держи конфиг в docker image — передавай через env vars или config maps.</title>
 </item>
 </channel>
 </rss>
