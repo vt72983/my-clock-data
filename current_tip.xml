@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не держи конфиг в docker image — передавай через env vars или config maps.</title>
+<title>Не строй тесные связи между сервисами через shared database — это антипаттерн.</title>
 </item>
 </channel>
 </rss>
