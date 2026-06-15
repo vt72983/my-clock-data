@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: monad — это design pattern для последовательных вычислений с контекстом.</title>
+<title>Истинно: pgBouncer или PgPool — connection pooler перед PostgreSQL — необходимость при масштабе.</title>
 </item>
 </channel>
 </rss>
