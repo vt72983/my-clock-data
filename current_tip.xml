@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не проектируй API для internal use так же как для external — требования разные.</title>
+<title>Не используй inheritance для переиспользования кода — используй composition.</title>
 </item>
 </channel>
 </rss>
