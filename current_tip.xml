@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: module federation — микрофронтенды объединяются в одно приложение.</title>
+<title>Не деплой в production без rollback plan — всегда знай как откатиться.</title>
 </item>
 </channel>
 </rss>
