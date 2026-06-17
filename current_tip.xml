@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не работай без UPS если production данные важны и power нестабилен.</title>
+<title>Не лови Exception — лови конкретный тип исключения. Широкий catch — широкое невежество.</title>
 </item>
 </channel>
 </rss>
