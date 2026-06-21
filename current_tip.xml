@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: шина данных без мониторинга — это труба без манометра. Страшно.</title>
+<title>Говорю вам: null object pattern избавляет от бесчисленных null checks.</title>
 </item>
 </channel>
 </rss>
