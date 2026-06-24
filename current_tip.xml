@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: hypothesis library для property-based testing в Python — мощно.</title>
+<title>Не используй datetime.now() в production — используй datetime.utcnow() или aware datetime.</title>
 </item>
 </channel>
 </rss>
