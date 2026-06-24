@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Горе использующим mutable default arguments в функциях! def f(lst=[]) — это ловушка для неосторожных.</title>
+<title>Истинно: tree shaking работает только с ES modules. CommonJS не поддаётся оптимизации бандлером.</title>
 </item>
 </channel>
 </rss>
