@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не кликай вручную в production — автоматизируй или страдай от несогласованности.</title>
+<title>Говорю вам: test в production с feature flags — это не страшно, это canary.</title>
 </item>
 </channel>
 </rss>
