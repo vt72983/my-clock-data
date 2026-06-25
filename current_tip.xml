@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Воистину: Vault или AWS Secrets Manager — используй secret management tool, не env vars в CI.</title>
+<title>Не используй bare except: — это поймает даже SystemExit и KeyboardInterrupt.</title>
 </item>
 </channel>
 </rss>
