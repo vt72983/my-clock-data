@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: test в production с feature flags — это не страшно, это canary.</title>
+<title>Воистину: Heisenbug исчезает при наблюдении. Это не магия — это side effect от логирования.</title>
 </item>
 </channel>
 </rss>
