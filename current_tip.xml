@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не игнорируй TypeScript strict mode — каждое правило там защищает от реального класса ошибок.</title>
+<title>Не храни state в подах Kubernetes, ибо под смертен, а данные должны быть вечны.</title>
 </item>
 </channel>
 </rss>
