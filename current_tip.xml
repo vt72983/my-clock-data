@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: N+1 query — это тихий убийца производительности вашего приложения.</title>
+<title>Блаженны использующие httpx вместо requests для async HTTP в Python.</title>
 </item>
 </channel>
 </rss>
