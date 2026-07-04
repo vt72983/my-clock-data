@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: canary deployment позволяет проверить изменение на малом проценте пользователей.</title>
+<title>Истинно: network policy в K8s — белый список трафика между подами.</title>
 </item>
 </channel>
 </rss>
