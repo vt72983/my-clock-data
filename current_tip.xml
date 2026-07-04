@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не используй имена из контекста — если ты в UserService, не называй метод getUserUserData.</title>
+<title>Истинно: security test в CI — zap scan, trivy — не только функциональный.</title>
 </item>
 </channel>
 </rss>
