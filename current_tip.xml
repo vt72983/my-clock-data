@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: число зверя — это API без документации в шестьсот шестьдесят шесть версий.</title>
+<title>Не используй имена из контекста — если ты в UserService, не называй метод getUserUserData.</title>
 </item>
 </channel>
 </rss>
