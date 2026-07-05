@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не используй pickle между версиями Python — формат нестабилен.</title>
+<title>Не используй delete для удаления из объекта в hot path — это деоптимизация V8.</title>
 </item>
 </channel>
 </rss>
