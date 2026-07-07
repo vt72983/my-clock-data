@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не используй AWS Lambda для long-running processes — это не назначение.</title>
+<title>Не называй метод 'doStuff' — это не имя, это отказ думать.</title>
 </item>
 </channel>
 </rss>
