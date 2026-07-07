@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: wireshark и tcpdump — для тех случаев когда нужно видеть реальный трафик.</title>
+<title>Не используй AWS Lambda для long-running processes — это не назначение.</title>
 </item>
 </channel>
 </rss>
