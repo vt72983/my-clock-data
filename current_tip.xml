@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: connection string в URL формате — стандарт для database URIs.</title>
+<title>Не используй delete для удаления из объекта в hot path — это деоптимизация V8.</title>
 </item>
 </channel>
 </rss>
