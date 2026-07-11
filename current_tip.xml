@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Блаженны делающие бэкапы и проверяющие их, ибо они не заплачут в 3 ночи.</title>
+<title>Нарекайте переменные именами их истинными, а не 'temp2', 'x', 'aaa' или 'final_FINAL_v3'.</title>
 </item>
 </channel>
 </rss>
