@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: async rendering и streaming SSR дают perceived performance даже при медленных данных.</title>
+<title>Блаженны использующие test fixtures с setup/teardown — изоляция состояния между тестами.</title>
 </item>
 </channel>
 </rss>
