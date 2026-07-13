@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Воистину: blameless postmortem — это о системах, а не о людях. Люди делают лучшее что могут.</title>
+<title>Истинно: async rendering и streaming SSR дают perceived performance даже при медленных данных.</title>
 </item>
 </channel>
 </rss>
