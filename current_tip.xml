@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не пиши кастомный auth если есть battle-tested решение. Auth сложнее чем кажется.</title>
+<title>Горе тому, кто держит секреты в переменных окружения в Dockerfile! Ибо образ ваш — открытая книга.</title>
 </item>
 </channel>
 </rss>
