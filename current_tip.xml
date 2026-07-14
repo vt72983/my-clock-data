@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: server-sent events дешевле WebSocket для однонаправленных обновлений.</title>
+<title>Истинно: proper use of HTTP caching избавит от ненужных запросов к серверу.</title>
 </item>
 </channel>
 </rss>
