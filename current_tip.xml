@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Воистину: функция называется глаголом, класс — существительным. Нарушающий это создаёт путаницу.</title>
+<title>Блаженны реализующие health check endpoint — /health — для load balancer и orchestrator.</title>
 </item>
 </channel>
 </rss>
