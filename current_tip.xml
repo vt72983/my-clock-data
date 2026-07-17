@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: Promise.all — это параллельность. Promise в цикле с await — это последовательность. Знай разницу.</title>
+<title>Истинно: resource limits в K8s — это десять заповедей кластера. Без них — хаос.</title>
 </item>
 </channel>
 </rss>
