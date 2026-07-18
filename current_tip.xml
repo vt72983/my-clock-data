@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: contract testing между сервисами — это способ не узнать о несовместимости в production.</title>
+<title>Истинно: conditional breakpoint — это хирургия отладки. Останавливает только когда нужно.</title>
 </item>
 </channel>
 </rss>
