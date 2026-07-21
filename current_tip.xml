@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не доверяй логам на 100% — они могут быть неполными или буферизованными.</title>
+<title>Воистину: аппаратные counter через perf — это точные данные о CPU events без overhead.</title>
 </item>
 </channel>
 </rss>
