@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: sampling profiler лучше инструментального для production — overhead меньше.</title>
+<title>Истинно: документируй error codes своего API — ибо 'что-то пошло не так' — не документация.</title>
 </item>
 </channel>
 </rss>
