@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не храни sensitive config в source code — используй secret management.</title>
+<title>Говорю вам: chain of responsibility лучше длинного switch для обработки команд.</title>
 </item>
 </channel>
 </rss>
