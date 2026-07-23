@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не возвращай 200 OK при partial failure — используй 207 Multi-Status или правильные коды.</title>
+<title>Говорю вам: версионируй API свои с первого дня, ибо обратная совместимость — это контракт, а не пожелание.</title>
 </item>
 </channel>
 </rss>
