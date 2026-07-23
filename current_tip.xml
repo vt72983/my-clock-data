@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Воистину: ripgrep быстрее grep как орёл быстрее черепахи.</title>
+<title>Не возвращай 200 OK при partial failure — используй 207 Multi-Status или правильные коды.</title>
 </item>
 </channel>
 </rss>
