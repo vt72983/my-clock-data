@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам истинно: не пуши в main напрямую, ибо грех сей не простится тебе ни в этом спринте, ни в следующем.</title>
+<title>Воистину: API first design — сначала контракт, потом реализация. Consumer driven contracts.</title>
 </item>
 </channel>
 </rss>
