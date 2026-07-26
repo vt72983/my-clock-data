@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: virtual scrolling для длинных списков — это милосердие к DOM и пользователю.</title>
+<title>Говорю вам: trampolining — это итеративная реализация хвостовой рекурсии.</title>
 </item>
 </channel>
 </rss>
