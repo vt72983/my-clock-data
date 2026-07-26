@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не тести implementation details — тести behaviour. Рефакторинг не должен ломать тесты.</title>
+<title>Говорю вам: consistency beats cleverness. Скучное предсказуемое имя лучше умного непонятного.</title>
 </item>
 </channel>
 </rss>
