@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Блажен строящий pipeline CI/CD, ибо он освобождает руки свои от монотонного труда.</title>
+<title>Блаженны использующие Error.cause для цепочки ошибок — ибо контекст сохраняется.</title>
 </item>
 </channel>
 </rss>
