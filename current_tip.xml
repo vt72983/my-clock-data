@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: trampolining — это итеративная реализация хвостовой рекурсии.</title>
+<title>Не тести implementation details — тести behaviour. Рефакторинг не должен ломать тесты.</title>
 </item>
 </channel>
 </rss>
