@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не меняй тип поля в JSON ответе — это breaking change даже без версии.</title>
+<title>Не выключай asserts в production — они стоят дёшево и предотвращают катастрофы.</title>
 </item>
 </channel>
 </rss>
