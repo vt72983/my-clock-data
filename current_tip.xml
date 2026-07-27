@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Воистину: хороший инженер знает когда НЕ применять технологию.</title>
+<title>Истинно: async operations с job ID и polling или webhooks для долгих операций.</title>
 </item>
 </channel>
 </rss>
