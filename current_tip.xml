@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: read-heavy workload — добавь replica. Write-heavy — думай о partitioning.</title>
+<title>Говорю вам: DRY — не просто принцип, это заповедь. Не повторяйся. Не повторяйся. Не повторяйся.</title>
 </item>
 </channel>
 </rss>
