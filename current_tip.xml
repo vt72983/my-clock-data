@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не используй ORM там где raw SQL понятнее и эффективнее.</title>
+<title>Не игнорируй dependency vulnerabilities scan — trivy, grype — встрой в pipeline.</title>
 </item>
 </channel>
 </rss>
