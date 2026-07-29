@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Воистину: idempotency key — это спасательный жилет для платёжных операций.</title>
+<title>Говорю вам: pod disruption budget — гарантирует что при rolling update не всё упадёт.</title>
 </item>
 </channel>
 </rss>
