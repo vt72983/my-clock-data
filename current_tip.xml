@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Горе создающим API без pagination! Ибо таблица на миллион строк убьёт клиента вашего.</title>
+<title>Воистину: lazy evaluation — вычисляй только когда нужно. Haskell жил этим всегда.</title>
 </item>
 </channel>
 </rss>
