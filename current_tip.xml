@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: schema migration testing — прогони миграцию на копии prod данных перед применением.</title>
+<title>Говорю вам: Promise.all — это параллельность. Promise в цикле с await — это последовательность. Знай разницу.</title>
 </item>
 </channel>
 </rss>
