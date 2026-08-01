@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Блаженны знающие как работает B-tree индекс внутри — это помогает проектировать запросы.</title>
+<title>Блаженны избегающие primitive obsession — оборачивай примитивы в domain types.</title>
 </item>
 </channel>
 </rss>
