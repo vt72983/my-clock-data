@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Блаженны понимающие разницу между shallow и deep equality в JS.</title>
+<title>Говорю вам: Promise.all — это параллельность. Promise в цикле с await — это последовательность. Знай разницу.</title>
 </item>
 </channel>
 </rss>
