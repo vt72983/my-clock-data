@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: optimistic locking подходит для редких конфликтов, pessimistic — для частых.</title>
+<title>Блаженны понимающие разницу между shallow и deep equality в JS.</title>
 </item>
 </channel>
 </rss>
