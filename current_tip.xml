@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Воистину: golden master testing полезен для legacy систем где поведение непонятно.</title>
+<title>Не зависи от порядка выполнения тестов — каждый тест должен быть независим.</title>
 </item>
 </channel>
 </rss>
