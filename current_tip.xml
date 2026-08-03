@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Блаженны использующие Pydantic для validation — не пиши свои validators.</title>
+<title>Блаженны придерживающиеся одного стиля именования событий — UserCreated или user.created, но не оба.</title>
 </item>
 </channel>
 </rss>
