@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Блаженны реализующие proper multipart upload — большие файлы требуют resumable upload.</title>
+<title>Не создавай IAM user с programmatic access без MFA для человеческих аккаунтов.</title>
 </item>
 </channel>
 </rss>
