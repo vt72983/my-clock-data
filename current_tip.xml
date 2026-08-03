@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: HATEOAS красива в теории, редко полезна на практике. Знай когда применять.</title>
+<title>Блаженны использующие Pydantic для validation — не пиши свои validators.</title>
 </item>
 </channel>
 </rss>
