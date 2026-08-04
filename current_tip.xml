@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Блаженны понимающие cache locality — данные рядом в памяти обрабатываются быстрее.</title>
+<title>Воистину: префикс get в функции означает отсутствие side effects. Нарушающий это лжёт именем.</title>
 </item>
 </channel>
 </rss>
