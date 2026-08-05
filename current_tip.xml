@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: sampling profiler лучше инструментального для production — overhead меньше.</title>
+<title>Воистину: FastAPI + Pydantic + SQLAlchemy — современный trinity Python web stack.</title>
 </item>
 </channel>
 </rss>
