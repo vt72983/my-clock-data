@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: binary search по коду — разделяй пополам и находи баг быстрее.</title>
+<title>Истинно: zero-copy networking — sendfile() передаёт данные без копирования в user space.</title>
 </item>
 </channel>
 </rss>
