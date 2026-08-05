@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: multiprocessing для CPU-bound, asyncio для IO-bound, threading для legacy.</title>
+<title>Воистину: чем лучше ты понимаешь низкий уровень, тем лучше решения на высоком.</title>
 </item>
 </channel>
 </rss>
