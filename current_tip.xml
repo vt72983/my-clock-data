@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: match statement в Python 3.10+ — это pattern matching как в Haskell.</title>
+<title>Истинно: принцип наименьшего удивления — код должен делать то, что ожидается по его виду.</title>
 </item>
 </channel>
 </rss>
