@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не кладите бизнес-логику в контроллер — ибо жирный контроллер есть оскорбление архитектуры.</title>
+<title>Не строй monorepo без tooling для него — Nx, Turborepo, Bazel — выбери подходящий.</title>
 </item>
 </channel>
 </rss>
