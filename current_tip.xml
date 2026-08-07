@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Блаженны умеющие задавать уточняющие вопросы перед реализацией — они не делают лишнего.</title>
+<title>Не храни sensitive config в source code — используй secret management.</title>
 </item>
 </channel>
 </rss>
