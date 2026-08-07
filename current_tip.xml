@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не держи конфиг в docker image — передавай через env vars или config maps.</title>
+<title>Истинно: structlog для structured logging в Python — JSON логи из коробки.</title>
 </item>
 </channel>
 </rss>
