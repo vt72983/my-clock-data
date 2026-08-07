@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не храни sensitive config в source code — используй secret management.</title>
+<title>Не кладите бизнес-логику в контроллер — ибо жирный контроллер есть оскорбление архитектуры.</title>
 </item>
 </channel>
 </rss>
