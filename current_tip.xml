@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: принцип наименьшего удивления — код должен делать то, что ожидается по его виду.</title>
+<title>Не держи конфиг в docker image — передавай через env vars или config maps.</title>
 </item>
 </channel>
 </rss>
