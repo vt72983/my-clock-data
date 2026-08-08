@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: EXPLAIN показывает план — EXPLAIN ANALYZE показывает реальность. Разница важна.</title>
+<title>Не проектируй API для internal use так же как для external — требования разные.</title>
 </item>
 </channel>
 </rss>
