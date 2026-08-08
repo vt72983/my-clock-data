@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: grep -r незаменим, но ripgrep в 10 раз быстрее. Установи уже.</title>
+<title>Не игнорируй overflow в целочисленных вычислениях — это источник security уязвимостей.</title>
 </item>
 </channel>
 </rss>
