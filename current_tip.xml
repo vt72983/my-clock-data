@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не проектируй API для internal use так же как для external — требования разные.</title>
+<title>Воистину: статический анализ кода находит баги без запуска программы. Запускай в CI.</title>
 </item>
 </channel>
 </rss>
