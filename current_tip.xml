@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Блаженны настраивающие lifecycle policies для S3 — ибо они не платят за старые логи вечно.</title>
+<title>Блаженны думающие о failure modes при проектировании — ибо системы падают, и нужен план.</title>
 </item>
 </channel>
 </rss>
