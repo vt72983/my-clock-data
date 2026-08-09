@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: simd instructions — параллельные операции над векторами данных. Мощно для числодробилок.</title>
+<title>Не строй sync между сервисами там где async достаточен.</title>
 </item>
 </channel>
 </rss>
