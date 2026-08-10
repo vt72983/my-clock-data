@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: speculative execution — CPU делает работу заранее. Алгоритмы должны это учитывать.</title>
+<title>Блаженны умеющие profiling в production с minimal overhead — continuous profiling как Pyroscope.</title>
 </item>
 </channel>
 </rss>
