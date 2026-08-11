@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не пренебрегай connection keep-alive — повторное использование соединений экономит latency.</title>
+<title>Блаженны реализующие graceful degradation, ибо когда один сервис падает, другие продолжают работать.</title>
 </item>
 </channel>
 </rss>
