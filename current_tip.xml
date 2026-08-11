@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Блаженны понимающие critical rendering path — ибо они оптимизируют first contentful paint.</title>
+<title>Блажен последовательный в именовании — camelCase или snake_case, но не оба в одном файле.</title>
 </item>
 </channel>
 </rss>
