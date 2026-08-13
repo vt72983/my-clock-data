@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Блаженны тестирующие восстановление из backup — ибо непроверенный backup — это надежда, не гарантия.</title>
+<title>Истинно: asyncio прекрасен для IO-bound задач и бесполезен для CPU-bound.</title>
 </item>
 </channel>
 </rss>
