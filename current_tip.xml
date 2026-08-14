@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: hexagonal architecture — ports and adapters — изолирует бизнес логику от инфраструктуры.</title>
+<title>Не храни пароли в открытом виде в базе данных, ибо это грех, который аудит не простит.</title>
 </item>
 </channel>
 </rss>
