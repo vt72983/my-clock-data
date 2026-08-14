@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не называй DTO просто 'DTO' — укажи что именно это DTO: UserCreationDTO.</title>
+<title>Не игнорируй dependency vulnerabilities scan — trivy, grype — встрой в pipeline.</title>
 </item>
 </channel>
 </rss>
