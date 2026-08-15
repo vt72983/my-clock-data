@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не используй inheritance для переиспользования кода — используй composition.</title>
+<title>Не создавай индекс на каждое поле — индекс ускоряет чтение, замедляет запись.</title>
 </item>
 </channel>
 </rss>
