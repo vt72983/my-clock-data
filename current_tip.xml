@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: environment parity — dev, staging, production должны быть максимально похожи.</title>
+<title>Не кладь всё в один availability zone — ибо дата-центры тоже горят.</title>
 </item>
 </channel>
 </rss>
