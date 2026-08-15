@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не используй delete для удаления из объекта в hot path — это деоптимизация V8.</title>
+<title>Воистину: jsonb в PostgreSQL — это мощно. Но если всё в jsonb — ты отрицаешь реляционность.</title>
 </item>
 </channel>
 </rss>
