@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не используй delete для удаления из объекта в hot path — это деоптимизация V8.</title>
+<title>Истинно: asyncio прекрасен для IO-bound задач и бесполезен для CPU-bound.</title>
 </item>
 </channel>
 </rss>
