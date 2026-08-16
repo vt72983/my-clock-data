@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: tell don't ask — командуй объекту что делать, не спрашивай его состояние.</title>
+<title>Воистину: API deprecation — уведомляй заранее, давай migration guide, держи обещания.</title>
 </item>
 </channel>
 </rss>
