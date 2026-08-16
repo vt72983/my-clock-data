@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: definition of ready так же важен как definition of done.</title>
+<title>Блаженны использующие test fixtures с setup/teardown — изоляция состояния между тестами.</title>
 </item>
 </channel>
 </rss>
