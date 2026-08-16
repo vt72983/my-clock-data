@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: principle of fail-safe defaults — запрещено всё, что не разрешено явно.</title>
+<title>Говорю вам: tell don't ask — командуй объекту что делать, не спрашивай его состояние.</title>
 </item>
 </channel>
 </rss>
