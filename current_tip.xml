@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не используй LIKE '%term%' — это full table scan. Используй full-text search.</title>
+<title>Блаженны тестирующие восстановление из backup — ибо непроверенный backup — это надежда, не гарантия.</title>
 </item>
 </channel>
 </rss>
