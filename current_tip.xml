@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не кладь всё в один availability zone — ибо дата-центры тоже горят.</title>
+<title>Говорю вам: write-ahead log — основа многих баз данных и distributed систем.</title>
 </item>
 </channel>
 </rss>
