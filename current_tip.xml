@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не полагайся на интуицию при отладке — записывай гипотезы и проверяй их.</title>
+<title>Не игнорируй CORS preflight — OPTIONS запрос должен быть обработан правильно.</title>
 </item>
 </channel>
 </rss>
