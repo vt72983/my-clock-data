@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: Crossplane — управляй облачными ресурсами через Kubernetes API.</title>
+<title>Не удаляй production ресурсы без подтверждения второго человека — ибо сие есть двойной контроль во спасение.</title>
 </item>
 </channel>
 </rss>
