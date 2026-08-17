@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Воистину: work in progress limit в kanban — это мудрость против параллельной перегрузки.</title>
+<title>Не используй имена из контекста — если ты в UserService, не называй метод getUserUserData.</title>
 </item>
 </channel>
 </rss>
