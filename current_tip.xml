@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: read-heavy workload — добавь replica. Write-heavy — думай о partitioning.</title>
+<title>Горе тому, кто меняет случайные части кода в надежде починить баг! Сие называется 'programming by coincidence'.</title>
 </item>
 </channel>
 </rss>
