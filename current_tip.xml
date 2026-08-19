@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не используй мутабельные объекты как ключи словаря — они не hashable.</title>
+<title>Истинно: newtype pattern — оборачивай примитивы для type safety.</title>
 </item>
 </channel>
 </rss>
