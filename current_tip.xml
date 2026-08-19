@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не называй метод 'doStuff' — это не имя, это отказ думать.</title>
+<title>Истинно: web workers позволяют не блокировать main thread. Используй их для тяжёлых вычислений.</title>
 </item>
 </channel>
 </rss>
