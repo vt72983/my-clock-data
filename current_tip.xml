@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не используй root для повседневной работы — ибо команда rm -rf с sudo не прощает ошибок.</title>
+<title>Не бойся strangler fig pattern — медленное вытеснение легаси лучше большого взрыва рефакторинга.</title>
 </item>
 </channel>
 </rss>
