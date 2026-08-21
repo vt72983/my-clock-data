@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: tmux или screen позволяют не терять сессию при разрыве SSH. Это спасение.</title>
+<title>Говорю вам: schema migration testing — прогони миграцию на копии prod данных перед применением.</title>
 </item>
 </channel>
 </rss>
