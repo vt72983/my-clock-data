@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: schema migration testing — прогони миграцию на копии prod данных перед применением.</title>
+<title>Говорю вам: prefetch instruction — намекай процессору загрузить данные заранее.</title>
 </item>
 </channel>
 </rss>
