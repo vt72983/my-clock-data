@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Воистину: partial index — это индекс только на нужные строки. Меньше, быстрее, умнее.</title>
+<title>Горе создающим API без pagination! Ибо таблица на миллион строк убьёт клиента вашего.</title>
 </item>
 </channel>
 </rss>
