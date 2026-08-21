@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Блаженны использующие httpx вместо requests для async HTTP в Python.</title>
+<title>Блаженны использующие dependency injection в Python — ибо тестируемость их высока.</title>
 </item>
 </channel>
 </rss>
