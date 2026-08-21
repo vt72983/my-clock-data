@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Воистину: observability-driven development — пиши код с учётом того как будешь отлаживать.</title>
+<title>Не проектируй для десяти миллионов пользователей, когда у тебя десять. Масштабируйся по мере роста.</title>
 </item>
 </channel>
 </rss>
