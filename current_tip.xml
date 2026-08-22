@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: web worker shared memory через SharedArrayBuffer — осторожно с race conditions.</title>
+<title>Говорю вам: add logging before you need it, not after the incident.</title>
 </item>
 </channel>
 </rss>
