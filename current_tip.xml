@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не используй pickle для untrusted данных — это remote code execution в маскарадном костюме.</title>
+<title>Воистину: E2E тесты медленны, но они единственные, кто проверяют систему как пользователь.</title>
 </item>
 </channel>
 </rss>
