@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: memoization vs caching — мемоизация в процессе, кэш за пределами.</title>
+<title>Говорю вам: approval testing — тестируй человекочитаемый output, а не raw JSON.</title>
 </item>
 </channel>
 </rss>
