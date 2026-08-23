@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не используй datetime.now() в production — используй datetime.utcnow() или aware datetime.</title>
+<title>Не мутируй state напрямую в React — ибо компонент не перерендерится и ты не поймёшь почему.</title>
 </item>
 </channel>
 </rss>
