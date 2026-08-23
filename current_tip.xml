@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Блаженны знающие CAP теорему, ибо они не удивятся eventual consistency.</title>
+<title>Блаженны применяющие early return — ибо они избегают вложенности и сохраняют читаемость.</title>
 </item>
 </channel>
 </rss>
