@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не используй synchronous XHR — это блокирует main thread и устарело.</title>
+<title>Блаженны умеющие читать HTTP архивы (HAR) — ибо производительность frontend видна как на ладони.</title>
 </item>
 </channel>
 </rss>
