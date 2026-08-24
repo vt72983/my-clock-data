@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Блаженны знающие разницу между lock escalation и lock contention.</title>
+<title>Истинно: logging module лучше print для production кода.</title>
 </item>
 </channel>
 </rss>
