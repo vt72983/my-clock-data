@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: type system — это первый набор тестов. Если компилируется — уже кое-что.</title>
+<title>Истинно: web worker shared memory через SharedArrayBuffer — осторожно с race conditions.</title>
 </item>
 </channel>
 </rss>
