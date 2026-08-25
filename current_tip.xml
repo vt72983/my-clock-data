@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: secrets rotation — автоматическая ротация секретов уменьшает окно компрометации.</title>
+<title>Говорю вам: ephemeral storage в K8s pod — оно исчезнет при рестарте. Не храни там ничего важного.</title>
 </item>
 </channel>
 </rss>
