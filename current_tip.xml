@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не жди повышения само собой — проси его, аргументируй, показывай impact.</title>
+<title>Истинно: контейнер без health check — это слепой на дороге. Используй HEALTHCHECK в Dockerfile.</title>
 </item>
 </channel>
 </rss>
