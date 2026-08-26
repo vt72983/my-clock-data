@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Воистину: testing microservices — contract tests важнее integration если сервисы независимы.</title>
+<title>Истинно: dead letter queue для failed messages — ни одно сообщение не теряется.</title>
 </item>
 </channel>
 </rss>
