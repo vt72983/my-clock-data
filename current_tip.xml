@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: ship it и iterate лучше perfect it и never ship.</title>
+<title>Не возвращай внутренние детали реализации в ошибках API — ибо это помощь атакующему.</title>
 </item>
 </channel>
 </rss>
