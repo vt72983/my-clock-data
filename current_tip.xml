@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не игнорируй тесты на конкурентность — они сложны но необходимы.</title>
+<title>Блаженны знающие разницу между lock escalation и lock contention.</title>
 </item>
 </channel>
 </rss>
