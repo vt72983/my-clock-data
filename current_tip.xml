@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: web worker shared memory через SharedArrayBuffer — осторожно с race conditions.</title>
+<title>Блаженны применяющие early return — ибо они избегают вложенности и сохраняют читаемость.</title>
 </item>
 </channel>
 </rss>
