@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Воистину: FastAPI + Pydantic + SQLAlchemy — современный trinity Python web stack.</title>
+<title>Воистину: namedtuple или dataclass — выбери структуру данных правильно.</title>
 </item>
 </channel>
 </rss>
