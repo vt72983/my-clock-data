@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: consumer group в Kafka — это горизонтальное масштабирование обработки сообщений.</title>
+<title>Блаженны знающие CAP теорему, ибо они не удивятся eventual consistency.</title>
 </item>
 </channel>
 </rss>
