@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Блаженны понимающие prototype chain — ибо JS не скроет от них своих тайн.</title>
+<title>Говорю вам: GraphQL resolver N+1 — это та же проблема что и в ORM, просто с другим именем.</title>
 </item>
 </channel>
 </rss>
