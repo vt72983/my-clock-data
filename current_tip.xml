@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: shift-left testing — чем раньше найдёшь баг, тем дешевле исправить.</title>
+<title>Не возвращай 500 с пустым телом — скажи клиенту, что случилось. Немота в API есть жестокость.</title>
 </item>
 </channel>
 </rss>
