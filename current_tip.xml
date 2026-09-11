@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: canary deployment позволяет проверить изменение на малом проценте пользователей.</title>
+<title>Горе удаляющим данные без soft delete в первый раз — восстановления не будет.</title>
 </item>
 </channel>
 </rss>
