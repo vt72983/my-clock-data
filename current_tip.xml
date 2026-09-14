@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: namespace для enum избегает конфликтов — Color.RED лучше чем RED.</title>
+<title>Не храни state в подах Kubernetes, ибо под смертен, а данные должны быть вечны.</title>
 </item>
 </channel>
 </rss>
