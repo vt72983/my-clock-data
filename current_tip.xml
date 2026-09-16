@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: parameterized tests — один тест, много входных данных.</title>
+<title>Блаженны практикующие property-based testing — ибо случайные входы находят баги, о которых не думали.</title>
 </item>
 </channel>
 </rss>
