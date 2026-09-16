@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не используй глобальные переменные в Python — ибо это путь к непредсказуемости.</title>
+<title>Говорю вам: parameterized tests — один тест, много входных данных.</title>
 </item>
 </channel>
 </rss>
