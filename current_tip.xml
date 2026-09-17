@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не тестируй только happy path — sad path, error path, edge cases важны не меньше.</title>
+<title>Не используй AWS Lambda для long-running processes — это не назначение.</title>
 </item>
 </channel>
 </rss>
