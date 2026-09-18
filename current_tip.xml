@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Воистину: test data builder паттерн — создаёт тестовые объекты гибко и читаемо.</title>
+<title>Не называй переменную data если это userProfileData.</title>
 </item>
 </channel>
 </rss>
