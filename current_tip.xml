@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Воистину: git stash — это временное убежище мыслей, но не архив. Не забывай о stash'ах своих.</title>
+<title>Блаженны реализующие proper backoff при retry — exponential with jitter.</title>
 </item>
 </channel>
 </rss>
