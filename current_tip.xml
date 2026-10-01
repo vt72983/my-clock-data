@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: лучший код — это тот, который не написан. Удали ненужное.</title>
+<title>Не называй переменную data если это userProfileData.</title>
 </item>
 </channel>
 </rss>
