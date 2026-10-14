@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не используй synchronous XHR — это блокирует main thread и устарело.</title>
+<title>Блажен тот разработчик, что оставляет код чуть лучше, чем нашёл его. Это правило бойскаута, а не просьба.</title>
 </item>
 </channel>
 </rss>
