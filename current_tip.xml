@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Говорю вам: всё должно быть в коде — инфраструктура, конфиги, документация. Если не в репо — его не существует.</title>
+<title>Воистину: API first design — сначала контракт, потом реализация. Consumer driven contracts.</title>
 </item>
 </channel>
 </rss>
