@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Ищите баг в первую очередь в своём коде, а не в коде библиотеки — ибо смиренномудрие есть начало отладки.</title>
+<title>Говорю вам: match statement в Python 3.10+ — это pattern matching как в Haskell.</title>
 </item>
 </channel>
 </rss>
