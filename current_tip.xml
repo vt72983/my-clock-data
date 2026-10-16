@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: zero-copy networking — sendfile() передаёт данные без копирования в user space.</title>
+<title>Говорю вам: dataclasses в Python — это благодать над __init__ с двадцатью полями.</title>
 </item>
 </channel>
 </rss>
