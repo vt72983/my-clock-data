@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Воистину: chaos engineering — Netflix Chaos Monkey приучил мир к resilience testing.</title>
+<title>Не используй root для повседневной работы — ибо команда rm -rf с sudo не прощает ошибок.</title>
 </item>
 </channel>
 </rss>
