@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Воистину: Web Components — стандарт, который наконец-то стал удобным в 2026.</title>
+<title>Не строй sync там, где async даёт лучший UX и throughput.</title>
 </item>
 </channel>
 </rss>
