@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Блаженны использующие test doubles правильно — stub, spy, mock, fake. Каждый для своего.</title>
+<title>Воистину: API first design — сначала контракт, потом реализация. Consumer driven contracts.</title>
 </item>
 </channel>
 </rss>
