@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: newtype pattern — оборачивай примитивы для type safety.</title>
+<title>Истинно: ABC — abstract base class — для явного контракта в Python коде.</title>
 </item>
 </channel>
 </rss>
