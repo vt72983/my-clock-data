@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Истинно: метрики лучше логов для агрегированного состояния. Оба нужны, для разного.</title>
+<title>Воистину: local development с docker compose — воспроизводимая среда для всей команды.</title>
 </item>
 </channel>
 </rss>
