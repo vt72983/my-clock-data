@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не изменяй prod схему без миграционного скрипта — даже 'маленькое' изменение.</title>
+<title>Говорю вам: logical replication в PostgreSQL позволяет гибко реплицировать subset данных.</title>
 </item>
 </channel>
 </rss>
