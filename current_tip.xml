@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Не тести implementation details — тести behaviour. Рефакторинг не должен ломать тесты.</title>
+<title>Говорю вам: chain of responsibility лучше длинного switch для обработки команд.</title>
 </item>
 </channel>
 </rss>
