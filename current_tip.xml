@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Ищите и найдёте нужный коммит; стучите — и git log откроет вам правду.</title>
+<title>Не возвращай стек вызовов в production API response — это раскрытие внутренностей.</title>
 </item>
 </channel>
 </rss>
