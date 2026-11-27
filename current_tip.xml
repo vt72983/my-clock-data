@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Горе создающим API без pagination! Ибо таблица на миллион строк убьёт клиента вашего.</title>
+<title>Блаженны использующие httpx вместо requests для async HTTP в Python.</title>
 </item>
 </channel>
 </rss>
